@@ -103,6 +103,19 @@ if(!length(image_filename) > 0){
     stringr::str_split("\\s+From: ", simplify = TRUE)
   article_title <- titles[,2] %>% 
     stringr::str_trim()
+  number <- page.source %>%
+    rvest::html_nodes(".rprt_img") %>%
+    rvest::html_node("img") %>%
+    rvest::html_attr("alt")
+  caption <- page.source %>%
+    rvest::html_nodes(".rprt_img") %>%
+    rvest::html_node(xpath = "..") %>%
+    rvest::html_node(".rprt_cont") %>%
+    rvest::html_node(".supp") %>%
+    rvest::html_text()
+  figure_link <- page.source %>%
+    rvest::html_nodes(".rprt_img") %>%
+    rvest::html_attr("image-link")
   citation <- page.source %>%
     rvest::html_nodes(".rprt_img") %>%
     rvest::html_node(xpath='..') %>%
@@ -120,8 +133,42 @@ if(!length(image_filename) > 0){
     stringr::str_match("PMC\\d+") %>%
     as.character()
   
+  ## Extract best figure title from analysis of provided figure number, title and caption
+  temp.df <- data.frame(n = number, t = titles[, 1], c = caption, stringsAsFactors = FALSE) %>%
+    mutate(t = str_trim(str_remove(
+      t, fixed(
+        as.character(
+          if_else(
+            number != "",
+            number,
+            "a string just to suppress the empty search patterns warning message"
+          )
+        )
+      )
+    ))) %>%
+    mutate(t = str_trim(str_remove(
+      t,
+      "\\.$"
+    ))) %>%
+    mutate(t = if_else(!is.na(str_match(t,"^\\. .*")[,1]),
+                       str_remove(t, "^\\. "), 
+                       t)) %>%
+    mutate(c = str_trim(str_replace(
+      c,
+      "\\.\\.", "\\."
+    ))) %>%
+    mutate(c = if_else(is.na(c), t, c)) %>%
+    mutate(t = str_trim(str_remove(
+      t,
+      "\\.+$"
+    ))) %>%
+    mutate(n = str_trim(str_replace(n, "\\.$", "")))
+  number <- as.character(temp.df[, 1])
+  figure_title <- as.character(temp.df[, 2])
+  caption <- as.character(temp.df[, 3])
+  
   ## Prepare df and write to R.object and tsv
-  df <- data.frame(pmcid, image_filename,  article_title, citation) 
+  df <- data.frame(pmcid, image_filename, figure_link, number, figure_title, caption, article_title, citation) 
   df <- unique(df)
   
   ## Log run
@@ -129,12 +176,12 @@ if(!length(image_filename) > 0){
   
   ## For each figure...
   for (a in 1:nrow(df)){
-
+    #slice of df from above
+    article.data <- df[a,]
+    
     #################
     ## MORE METADATA
     #################
-    
-    article.data <- df[a,]
     md.query <- paste0("https://www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi?verb=GetRecord&identifier=oai:pubmedcentral.nih.gov:",gsub("PMC","", article.data$pmcid),"&metadataPrefix=pmc_fm")
     md.source <- xml2::read_html(md.query) 
     doi <- md.source %>%
@@ -156,9 +203,11 @@ if(!length(image_filename) > 0){
       rvest::html_nodes(xpath=".//kwd") %>% 
       purrr::map(~rvest::html_text(.)) %>%
       unlist() %>% 
-      unique()
+      unique() %>%
+      trimws()
     
-    md.data <- data.frame(doi,journal_title, journal_nlm_ta, publisher_name)
+    md.data <- data.frame(doi,journal_title, journal_nlm_ta, publisher_name) %>%
+      mutate_all(~if_else(is.na(.), "", as.character(.)))
     
     #################
     ## MAKE MEMORIES
@@ -173,7 +222,12 @@ if(!length(image_filename) > 0){
     write(yaml::as.yaml(article.data), yml.path, append = T)
     write(yaml::as.yaml(md.data), yml.path, append = T)
     write("keywords:", yml.path, append = T)
-    write(yaml::as.yaml(keywords), yml.path, append = T)
+    if(length(keywords)>1){ # as.yaml makes list
+      write(yaml::as.yaml(keywords), yml.path, append = T)
+    } else if (length(keywords)==1) { # manually make list of one
+      write(paste("-",yaml::as.yaml(keywords)), yml.path, append = T)
+    } else { #leave empty
+    }
     write("---", yml.path, append = T)
     
     ## download image from PMC, politely
@@ -185,7 +239,11 @@ if(!length(image_filename) > 0){
       `user-agent` = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36'
     )
     res <- httr::GET(url = img.from.path, httr::add_headers(.headers=headers))
-    jpg <- jpeg::readJPEG(res$content)
-    jpeg::writeJPEG(jpg, img.to.path)
-  }
-}
+    content_type <- headers(res)$`Content-Type`
+    if (content_type == "image/jpeg"){
+      jpg <- jpeg::readJPEG(res$content)
+      jpeg::writeJPEG(jpg, img.to.path)
+    } 
+    Sys.sleep(1) #API rate limit
+  } #end for each figure
+} #end if results
