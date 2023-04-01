@@ -1,0 +1,30 @@
+---
+pmcid: PMC10040182
+image_filename: peerj-11-15054-g005.jpg
+figure_link: /pmc/articles/PMC10040182/figure/fig-5/
+number: Figure 5
+figure_title: The differentially expressed long non-coding RNA (lncRNA) associated
+  competing endogenous (ceRNA) network, the protein–protein interaction (PPI) network
+  and the functional enrichment of the co-target mRNA
+caption: (A) The ceRNA network of 101 pairs of lncRNA-miRNA-mRNA relationships, visualized
+  by Cytoscape; (B) the PPI network of the 24 co-identified target genes, acquired
+  from the intersection of miRNA-predicted-mRNAs and differentially expressed mRNAs,
+  and visualized by the String database (https://cn.string-db.org); (C) the GO analysis
+  and (D) the KEGG analysis of the co-identified target genes.
+article_title: ceRNA network construction and identification of hub genes as novel
+  therapeutic targets for age-related cataracts using bioinformatics.
+citation: Yingying Hong, et al. PeerJ. 2023;11:e15054.
+
+doi: 10.7717/peerj.15054
+journal_title: PeerJ
+journal_nlm_ta: PeerJ
+publisher_name: PeerJ Inc.
+
+keywords:
+- Age-related cataract
+- lncRNA
+- ceRNA network
+- Enrichment analysis
+- Bioinformatics
+
+---

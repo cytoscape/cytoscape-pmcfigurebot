@@ -1,0 +1,29 @@
+---
+pmcid: PMC10046193
+image_filename: biomolecules-13-00482-g004.jpg
+figure_link: /pmc/articles/PMC10046193/figure/biomolecules-13-00482-f004/
+number: Figure 4
+figure_title: ''
+caption: PPI analysis and hub gene identification. (A) PPI network of 49 differentially
+  expressed NRGs constructed using STRING and Cytoscape. (B) Top 10 hub genes explored
+  using cytoHubba. (C) Key module screened by MCODE clustering analysis. (D) Heatmap
+  of the correlations of 10 necroptosis-related hub genes. (E) Overlap of predicted
+  hub genes.
+article_title: Identification and Analysis of Necroptosis-Related Genes in COPD by
+  Bioinformatics and Experimental Verification.
+citation: Yingxi Wang, et al. Biomolecules. 2023 Mar;13(3):482.
+
+doi: 10.3390/biom13030482
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- necroptosis
+- chronic obstructive pulmonary disease
+- immune infiltration
+- diagnostic biomarker
+- TF–miRNA coregulatory network
+- potential therapeutic drug
+
+---

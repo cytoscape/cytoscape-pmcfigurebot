@@ -1,0 +1,36 @@
+---
+pmcid: PMC10050551
+image_filename: fgene-14-1151651-g003.jpg
+figure_link: /pmc/articles/PMC10050551/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: Expression of hub-genes in bone. (A) A PPI network was generated based on
+  cDEGs using Cytoscape (combined score ≥ 0.9), upregulated genes are marked in dark
+  red; downregulated genes are marked in dark blue. (B) The interaction network of
+  the 10 nodes with the highest degree scores. The red, orange, and yellow nodes represented
+  the top 10 hub genes in the network. (C) Venn diagram was mapped by the screened
+  gene in PPI and the candidate genes selected by random forest algorithm and LASSO
+  regression modeling, and four overlapped genes were obtained. (D) Four hub-genes
+  in bone marrow tissues were verified by THPA database. It was showed high level
+  of PECAM1 and ITGB3 genes in bone marrow, while COL3A1 and CD4 exhibited low level.
+  (E) q-PCR results indicated that the expression levels of PECAM1 decreased significantly,
+  but COL3A1; ITGB3 and CD4 had no significant difference in the expression of bone
+  metastases tumor tissues. Data are shown as the mean ± SD, * means p <0.05 vs. the
+  control group.
+article_title: PECAM1 plays a role in the pathogenesis and treatment of bone metastases.
+citation: Zhuo-Tao Liang, et al. Front Genet. 2023;14:1151651.
+
+doi: 10.3389/fgene.2023.1151651
+journal_title: Frontiers in Genetics
+journal_nlm_ta: Front Genet
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- PECAM1
+- bone metastasis
+- osteoclast
+- breast cancer
+- prostate cancer
+- biomarker
+
+---

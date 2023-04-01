@@ -1,0 +1,34 @@
+---
+pmcid: PMC10049738
+image_filename: ijms-24-05148-g008.jpg
+figure_link: /pmc/articles/PMC10049738/figure/ijms-24-05148-f008/
+number: Figure 8
+figure_title: ''
+caption: Network of protein-protein interactions of PARP1-dependent genes (green circles)
+  obtained using the STRING tool. Pink hexagon—PARP1. The association between PARP1
+  and NEIL1 is highlighted in red []. The color intensity of nodes depends on the
+  fold change in expression in PARP1 knockout cells compared to wild type cells. Rendered
+  with Cytoscape v3.7.2. The PPI network was built with a minimum required interaction
+  score of 0.7.
+article_title: Transcriptomic Analysis of CRISPR/Cas9-Mediated PARP1-Knockout Cells
+  under the Influence of Topotecan and TDP1 Inhibitor.
+citation: Nadezhda S. Dyrkheeva, et al. Int J Mol Sci. 2023 Mar;24(6):5148.
+
+doi: 10.3390/ijms24065148
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- poly(ADP-ribose) polymerase 1
+- HEK293A
+- transcriptome
+- PARP1 knockout
+- topoisomerase 1
+- tyrosyl-DNA phosphodiesterase 1
+- TDP1 inhibitor
+- topotecan
+- DMSO
+- DNA repair
+
+---

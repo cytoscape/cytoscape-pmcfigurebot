@@ -1,0 +1,34 @@
+---
+pmcid: PMC10046968
+image_filename: diagnostics-13-01142-g004.jpg
+figure_link: /pmc/articles/PMC10046968/figure/diagnostics-13-01142-f004/
+number: Figure 4
+figure_title: ''
+caption: Important sub-networks and nodes obtained from cytohubba plug-in of Cytoscape
+  software using six topological algorithms. The top 15 hub genes were evaluated in
+  the PPI network using these six calculation methods. Red color circles represent
+  the hub genes of interest in this study, and green color circles represent the adjoining
+  genes obtained from network. (a) Sub-network obtained from closeness topological
+  algorithm. The nodes in red represent the top-ranked hub genes. (b) Sub-network
+  and hub genes obtained from degree topological algorithm. (c) Sub-network and hub
+  genes obtained from EPC topological algorithm. (d) Sub-network and hub genes obtained
+  from MCC topological algorithm. (e) Sub-network and hub genes obtained from MNC
+  topological algorithm. (f) Sub-network and hub genes obtained from radiality topological
+  algorithm. The hub genes are shown in red color in all 6 topologies.
+article_title: Demystifying the Role of Prognostic Biomarkers in Breast Cancer through
+  Integrated Transcriptome and Pathway Enrichment Analyses.
+citation: Divya Mishra, et al. Diagnostics (Basel). 2023 Mar;13(6):1142.
+
+doi: 10.3390/diagnostics13061142
+journal_title: Diagnostics
+journal_nlm_ta: Diagnostics (Basel)
+publisher_name: MDPI
+
+keywords:
+- gene
+- molecular diagnostic
+- prognosis
+- therapy
+- database
+
+---

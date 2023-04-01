@@ -1,0 +1,33 @@
+---
+pmcid: PMC10058294
+image_filename: ijms-24-05784-g003.jpg
+figure_link: /pmc/articles/PMC10058294/figure/ijms-24-05784-f003/
+number: Figure 3
+figure_title: ''
+caption: Protein–protein interaction (PPI) network of differentially expressed proteins
+  in A549 cells with empty vectors and A549 cells transfected with SARS-CoV-2 N protein.
+  Physical or/and functional interactions are highlighted by thicker edges and in
+  consideration of experimental (STRING score > 0.15) and database (STRING score >
+  0.35) annotated interactions. The networks were visualized by Cytoscape v.3.9.1
+  software, while biological processes were retrieved by STRING enrichment. The color
+  code of distinct nodes reflects the differential expression of a protein in the
+  examined conditions (orange for up-regulated in A549 with empty vector and blue
+  light for up-regulated in A549 with SARS-CoV-2 N protein).
+article_title: Interaction of SARS-CoV-2 Nucleocapsid Protein and Human RNA Helicases
+  DDX1 and DDX3X Modulates Their Activities on Double-Stranded RNA.
+citation: Camilla Lodola, et al. Int J Mol Sci. 2023 Mar;24(6):5784.
+
+doi: 10.3390/ijms24065784
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- SARS-CoV-2
+- dead-box RNA helicase
+- RNA binding
+- nucleocapsid
+- DDX3X
+- DDX1
+
+---

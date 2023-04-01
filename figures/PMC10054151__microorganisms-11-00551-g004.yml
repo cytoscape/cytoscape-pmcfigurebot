@@ -1,0 +1,43 @@
+---
+pmcid: PMC10054151
+image_filename: microorganisms-11-00551-g004.jpg
+figure_link: /pmc/articles/PMC10054151/figure/microorganisms-11-00551-f004/
+number: Figure 4
+figure_title: ''
+caption: 'PPI network analysis identified top 3 clusters and 10 hub genes dysregulated
+  by both T. vaginalis and P. bivia. (A) Top three main clusters identified by Cytoscape:
+  Blue and orange circles (nodes) depict putatively down- and up-regulated proteins,
+  respectively. TGFBR2 (green node) had its expression predicted in both directions.
+  Edges represent interactions of proteins estimated from up-regulated (pink lines)
+  or down-regulated (green lines) miRNAs data sets. Cluster 1:33 nodes and 55 edges,
+  cluster 2:22 nodes and 58 edges, and cluster 3:17 nodes and 48 edges (proteins are
+  shown in ). Donut semicircles show proteins enriched in terms related to the female
+  reproductive system (green), female reproductive gland (pink), and internal female
+  genital organs (yellow) (TISSUES database). (B) PPI between the top-10 hub genes
+  identified from the merged network, determined by CytoHubba according to MCC analysis.
+  Colors depict centrality score from higher (red) to lower (yellow) values (values
+  are shown in ). (C) EV-miRNAs targeting the 10 hub genes, plotted according to the
+  total number of 3′UTR target sites including splicing variants (respective expression
+  values are shown in ).'
+article_title: The microRNA Cargo of Human Vaginal Extracellular Vesicles Differentiates
+  Parasitic and Pathobiont Infections from Colonization by Homeostatic Bacteria.
+citation: Paula Fernandes Tavares Cezar-de-Mello, et al. Microorganisms. 2023 Mar;11(3):551.
+
+doi: 10.3390/microorganisms11030551
+journal_title: Microorganisms
+journal_nlm_ta: Microorganisms
+publisher_name: MDPI
+
+keywords:
+- miRNA
+- Trichomonas vaginalis
+- Prevotella bivia
+- Lactobacillus crispatus
+- bacterial vaginosis
+- dysbiosis
+- exosome
+- female reproductive tract
+- estrogen receptor 1 (ESR1)
+- glucocorticoid receptor (NR3C1)
+
+---

@@ -1,0 +1,35 @@
+---
+pmcid: PMC10046494
+image_filename: biomolecules-13-00488-g002.jpg
+figure_link: /pmc/articles/PMC10046494/figure/biomolecules-13-00488-f002/
+number: Figure 2
+figure_title: ''
+caption: 'Effect of physical exercise on transcriptomic down-expression in tarsal
+  joints of mice with collagen-induced arthritis. The lists of the down-expressed
+  genes in the CIA-Ex mice with respect to control (Z-score ≥ 1.5 SD) were analyzed
+  on DAVID bioinformatics resource, STRING database, and Cytoscape software (n = 8
+  mice per group). (a) The associated KEGG pathways (p ≤ 0.05) in DAVID are shown
+  in the bars that indicate the -Log10 (p-value) and the number of genes on the right
+  side of each bar. (b) The primary clusters of sub-networks found with the Molecular
+  Complex Detection (MCODE) complement (cutoff = 0.4) to obtain the protein–protein
+  interaction (PPI) network. (c) KEGG signaling pathways relevant in arthritis. (d)
+  Amplification of the nodes with the most significant interaction in the selected
+  pathways. FDR: false discovery rate.'
+article_title: Low-Intensity Physical Exercise Decreases Inflammation and Joint Damage
+  in the Preclinical Phase of a Rheumatoid Arthritis Murine Model.
+citation: Susana Aideé González-Chávez, et al. Biomolecules. 2023 Mar;13(3):488.
+
+doi: 10.3390/biom13030488
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- physical exercise
+- preclinical arthritis
+- at-risk arthritis
+- inflammation
+- joint damage
+- microarray
+
+---

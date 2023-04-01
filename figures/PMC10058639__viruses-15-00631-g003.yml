@@ -1,0 +1,28 @@
+---
+pmcid: PMC10058639
+image_filename: viruses-15-00631-g003.jpg
+figure_link: /pmc/articles/PMC10058639/figure/viruses-15-00631-f003/
+number: Figure 3
+figure_title: ''
+caption: The PPI network of 48 potential viral ligands visualized by Cytoscape. Each
+  node represents the protein’s UniProt login number. The size of the nodes corresponds
+  to the connectivity degree, and the width of the edge represents the betweenness
+  centrality. The membrane or secreted proteins are labeled in red. This network contains
+  nine independent groups, each of which may be captured as a complex by BSDS.
+article_title: Identification of Potential Proteinaceous Ligands of GI.1 Norovirus
+  in Pacific Oyster Tissues.
+citation: Chenang Lyu, et al. Viruses. 2023 Mar;15(3):631.
+
+doi: 10.3390/v15030631
+journal_title: Viruses
+journal_nlm_ta: Viruses
+publisher_name: MDPI
+
+keywords:
+- human norovirus
+- Crassostrea gigas
+- specific binding ligands
+- tumor necrosis factor
+- intraflagellar transport protein
+
+---
