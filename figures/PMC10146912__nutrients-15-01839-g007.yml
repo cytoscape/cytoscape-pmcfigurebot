@@ -1,0 +1,26 @@
+---
+pmcid: PMC10146912
+image_filename: nutrients-15-01839-g007.jpg
+figure_link: /pmc/articles/PMC10146912/figure/nutrients-15-01839-f007/
+number: Figure 7
+figure_title: ''
+caption: Protein−protein interaction (PPI) network of the differentially expressed
+  genes of metabolism-related proteins (MP−DEGs) and screening of hub genes. (A) The
+  STRING database was used to construct the PPI network of MP−DEGs, with 69 nodes
+  and 72 edges. (B) The node gene cluster with the highest score, constructed using
+  the MCODE plug-in in Cytoscape, consists of nine genes. (C) CytoHubba was used to
+  construct the top 10 hub genes. The figure shows the top 10 hub genes constructed
+  with the maximal clique centrality (MCC) method. (D) CytoHubba was used to predict
+  the first−stop node genes that interact with FASN. In total, 10 genes were predicted,
+  of which one was upregulated and nine were downregulated.
+article_title: Identification of Metabolism-Related Proteins as Biomarkers of Insulin
+  Resistance and Potential Mechanisms of m6A Modification.
+citation: Yan-Ling Li, et al. Nutrients. 2023 Apr;15(8):1839.
+
+doi: ''
+journal_title: ''
+journal_nlm_ta: ''
+publisher_name: ''
+
+keywords:
+---

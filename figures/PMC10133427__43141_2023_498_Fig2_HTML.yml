@@ -1,0 +1,29 @@
+---
+pmcid: PMC10133427
+image_filename: 43141_2023_498_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC10133427/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: The top 10 interacting targets of the PPI network were retrieved using the
+  CytoHuba plug-in of Cytoscape. The colour represents their degrees of interactions
+  in the initial PPI network, with red representing the top most interacting gene;
+  orange representing the medium most interacting genes; and yellow representing the
+  sparsely interacting genes
+article_title: Computer-aided analysis of quercetin mechanism of overcoming docetaxel
+  resistance in docetaxel-resistant prostate cancer.
+citation: Victor Omoboyede, et al. J Genet Eng Biotechnol. 2023 Dec;21:47.
+
+doi: 10.1186/s43141-023-00498-6
+journal_title: Journal of Genetic Engineering & Biotechnology
+journal_nlm_ta: J Genet Eng Biotechnol
+publisher_name: Springer Berlin Heidelberg
+
+keywords:
+- Complementary therapy
+- Prostate cancer
+- Docetaxel
+- Quercetin
+- Castration-resistant prostate cancer
+- Genetic alterations
+
+---

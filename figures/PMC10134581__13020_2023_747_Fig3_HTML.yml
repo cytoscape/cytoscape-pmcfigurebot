@@ -1,0 +1,31 @@
+---
+pmcid: PMC10134581
+image_filename: 13020_2023_747_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC10134581/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: Network pharmacology prediction for GQD standard decoction treatment of CID.
+  A Venn analysis showing the crosstalk between GQD standard decoction and CID. B
+  The PPI network of proteins downloaded from STRING database and imported into Cytoscape
+  3.7.2. In descending degree order, node colors are blue, yellow, and orange. C The
+  top 10 enriched GO terms of potential proteins of GQD standard decoction in BP,
+  CC, and MF of CID. D The top 20 pathways related to the effect of GQD standard decoction
+  against CID
+article_title: Gegen Qinlian standard decoction alleviated irinotecan-induced diarrhea
+  via PI3K/AKT/NF-κB axis by network pharmacology prediction and experimental validation
+  combination.
+citation: Jiamei Chen, et al. Chin Med. 2023;18:46.
+
+doi: 10.1186/s13020-023-00747-3
+journal_title: Chinese Medicine
+journal_nlm_ta: Chin Med
+publisher_name: BioMed Central
+
+keywords:
+- Gegen Qinlian standard decoction (GQD standard decoction)
+- Active components
+- CPT-11-induced diarrhea
+- Network pharmacology
+- Mechanisms of action
+
+---

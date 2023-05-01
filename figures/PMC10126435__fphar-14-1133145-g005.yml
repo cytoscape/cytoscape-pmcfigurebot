@@ -1,0 +1,31 @@
+---
+pmcid: PMC10126435
+image_filename: fphar-14-1133145-g005.jpg
+figure_link: /pmc/articles/PMC10126435/figure/F5/
+number: FIGURE 5
+figure_title: ''
+caption: Hub genes screening based on PPI network of immune-related genes. (A) Protein-protein
+  interaction (PPI) analysis based on STRING tool. Cytoscape software was used for
+  visualization. The larger the genes involved, the larger the degree of nodes, and
+  the thicker the lines, the larger the number of betweenness. (B) Top ten hub genes
+  (LCK, CD3E, CD4, CD3D, CD274, IL7R, ZAP70, CD2, CCL5, and CD28) screened based on
+  MNC algorithm. (C) Top ten hub genes (CD4, ZAP70, CD2, FYN, CD28, GZMA, LCK, CD3E,
+  IL7R, and CD3D) screened based on MCC algorithm. (D) Top ten hub genes (CD79A, CD7,
+  GPR29, ZAP70, TCF7, TRAT1, FYN, MAP4K1, SKAP1, LAT) screened based on DMNC algorithm.
+  (E) Intersection of hub genes screened by the above three algorithms.
+article_title: Single-cell transcriptomics reveals immune infiltrate in sepsis.
+citation: Xusheng Tu, et al. Front Pharmacol. 2023;14:1133145.
+
+doi: 10.3389/fphar.2023.1133145
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- immune diseases
+- sepsis
+- machine learning
+- single cell
+- inflammation
+
+---

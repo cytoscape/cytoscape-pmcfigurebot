@@ -1,0 +1,29 @@
+---
+pmcid: PMC10126683
+image_filename: 10.1177_11795549231168075-fig3.jpg
+figure_link: /pmc/articles/PMC10126683/figure/fig3-11795549231168075/
+number: Figure 3
+figure_title: ''
+caption: Bioinformatics data analysis of SH3BP1 enriched pathways. (A) STRING software
+  constructed the PPI network. (B, C) Genes involved in 3 Mcodes as analyzed by Cytoscape.
+  (D) The significantly enriched GO and KEGG pathways of SH3BP1 co-expression genes
+  in melanoma were analyzed.ATP indicates adenosine triphosphate; GO, Gene Ontology;
+  KEGG, Kyoto Encyclopedia of Genes and Genomes; SH3BP1, SH3-domain binding protein-1;
+  PPI, Protein-Protein Interaction.
+article_title: SH3BP1 Regulates Melanoma Progression Through Race1/Wace2 Signaling
+  Pathway.
+citation: Ting Sun, et al. Clin Med Insights Oncol. 2023;17:11795549231168075.
+
+doi: 10.1177/11795549231168075
+journal_title: Clinical Medicine Insights. Oncology
+journal_nlm_ta: Clin Med Insights Oncol
+publisher_name: SAGE Publications
+
+keywords:
+- Melanoma
+- SH3BP1
+- migration
+- invasion
+- Rac1/Wave2 signaling pathway
+
+---
