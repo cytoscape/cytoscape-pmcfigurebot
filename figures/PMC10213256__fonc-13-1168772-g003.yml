@@ -1,0 +1,29 @@
+---
+pmcid: PMC10213256
+image_filename: fonc-13-1168772-g003.jpg
+figure_link: /pmc/articles/PMC10213256/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: PPI network complex and modular analysis of DEGs in PCa. The network nodes
+  are proteins. The edges represent the predicted functional associations. (A) Using
+  the STRING Website, a total of 134 DEGs (red dots represent upregulated genes and
+  blue dots represent downregulated genes) were filtered into the DEGs PPI network
+  complex. The node size reflects the density of the nodes and the surrounding nodes.
+  (B) The most significant module was screened using MCODE in the Cytoscape software.
+  The higher degree of DEGs is represented by a more intense red color.
+article_title: Identification of the hub genes associated with prostate cancer tumorigenesis.
+citation: Honghui Zhu, et al. Front Oncol. 2023;13:1168772.
+
+doi: 10.3389/fonc.2023.1168772
+journal_title: Frontiers in Oncology
+journal_nlm_ta: Front Oncol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- differentially expressed genes (DEGs)
+- bioinformatics analysis
+- hub genes
+- prostate cancer
+- biomarkers
+
+---

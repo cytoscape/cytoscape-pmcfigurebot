@@ -1,0 +1,28 @@
+---
+pmcid: PMC10216790
+image_filename: biomolecules-13-00772-g006.jpg
+figure_link: /pmc/articles/PMC10216790/figure/biomolecules-13-00772-f006/
+number: Figure 6
+figure_title: ''
+caption: PPI network analysis and identification of hub genes. (A) We identified the
+  top hub genes (MMP9, PTGS2, CXCL8, OSM, TLN1) associated with CRPS. (B) Cytoscape
+  provides basic functionality to lay out and query the network associated with CRPS;
+  to visually integrate the network with expression profiles, phenotypes, and other
+  molecular states; and to link the network to databases of functional annotations
+  []. The potential mechanism of CRPS is analyzed via the PPI network.
+article_title: Identification of Potential Inflammation-Related Genes and Key Pathways
+  Associated with Complex Regional Pain Syndrome.
+citation: He Zhu, et al. Biomolecules. 2023 May;13(5):772.
+
+doi: 10.3390/biom13050772
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- complex regional pain syndrome
+- hub genes
+- protein–protein interaction
+- inflammatory response
+
+---

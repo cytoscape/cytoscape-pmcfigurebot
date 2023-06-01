@@ -1,0 +1,30 @@
+---
+pmcid: PMC10226406
+image_filename: pr72_235f1.jpg
+figure_link: /pmc/articles/PMC10226406/figure/f1-pr72_235/
+number: Fig. 1
+figure_title: ''
+caption: Candidate targets and PPI network construction. A) The structure of irisin.
+  B) A Venn map shows the targets that irisin intersects with UC. C) The PPI networks.
+  D) Import the CSV format result file of PPI into Cytoscape 3.9.1 for visualization.
+  High-degree nodes are larger and closer to red, while low-degree nodes are smaller
+  and closer to yellow. E) GO enrichment analysis. The Y-axis shows the enriched count
+  and the X-axis shows significantly enriched GO terms of the intersectional targets.
+  F) Component-target network of irisin.
+article_title: Anti-inflammatory Effect of Irisin on LPS-Stimulated Macrophages Through
+  Inhibition of MAPK Pathway.
+citation: Yuke MA, et al. Physiol Res. 2023 Apr;72(2):235-249.
+
+doi: 10.33549/physiolres.934937
+journal_title: Physiological Research
+journal_nlm_ta: Physiol Res
+publisher_name: Institute of Physiology of the Czech Academy of Sciences
+
+keywords:
+- Irisin
+- LPS
+- RAW264.7
+- MAPK
+- ERK
+
+---

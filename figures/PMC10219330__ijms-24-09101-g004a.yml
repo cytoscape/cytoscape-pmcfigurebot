@@ -1,0 +1,32 @@
+---
+pmcid: PMC10219330
+image_filename: ijms-24-09101-g004a.jpg
+figure_link: .na.character
+number: ''
+figure_title: Figure 4
+caption: Protein–protein interaction (PPI) network of miR-16-5p (A), miR-145-5p (B),
+  and miR-20a-5p (C) strong validated targets. The targets were retrieved from miRTargetLink
+  2.0 and the PPI was generated using the STRINGapp Protein Query from Cytoscape 3.9.1
+  and by applying Markov clustering (MCL).
+article_title: 'Plasmatic MicroRNAs and Treatment Outcomes of Patients with Metastatic
+  Castration-Resistant Prostate Cancer: A Hospital-Based Cohort Study and In Silico
+  Analysis.'
+citation: Jani Silva, et al. Int J Mol Sci. 2023 May;24(10):9101.
+
+doi: 10.3390/ijms24109101
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- prostatic neoplasms
+- abiraterone acetate
+- enzalutamide
+- prognosis
+- biomarkers
+- liquid biopsy
+- hsa-miR-16-5p
+- hsa-miR-145-5p
+- hsa-miR-20a-5p
+
+---

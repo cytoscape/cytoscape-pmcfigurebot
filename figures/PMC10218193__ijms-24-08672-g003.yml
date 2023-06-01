@@ -1,0 +1,32 @@
+---
+pmcid: PMC10218193
+image_filename: ijms-24-08672-g003.jpg
+figure_link: /pmc/articles/PMC10218193/figure/ijms-24-08672-f003/
+number: Figure 3
+figure_title: ''
+caption: 'Integrative analysis of PLS-DA and PPI network analysis. (A) Flow chart
+  of the integrative bioinformatics analysis. (B) PCA of 6106 DEGs from new classified
+  groups (NR, AR, and HC). (C) PLS-DA score plot of the first two principal components
+  for 6106 DEGs from samples of MUD patients (NR and AR) and HC. (D) Venn diagram
+  of DEGs with a VIP score of 1.0 or higher for each component in the PLS-DA model.
+  (E) PPI network of 1291 DEGs using STRING and Cytoscape. The network nodes represent
+  proteins, and edges indicate the predicted functional associations between nodes.
+  (F) Network centrality analysis for screening of hub genes (DC = 4.48 and BC = 0.00064).
+  DC: degree centrality; BC: betweenness centrality.'
+article_title: Identification of Potential Biomarkers for Diagnosis of Patients with
+  Methamphetamine Use Disorder.
+citation: Won-Jun Jang, et al. Int J Mol Sci. 2023 May;24(10):8672.
+
+doi: 10.3390/ijms24108672
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- methamphetamine
+- prediction model
+- methamphetamine use disorder
+- RNA sequencing
+- peripheral biomarker
+
+---

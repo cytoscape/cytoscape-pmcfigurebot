@@ -1,0 +1,28 @@
+---
+pmcid: PMC10215985
+image_filename: fonc-13-1142275-g005.jpg
+figure_link: /pmc/articles/PMC10215985/figure/f5/
+number: Figure 5
+figure_title: ''
+caption: Protein-protein interaction (PPI) network construction. (A) PPI network was
+  constructed with DEGs from GEO and TCGA datasets that show the interaction between
+  hub genes by STRING software. (B) LncRNA-miRNA-mRNA network by Cytoscape software.
+  The network includes 29 nodes and 88 edges. The yellow ellipse, blue ellipse, and
+  purple ellipse oval represent lncRNAs, miRNAs, and mRNAs, respectively.
+article_title: A systematic method introduced a common lncRNA-miRNA-mRNA network in
+  the different stages of prostate cancer.
+citation: Gelareh Vahabzadeh, et al. Front Oncol. 2023;13:1142275.
+
+doi: 10.3389/fonc.2023.1142275
+journal_title: Frontiers in Oncology
+journal_nlm_ta: Front Oncol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- prostate cancer
+- biomarkers
+- Gleason
+- PSA
+- network
+
+---
