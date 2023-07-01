@@ -1,0 +1,31 @@
+---
+pmcid: PMC9744154
+image_filename: peerj-10-14132-g004.jpg
+figure_link: /pmc/articles/PMC9744154/figure/fig-4/
+number: Figure 4
+figure_title: Co-expression and protein-protein interaction (PPI) of CYP1B1
+caption: (A) Co-expression network of CYP1B1 constructed by GeneMANIA plugin of Cytoscape.
+  In the constructed network, the size of the node represents the degree of co-expression.
+  The higher the degree of co-expression, the bigger the size of the node. (B) The
+  protein-protein interaction (PPI) network of CYP1B1. (C) A network of hub candidates
+  predicted to be highly interacted with CYP1B1 by the cytoHubba plugin Cytoscape
+  software.
+article_title: 'Screening of high-risk deleterious missense variations in the CYP1B1
+  gene implicated in the pathogenesis of primary congenital glaucoma: A comprehensive
+  in silico approach.'
+citation: Muhammad Shahid, et al. PeerJ. 2022;10:e14132.
+
+doi: 10.7717/peerj.14132
+journal_title: PeerJ
+journal_nlm_ta: PeerJ
+publisher_name: PeerJ Inc.
+
+keywords:
+- Primary congenital glaucoma
+- CYP1B1
+- Missense variations
+- In silico
+- Modeling
+- Molecular dynamic simulation
+
+---

@@ -1,0 +1,35 @@
+---
+pmcid: PMC9742535
+image_filename: fchem-10-1024670-g008.jpg
+figure_link: /pmc/articles/PMC9742535/figure/F8/
+number: FIGURE 8
+figure_title: ''
+caption: RIOK2-related genes and proteins analysis in tumor tissues. (A) A connectivity
+  map of the PPI network involving 76 experimentally available RIOK2 interaction proteins
+  from the STRING database linked via 2,290 interactions. Major hubs are highlighted
+  in red. The minimum required interaction score was for medium confidence (0.400).
+  The resulting PPI network was visualized using Cytoscape and further analyzed using
+  molecular complex detection. (B) A radar chart shows that the correlation between
+  RIOK2 expression and five proteins was assessed by purity-adjusted partial Spearman’s
+  rho-value in pan-cancer. (C) Genes that correlated with RIOK2 expression with the
+  top 500 Spearman correlation coefficients were obtained from TCGA. The expression
+  correlation of the top eight RIOK2-related genes and RIOK2 was visualized by scatter
+  plots using Spearman’s correlation for supplementary verification.
+article_title: Pan-cancer analyses reveal multi-omics and clinical characteristics
+  of RIO kinase 2 in cancer.
+citation: Kexin Li, et al. Front Chem. 2022;10:1024670.
+
+doi: 10.3389/fchem.2022.1024670
+journal_title: Frontiers in Chemistry
+journal_nlm_ta: Front Chem
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- RIO kinase 2
+- pan-cancer
+- mutation
+- methylation
+- phosphorylation
+- immune cells infiltration
+
+---

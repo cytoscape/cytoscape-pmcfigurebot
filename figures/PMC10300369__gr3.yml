@@ -1,0 +1,29 @@
+---
+pmcid: PMC10300369
+image_filename: gr3.jpg
+figure_link: /pmc/articles/PMC10300369/figure/fig3/
+number: Fig. 3
+figure_title: ''
+caption: Sorafenib treatment significantly upregulates the expression of TRIB3 and
+  STC2 in HCC cells by identification DEGs. Using the STRING online database and Cytoscape,
+  upregulated genes in the sorafenib groups were filtered into the DEG PPI network
+  complex. Hub genes were marked in red, other linked genes were marked in blue. (For
+  interpretation of the references to color in this figure legend, the reader is referred
+  to the Web version of this article.)
+article_title: Inhibition of stress proteins TRIB3 and STC2 potentiates sorafenib
+  sensitivity in hepatocellular carcinoma.
+citation: Sheng Zhou, et al. Heliyon. 2023 Jun;9(6):e17295.
+
+doi: 10.1016/j.heliyon.2023.e17295
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- TRIB3
+- STC2
+- Sorafenib
+- GEO
+- Hepatocellular carcinoma (HCC)
+
+---

@@ -1,0 +1,36 @@
+---
+pmcid: PMC10299022
+image_filename: ijms-24-10122-g006.jpg
+figure_link: /pmc/articles/PMC10299022/figure/ijms-24-10122-f006/
+number: Figure 6
+figure_title: ''
+caption: Bioinformatics analysis of overlapping genes. (A) Venn diagram of 84 overlapping
+  genes between the predicted targets of Lut and the targets associated with ALI/ARDS.
+  (B) PPI network of the 84 overlapping genes. The importance of each gene was analyzed
+  by STRING. The higher the degree, the more crucial the gene. The degree of the outermost
+  circle is 0–10, the middle circle is 11–20, and the smallest circle is >20. The
+  colors of nodes from reddish to yellowish are arranged in descending order on the
+  basis of their degree values. (C) Cytohubba, the plug-in of Cytoscape, was used
+  to analyze the top 10 hub gene network of target proteins by MCC algorithm. (D)
+  Cluster of the 84 overlapping gene-containing PPI network. Three clusters were identified.
+  Cluster 1 had the highest score of 10.08, and JAK2 was identified as the seed gene.
+  Cluster 2 had a score of 3.5, and ALB was the seed gene. Cluster 3 had a score of
+  3.2, and EGFR was the seed gene.
+article_title: 'Luteolin Enhances Transepithelial Sodium Transport in the Lung Alveolar
+  Model: Integrating Network Pharmacology and Mechanism Study.'
+citation: Lei Chen, et al. Int J Mol Sci. 2023 Jun;24(12):10122.
+
+doi: 10.3390/ijms241210122
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- phytochemicals
+- network pharmacology
+- acute lung injury
+- 3D alveolar epithelial organoid
+- epithelial sodium channel
+- JAK/STAT pathway
+
+---

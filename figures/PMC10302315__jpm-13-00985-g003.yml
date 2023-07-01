@@ -1,0 +1,29 @@
+---
+pmcid: PMC10302315
+image_filename: jpm-13-00985-g003.jpg
+figure_link: /pmc/articles/PMC10302315/figure/jpm-13-00985-f003/
+number: Figure 3
+figure_title: ''
+caption: '(A) PPI network constructed in STRING with overlapping DEGs between uLMS
+  and ULM. (B) PPI network constructed by Cytoscape. (C) A significant module of the
+  network (in yellow) provided by the MCODE plug-in. (D) Cytohubba MCC module ranked
+  the hub genes from the following network (the color correlates with the rank: red
+  rectangles present the highest rank, followed by orange and yellow).'
+article_title: Integrated Bioinformatics Investigation of Novel Biomarkers of Uterine
+  Leiomyosarcoma Diagnosis and Outcome.
+citation: Aleksandar Rakic, et al. J Pers Med. 2023 Jun;13(6):985.
+
+doi: 10.3390/jpm13060985
+journal_title: Journal of Personalized Medicine
+journal_nlm_ta: J Pers Med
+publisher_name: MDPI
+
+keywords:
+- uterine leiomyosarcoma
+- bioinformatics analysis
+- TYMS
+- TK1
+- miR-26b-5p
+- Sp1
+
+---

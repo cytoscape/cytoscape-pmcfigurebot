@@ -1,0 +1,29 @@
+---
+pmcid: PMC9740273
+image_filename: nutrients-14-04968-g005.jpg
+figure_link: /pmc/articles/PMC9740273/figure/nutrients-14-04968-f005/
+number: Figure 5
+figure_title: ''
+caption: Obtained core targets of AM towards HAPC. (A) PPI network of drug–disease
+  intersection targets. The minimum required interaction score was set to 0.7 by the
+  STRING database. (B) Visualization of the PPI network by Cytoscape. No-edge nodes
+  have been removed. (C) Top 15 targets in the PPI network ranked by degree. (D) Venn
+  diagram showed the core targets. Targets meeting BC ≥ 10.95 (median), CC ≥ 0.145
+  (median), and DC ≥ 7 (median) were screened.
+article_title: Deciphering the Efficacy and Mechanism of Astragalus membranaceus on
+  High Altitude Polycythemia by Integrating Network Pharmacology and In Vivo Experiments.
+citation: Xiru Liu, et al. Nutrients. 2022 Dec;14(23):4968.
+
+doi: 10.3390/nu14234968
+journal_title: Nutrients
+journal_nlm_ta: Nutrients
+publisher_name: MDPI
+
+keywords:
+- high altitude polycythemia
+- Astragalus membranaceus
+- hypoxia
+- network pharmacology
+- HIF-1 pathway
+
+---

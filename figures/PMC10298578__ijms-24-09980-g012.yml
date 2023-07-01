@@ -1,0 +1,33 @@
+---
+pmcid: PMC10298578
+image_filename: ijms-24-09980-g012.jpg
+figure_link: /pmc/articles/PMC10298578/figure/ijms-24-09980-f012/
+number: Figure 12
+figure_title: ''
+caption: (a1–a3) The PPI network of DEGs in NPCs, neurons, and astrocytes, respectively,
+  were constructed using Cytoscape. Red represents the REST-targeted upregulated genes,
+  green represents the REST-targeted downregulated genes, yellow represents the non-REST-targeted
+  upregulated genes, and purple represents the non-REST-targeted downregulated genes.
+  The larger the network node degree distribution, the larger the shape. (b1–b3, c1–c3,
+  d1–d3) are the top three models obtained using the MCODE plug-in of Cytoscape in
+  neuron DEGs in NPCs, neurons, and astrocytes, respectively. (e1–e3) The GO enrichment’s
+  most significant five terms were shown in each top three critical models in neuron
+  DEGs.
+article_title: REST Targets JAK–STAT and HIF-1 Signaling Pathways in Human Down Syndrome
+  Brain and Neural Cells.
+citation: Tan Huang, et al. Int J Mol Sci. 2023 Jun;24(12):9980.
+
+doi: 10.3390/ijms24129980
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- down syndrome
+- rest
+- organoid
+- NPC
+- neuron
+- astrocyte
+
+---

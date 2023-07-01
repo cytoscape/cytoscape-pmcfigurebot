@@ -1,0 +1,29 @@
+---
+pmcid: PMC9742479
+image_filename: fcimb-12-1078572-g003.jpg
+figure_link: /pmc/articles/PMC9742479/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: 'The top three clusters of highly interconnected malonylated PPI networks.
+  Interaction network of lysine-lactylated proteins (listed in gene names) were analyzed
+  using the MCODE plug-in toolkit in the Cytoscape software (version 3.7.2). (A) Cluster
+  1: MCODE score = 42.186, nodes = 44, edges = 907. (B) Cluster 2: MCODE score = 11.091,
+  nodes = 12, edges = 61. (C) Cluster 3: MCODE score = 6, nodes = 6, edges = 15.'
+article_title: Systematic analysis of lysine malonylation in Streptococcus mutans
+  .
+citation: Zhengyi Li, et al. Front Cell Infect Microbiol. 2022;12:1078572.
+
+doi: 10.3389/fcimb.2022.1078572
+journal_title: Frontiers in Cellular and Infection Microbiology
+journal_nlm_ta: Front Cell Infect Microbiol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- malonylation
+- post-translational modification
+- biofilm
+- Streptococcus mutans
+- bacteria
+- proteomics
+
+---

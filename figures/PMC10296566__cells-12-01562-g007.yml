@@ -1,0 +1,31 @@
+---
+pmcid: PMC10296566
+image_filename: cells-12-01562-g007.jpg
+figure_link: /pmc/articles/PMC10296566/figure/cells-12-01562-f007/
+number: Figure 7
+figure_title: ''
+caption: 'Network analysis. Protein–protein interaction (PPI) network of the proteins
+  obtained combining LDA and MAProMa results. Physical or/and functional interactions
+  are highlighted by thicker edges and considering experimental (STRING score > 0.15)
+  and database (STRING score > 0.35) annotated interactions. The networks were visualized
+  by Cytoscape v.3.9.1 software, while biological processes were retrieved by STRING
+  enrichment. The color code of distinct nodes reflects their sources: orange bound
+  nodes represent proteins extracted from LDA (statistically significant), green nodes
+  represent DEPs and blue nodes represent proteins from LDA that are not DEPs.'
+article_title: Proteomic Characterization of SAS Cell-Derived Extracellular Vesicles
+  in Relation to Both BPA and Neutron Irradiation Doses.
+citation: Davide Perico, et al. Cells. 2023 Jun;12(12):1562.
+
+doi: 10.3390/cells12121562
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- BNCT
+- extracellular vesicles
+- BPA
+- proteomics
+- LC-MS
+
+---

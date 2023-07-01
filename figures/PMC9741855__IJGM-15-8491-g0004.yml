@@ -1,0 +1,27 @@
+---
+pmcid: PMC9741855
+image_filename: IJGM-15-8491-g0004.jpg
+figure_link: /pmc/articles/PMC9741855/figure/f0004/
+number: Figure 4
+figure_title: ''
+caption: PPI network of identified DEIRGs constructed using Cytoscape software. (A)
+  DEIRGs in the INRs vs IRs . Red nodes represent up-regulated genes, green nodes
+  represent down-regulated genes, and yellow nodes represent hub genes in INRs. (B)
+  The top module and the top five DEIRGs between INRs and IRs.
+article_title: Elucidating the Gene Signatures and Immune Cell Types in HIV-Infected
+  Immunological Non-Responders by Bioinformatics Analyses.
+citation: Qing Xiao, et al. Int J Gen Med. 2022;15:8491-8507.
+
+doi: 10.2147/IJGM.S390642
+journal_title: International Journal of General Medicine
+journal_nlm_ta: Int J Gen Med
+publisher_name: Dove
+
+keywords:
+- HIV
+- immunological non-responders
+- immune-related genes
+- immune cells
+- bioinformatics
+
+---
