@@ -1,0 +1,28 @@
+---
+pmcid: PMC10380797
+image_filename: ijms-24-11717-g006.jpg
+figure_link: /pmc/articles/PMC10380797/figure/ijms-24-11717-f006/
+number: Figure 6
+figure_title: ''
+caption: Network analysis using significant psoriasis genes identified via TWAS, COLOC,
+  and CONTENT. PPI was constructed using STRING and visualized using Cytoscape. Only
+  networks with more than three nodes are shown. The color of the nodes indicates
+  the sub-clusters assigned with the MCODE plug-in. Rhombic-shaped nodes with red
+  outlines are jointly significant genes in at least one tissue panel.
+article_title: 'A Transcriptome-Wide Analysis of Psoriasis: Identifying the Potential
+  Causal Genes and Drug Candidates.'
+citation: Yeonbin Jeong, et al. Int J Mol Sci. 2023 Jul;24(14):11717.
+
+doi: 10.3390/ijms241411717
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- psoriasis
+- transcriptome-wide association study (TWAS)
+- colocalization
+- protein–protein network
+- drug candidates
+
+---

@@ -1,0 +1,36 @@
+---
+pmcid: PMC10383467
+image_filename: pharmaceutics-15-01950-g002.jpg
+figure_link: /pmc/articles/PMC10383467/figure/pharmaceutics-15-01950-f002/
+number: Figure 2
+figure_title: ''
+caption: Identification of ferroptosis hub factors in ALF mRNA expression profiling
+  datasets. (A) PPI network enrichment analysis was performed by Metascape. Each purple
+  node represents a protein encoded by down-regulated ferroptosis-associated DEGs
+  and yellow means a protein coded by up-regulated ferroptosis DEGs in patients with
+  ALF. The more relationships with other proteins, the bigger the node. (B) Top ten
+  hub genes identified by the cytoHubba Cytoscape plugin from 37 ferroptosis DEGs
+  in three GEO datasets. The redder color means higher ranking by the MCC algorithm.
+  (C) Predicted regulator network of hub genes. Red/blue/green color represents mRNA/miRNA/lncRNA.
+  (D) Top ten factors identified by cytoHubba with DMNC, MNC, and clustering coefficient
+  method.
+article_title: Repurposing Niclosamide as a Therapeutic Drug against Acute Liver Failure
+  by Suppressing Ferroptosis.
+citation: Xiao Zhong, et al. Pharmaceutics. 2023 Jul;15(7):1950.
+
+doi: 10.3390/pharmaceutics15071950
+journal_title: Pharmaceutics
+journal_nlm_ta: Pharmaceutics
+publisher_name: MDPI
+
+keywords:
+- ALF
+- ferroptosis
+- DEGs
+- hub genes
+- niclosamide
+- LPS/D-GalN
+- therapeutic
+- STAT3
+
+---

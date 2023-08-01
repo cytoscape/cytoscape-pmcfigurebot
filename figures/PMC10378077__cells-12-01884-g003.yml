@@ -1,0 +1,33 @@
+---
+pmcid: PMC10378077
+image_filename: cells-12-01884-g003.jpg
+figure_link: /pmc/articles/PMC10378077/figure/cells-12-01884-f003/
+number: Figure 3
+figure_title: ''
+caption: 'PPI network construction and hub gene screening of DEGs in sALS fibroblasts.
+  (A) PPI network was constructed using the STRING Online Database and visualized
+  by Cytoscape. Each node represents one gene/protein (n = 277), and the interaction
+  between two nodes is defined as the edge (n = 3378). Node color is associated with
+  the fold change: genes down-regulated in sALS fibroblasts vs. CTRL are colored in
+  blue, while red nodes correspond to genes up-regulated in sALS fibroblasts vs. CTRL.
+  (B) The network of the 20 hub genes is shown with red (high ranking) and yellow
+  (low ranking) nodes, based on the ranking score in the cytoHubba plugin.'
+article_title: A Diagnostic Gene-Expression Signature in Fibroblasts of Amyotrophic
+  Lateral Sclerosis.
+citation: Giovanna Morello, et al. Cells. 2023 Jul;12(14):1884.
+
+doi: 10.3390/cells12141884
+journal_title: Cells
+journal_nlm_ta: Cells
+publisher_name: MDPI
+
+keywords:
+- amyotrophic lateral sclerosis
+- transcriptomics
+- network
+- machine learning
+- molecular signature
+- class prediction
+- disease diagnosis
+
+---
