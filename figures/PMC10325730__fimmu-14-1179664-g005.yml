@@ -1,0 +1,28 @@
+---
+pmcid: PMC10325730
+image_filename: fimmu-14-1179664-g005.jpg
+figure_link: /pmc/articles/PMC10325730/figure/f5/
+number: Figure 5
+figure_title: ''
+caption: Significant modules and roles of PPI network (A) The top four key gene modules
+  identified by MCODE plug-in of Cytoscape. (B) Bubble plots of Gene ontology (GO)
+  enrichment for modules associated with the biological processes (GO-BP, blue), the
+  cellular components (GO-CC, red), and the molecular functions (GOMF, green). (C)
+  Bubble plots of Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analysis.
+article_title: Exploring the potential common denominator pathogenesis of system lupus
+  erythematosus with COVID-19 based on comprehensive bioinformatics analysis.
+citation: Huiqiong Zeng, et al. Front Immunol. 2023;14:1179664.
+
+doi: 10.3389/fimmu.2023.1179664
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- bioinformatics
+- system lupus erythematosus
+- COVID-19
+- diagnostic biomarkers
+- immune cells infiltration
+
+---

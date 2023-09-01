@@ -1,0 +1,33 @@
+---
+pmcid: PMC10462740
+image_filename: 41598_2023_40617_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC10462740/figure/Fig3/
+number: Figure 3
+figure_title: ''
+caption: 'LAMP1 protein–protein interaction network reveals its role in immune regulation.
+  (A) KEGG-GSEA enrichment analysis of LAMP1 correlated genes on GSE6575 (upper) and
+  GSE18123 (lower) datasets. (B) The protein–protein interacting (PPI) network of
+  LAMP1 was obtained from STRING (string-db.org) and visualized using Cytoscape software
+  (3.8.4). (C) The top 10 hub-gene was calculated using cytoHubba plugin in software
+  using Maximal Clique Centrality (MCC) algorithm. (D) PPI network connectivity for
+  LAMP1 and DEGs genes identified as up-regulated in ASD groups constructed by STRING
+  (https://string-db.org/). (E) The WikiPathway enrichment analysis according to PPIs
+  of the STRING enrichment results. (F) Human phenotype prediction of LAMP1 using
+  Harmonizome database indicating as Z-score. (G) Immune cell enrichment analysis
+  of GSE6575 using TIMER2.0 and that correlation assay between LAMP1 mRNA expression
+  associations with neutrophil enrichment content was performed. KEGG: Kyoto Encyclopedia
+  of Genes and Genomes.'
+article_title: LAMP1 as a novel molecular biomarker to predict the prognosis of the
+  children with autism spectrum disorder using bioinformatics approaches.
+citation: Sisi Deng, et al. Sci Rep. 2023;13:14040.
+
+doi: 10.1038/s41598-023-40617-4
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Biomarkers
+- Autism spectrum disorders
+
+---

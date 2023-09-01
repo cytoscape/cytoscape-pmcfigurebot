@@ -1,0 +1,29 @@
+---
+pmcid: PMC9751040
+image_filename: fimmu-13-1058884-g006.jpg
+figure_link: /pmc/articles/PMC9751040/figure/f6/
+number: Figure 6
+figure_title: ''
+caption: Screening Hub genes. (A) PPI network diagram obtained after applying the
+  k-means algorithm based on machine learning to the Co-genes. The four genes in the
+  lower right-hand corner of the enlarged diagram are CASP1, NLRP3, IL1B, and IL18.
+  (B) PPI network diagram after processing with Cytoscape software. (C) The Top 11
+  hub genes are filtered using the Degree algorithm under the CytoHubba package condition.
+article_title: SARS-CoV-2 induces “cytokine storm” hyperinflammatory responses in
+  RA patients through pyroptosis.
+citation: Qingcong Zheng, et al. Front Immunol. 2022;13:1058884.
+
+doi: 10.3389/fimmu.2022.1058884
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- SARS-CoV-2
+- COVID-19
+- rheumatoid arthritis
+- pyroptosis
+- caspase-1
+- minocycline
+
+---

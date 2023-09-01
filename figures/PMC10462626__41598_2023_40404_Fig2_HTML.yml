@@ -1,0 +1,30 @@
+---
+pmcid: PMC10462626
+image_filename: 41598_2023_40404_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC10462626/figure/Fig2/
+number: Figure 2
+figure_title: ''
+caption: (A) PPI network of DEGs was established by STRING (http://string-db.org)
+  and visualized via Cytoscape software (version 3.9.0). The red nodes indicated upregulated
+  genes and the blue nodes indicated downregulated genes. (B) Top 20 hub genes with
+  a higher degree of connectivity. (C) KEGG pathway enrichment analysis of the top
+  20 hub genes. (D) The prognostic value (p < 0.05) of the top 20 hub genes in CRC
+  patients in the disease-free survival (DFS) curve (GEPIA). (E) The expression of
+  ORM1 between liver metastases and primary tumors, primary tumors, and normal tissues
+  of CRC in datasets GSE14297, GSE49355, and GSE81558 respectively. Data are expressed
+  as mean ± SD. ns p ≥ 0.05, ***p < 0.001, ****p < 0.0001 (unpaired t test or ANOVA).
+article_title: Orosomucoid 1 promotes colorectal cancer progression and liver metastasis
+  by affecting PI3K/AKT pathway and inducing macrophage M2 polarization.
+citation: Lei Yue, et al. Sci Rep. 2023;13:14092.
+
+doi: 10.1038/s41598-023-40404-1
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer
+- Gastrointestinal cancer
+- Metastasis
+
+---
