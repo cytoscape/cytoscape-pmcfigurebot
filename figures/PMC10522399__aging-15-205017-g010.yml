@@ -1,0 +1,30 @@
+---
+pmcid: PMC10522399
+image_filename: aging-15-205017-g010.jpg
+figure_link: /pmc/articles/PMC10522399/figure/f10/
+number: Figure 10
+figure_title: ''
+caption: The construction of the PPI network and an analysis of IL18RAP's functional
+  enrichment in cancers. (A, B) The PPI network (A) of IL18RAP constructed by Cytoscape,
+  and the top 10 hub genes (B) of PPI were selected using cytoHubba plugins. (C) The
+  correlation between the top 10 hub genes with IL18RAP in 33 types of cancers was
+  calculated using Spearman correlation analysis. (D) The GO/KEGG enrichment analyses
+  of the top 10 hub genes. (E) The relationship between IL18RAP and 10 famous cancer-related
+  pathways was analyzed via GSCALite platform. The results of IL18RAP were circled
+  in the black box.
+article_title: Prognostic and immunological roles of IL18RAP in human cancers.
+citation: Wu Chen, et al. Aging (Albany NY). 2023 Sep 15;15(17):9059-9085.
+
+doi: 10.18632/aging.205017
+journal_title: Aging (Albany NY)
+journal_nlm_ta: Aging (Albany NY)
+publisher_name: Impact Journals
+
+keywords:
+- IL18 receptor accessory protein
+- pan-cancer analysis
+- bioinformatics
+- immune infiltration
+- immunotherapy
+
+---

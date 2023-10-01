@@ -1,0 +1,31 @@
+---
+pmcid: PMC10529570
+image_filename: pone.0289939.g007.jpg
+figure_link: /pmc/articles/PMC10529570/figure/pone.0289939.g007/
+number: Fig 7
+figure_title: PPI analysis of genes selected from modules with | Z score | ≥ 2 genes
+caption: These genes are from the yellow module (30 genes, fill colour is yellow),
+  red module (29 genes, fill colour is red), tan module (18 genes, fill colour is
+  tan) and turquoise module (78 genes, fill colour is turquoise). The ’circle’ shape
+  represents the top 5 genes when | Z-Score | > 0, with a total of 10 genes, and is
+  labelled ’Top10’. The shape "V" represents the seed genes used to build the PPI
+  network genes when the core subnetwork is calculated by the Cytoscape plugin MCODE,
+  and is labelled "seed". The ’diamond’ shape represents the gene used to build the
+  PPI network gene by the Cytoscape plugin Cytohubba to calculate the Degree, EPC,
+  MCC and MNC values of each gene and retain the intersection of the top 20 genes
+  for each gene to obtain a total of 11 hub genes, labelled ’hub’. The ’square’ shape
+  represents the other genes used to construct the PPI network. The large outer circle
+  represents the non-core subnetwork genes and the three modules inside the circle
+  (from most to least number of genes) are the three core subnetworks with scores
+  of 5.6, 4.5 and 2.8 respectively.
+article_title: Characterization of feed efficiency-related key signatures molecular
+  in different cattle breeds.
+citation: Chaoyun Yang, et al. PLoS One. 2023;18(9):e0289939.
+
+doi: 10.1371/journal.pone.0289939
+journal_title: PLOS ONE
+journal_nlm_ta: PLoS One
+publisher_name: Public Library of Science
+
+keywords:
+---

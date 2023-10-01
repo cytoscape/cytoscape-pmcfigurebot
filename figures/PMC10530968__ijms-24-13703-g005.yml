@@ -1,0 +1,29 @@
+---
+pmcid: PMC10530968
+image_filename: ijms-24-13703-g005.jpg
+figure_link: /pmc/articles/PMC10530968/figure/ijms-24-13703-f005/
+number: Figure 5
+figure_title: ''
+caption: Construction of PPI network and the validation of hub genes. (A) The PPI
+  network among the autophagy-related target genes was constructed using STRING database
+  and presented via Cytoscape. (B) The top five hub genes identified via the Maximal
+  Clique Centrality algorithm. (C) Immunohistochemistry images of the five hub proteins
+  in the bone marrow and skeletal muscle tissues from the Human Protein Atlas database.
+  Scale bar is 200 μm.
+article_title: Expression Profiles of Long Non-Coding RNAs in the Articular Cartilage
+  of Rats Exposed to T-2 Toxin.
+citation: Fangfang Yu, et al. Int J Mol Sci. 2023 Sep;24(18):13703.
+
+doi: 10.3390/ijms241813703
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- T-2 toxin
+- articular cartilage
+- autophagy
+- lncRNAs
+- RNA-Seq
+
+---

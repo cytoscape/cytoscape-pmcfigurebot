@@ -1,0 +1,29 @@
+---
+pmcid: PMC10526208
+image_filename: cancers-15-04526-g006.jpg
+figure_link: /pmc/articles/PMC10526208/figure/cancers-15-04526-f006/
+number: Figure 6
+figure_title: ''
+caption: (A) Protein–protein interaction network (PPI) visualized with Cytoscape.
+  The nodes represent the proteins. Borders highlight interactions between proteins.
+  Upregulated genes are marked in red and downregulated genes are marked in green.
+  (B) ‘Hub’ genes. The color red to yellow represents the degree of connectivity from
+  top to bottom. (C) Bar chart indicating logFC values and expression direction of
+  the 20 ‘hub’ genes.
+article_title: 'Identifying New Contributors to Brain Metastasis in Lung Adenocarcinoma:
+  A Transcriptomic Meta-Analysis.'
+citation: Vanessa G. P. Souza, et al. Cancers (Basel). 2023 Sep;15(18):4526.
+
+doi: 10.3390/cancers15184526
+journal_title: Cancers
+journal_nlm_ta: Cancers (Basel)
+publisher_name: MDPI
+
+keywords:
+- lung cancer
+- bioinformatics
+- brain metastasis
+- immune cell
+- tumor microenvironment (TME)
+
+---

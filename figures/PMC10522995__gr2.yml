@@ -1,0 +1,36 @@
+---
+pmcid: PMC10522995
+image_filename: gr2.jpg
+figure_link: /pmc/articles/PMC10522995/figure/fig2/
+number: Fig. 2
+figure_title: ''
+caption: Volcano plot and PPI network. Differentially regulated proteins from independent
+  datasets and enrichment analysis of Crtc2LKO. A, the volcano plot shows the log2
+  fold change (log2FC) versus the p-value plot (-log10p-value). B, protein–protein
+  interaction network of differentially expressed (log2FC > ±0.26 with -log10pvalue
+  >1.3), differentially phosphorylated (log2FC > ±0.26 with -log10pvalue >1.3), and
+  differentially acetylated (log2FC > ±0.26 with −log10pvalue >1.3) proteins from
+  Crtc2LKO phenotype. The PPI network was created using the STRING app in Cytoscape
+  with a 0.4 confidence level and without additional interactions. The edge color
+  refers to the strength of interaction. The node-filled color corresponds to the
+  log2FC value, where blue indicates downregulated, red indicates upregulated, and
+  white is nonsignificant expression/nonidentification. The proteins are grouped based
+  on mouse KEGG pathways, and single nodes are hidden for clarity. Acet, acetylome;
+  Phos, phosphoproteome; Prot, proteome.
+article_title: CREB-Regulated Transcriptional Coactivator 2 Proteome Landscape is
+  Modulated by SREBF1.
+citation: Jae Min Lim, et al. Mol Cell Proteomics. 2023 Oct;22(10):100637.
+
+doi: 10.1016/j.mcpro.2023.100637
+journal_title: 'Molecular & Cellular Proteomics : MCP'
+journal_nlm_ta: Mol Cell Proteomics
+publisher_name: American Society for Biochemistry and Molecular Biology
+
+keywords:
+- coregulation
+- metabolism
+- mass spectrometry
+- PPI
+- STRING
+
+---

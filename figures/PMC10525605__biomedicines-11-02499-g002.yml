@@ -1,0 +1,28 @@
+---
+pmcid: PMC10525605
+image_filename: biomedicines-11-02499-g002.jpg
+figure_link: /pmc/articles/PMC10525605/figure/biomedicines-11-02499-f002/
+number: Figure 2
+figure_title: ''
+caption: PPI network analysis and screening for hub genes. Using the MCODE tool of
+  Cytoscape software, the top 3 modules in the PPI network were identified. (A) Module
+  1 and its GO annotations; (B) module 2 and its GO annotations; (C) module 3 and
+  its GO annotations. (D) The 30 selected hub genes were constructed into a new PPI
+  network using STRING and Cytoscape.
+article_title: ENO2 as a Biomarker Regulating Energy Metabolism to Promote Tumor Progression
+  in Clear Cell Renal Cell Carcinoma.
+citation: Jian Shi, et al. Biomedicines. 2023 Sep;11(9):2499.
+
+doi: 10.3390/biomedicines11092499
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: MDPI
+
+keywords:
+- clear cell renal cell carcinoma (ccRCC)
+- Warburg effect
+- glycolysis
+- bioinformatics
+- TCGA
+
+---

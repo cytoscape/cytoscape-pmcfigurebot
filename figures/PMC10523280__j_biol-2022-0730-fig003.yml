@@ -1,0 +1,28 @@
+---
+pmcid: PMC10523280
+image_filename: j_biol-2022-0730-fig003.jpg
+figure_link: /pmc/articles/PMC10523280/figure/j_biol-2022-0730_fig_003/
+number: Figure 3
+figure_title: ''
+caption: 'PPI network construction and hub gene screening. (a) The PPI network of
+  DEGs was depicted using the Cytoscape software. Upregulated genes were labeled in
+  red, and downregulated genes were labeled in green. (b) Ten hub genes were screened
+  using the cytoHubba plug-in. Abbreviations: DEGs, differently expressed genes; PPI:
+  protein–protein interaction.'
+article_title: Bioinformatics analysis to identify potential biomarkers for the pulmonary
+  artery hypertension associated with the basement membrane.
+citation: Qian Li, et al. Open Life Sci. 2023;18(1):20220730.
+
+doi: 10.1515/biol-2022-0730
+journal_title: Open Life Sciences
+journal_nlm_ta: Open Life Sci
+publisher_name: De Gruyter
+
+keywords:
+- pulmonary arterial hypertension
+- basement membrane
+- immune infiltration analysis
+- bioinformatics analysis
+- ceRNA network
+
+---

@@ -1,0 +1,29 @@
+---
+pmcid: PMC10525272
+image_filename: animals-13-02846-g003.jpg
+figure_link: /pmc/articles/PMC10525272/figure/animals-13-02846-f003/
+number: Figure 3
+figure_title: ''
+caption: 'Gene-level analysis showing a major PPI network being subjected to somatic
+  mutations: (a) Genes targeted by somatic mutations in multiple subjects were plotted
+  based on the locus of the chromosome and the degree of sharing. (b) Genes targeted
+  by somatic mutations with high or moderate impact in multiple subjects. (c) PPI
+  network of the named genes targeted by shared somatic variants. Nodes with no connections
+  were removed for enhanced visibility, and the built-in hierarchical layout of Cytoscape
+  was used.'
+article_title: Canine Somatic Mutations from Whole-Exome Sequencing of B-Cell Lymphomas
+  in Six Canine Breeds—A Preliminary Study.
+citation: Sungryong Kim, et al. Animals (Basel). 2023 Sep;13(18):2846.
+
+doi: 10.3390/ani13182846
+journal_title: 'Animals : an Open Access Journal from MDPI'
+journal_nlm_ta: Animals (Basel)
+publisher_name: MDPI
+
+keywords:
+- canine lymphoma
+- whole-exome sequencing
+- B-cell
+- PARR
+
+---

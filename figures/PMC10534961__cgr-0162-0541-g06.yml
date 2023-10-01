@@ -1,0 +1,26 @@
+---
+pmcid: PMC10534961
+image_filename: cgr-0162-0541-g06.jpg
+figure_link: /pmc/articles/PMC10534961/figure/F6/
+number: Fig. 6
+figure_title: ''
+caption: PPI network analysis of DEGs in VAT from hypertensive OW/OB adults. a Edges
+  represent specific and meaningful PPIs. b, c Two significant modules identified
+  using the Cytoscape MCODE plug-in. d Top 10 hub genes identified using cytoHubba
+  in Cytoscape.
+article_title: Identification of Key Genes from the Visceral Adipose Tissues of Overweight/Obese
+  Adults with Hypertension through Transcriptome Sequencing.
+citation: Lanlan Liao, et al. Cytogenet Genome Res. 2023 Aug;162(10):541-559.
+
+doi: 10.1159/000528702
+journal_title: Cytogenetic and Genome Research
+journal_nlm_ta: Cytogenet Genome Res
+publisher_name: S. Karger AG
+
+keywords:
+- Hypertension
+- Overweight/obese adults
+- Visceral adipose tissue
+- Transcriptome sequencing
+
+---

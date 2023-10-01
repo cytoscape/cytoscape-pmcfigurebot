@@ -1,0 +1,29 @@
+---
+pmcid: PMC10523789
+image_filename: 40659_2023_464_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC10523789/figure/Fig5/
+number: Fig. 5
+figure_title: ''
+caption: Construction of PPI network of DEPRGs and identification of hub genes a Using
+  the STRING online database, the PPI network of 12 DEPRGs was constructed, concluding
+  12 nodes and 48 edges. Each node represents a protein and each edge represents the
+  interaction between two proteins. b Identification of only one sub-network by MCODE
+  plugin in Cytoscape. c Identification of 6 hub genes with the highest degree identified
+  by four algorithms (MCC, MNC, Degree and EPC) from CytoHubba plugin in Cytoscape
+article_title: Identifying pyroptosis- and inflammation-related genes in intracranial
+  aneurysms based on bioinformatics analysis.
+citation: Donglin Zhou, et al. Biol Res. 2023;56:50.
+
+doi: 10.1186/s40659-023-00464-z
+journal_title: Biological Research
+journal_nlm_ta: Biol Res
+publisher_name: BioMed Central
+
+keywords:
+- Intracranial aneurysm
+- Pyroptosis
+- Inflammatory cell death
+- Gene expression omnibus
+- Bioinformatics analysis
+
+---
