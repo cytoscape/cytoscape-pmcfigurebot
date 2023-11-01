@@ -1,0 +1,35 @@
+---
+pmcid: PMC10614389
+image_filename: 12967_2023_4644_Fig10_HTML.jpg
+figure_link: /pmc/articles/PMC10614389/figure/Fig10/
+number: Fig. 10
+figure_title: ''
+caption: 'RECK modulates the expression level of CALD1 via influencing the phosphorylation
+  level of ERK. A The PPI network based on genes associated with RECK was constructed
+  by the STRING platform and Cytoscape 3.9 software. B The bar plot depicts the number
+  of adjacent nodes per gene according to the STRING platform. C Three genes from
+  the PPI network were directly related to RECK. Cor: the coefficient for correlation
+  analysis. Score: combined score derived from STRING platform. D–F The downregulation
+  of CALD1 in GC was verified by qRT-PCR, Western blot analysis, and immunohistochemical
+  assay from the Human Protein Atlas (HPA). G The phosphorylation level of CALD1 was
+  performed by Western blot analysis in AGS and HGC-27 cells with the treatment of
+  TBHQ or PD98059. H The effect of alterations in RECK gene expression on the phosphorylation
+  level of CALD1 in AGS and HGC-27 cells (*p < 0.05, **p < 0.01, ***p < 0.001, ns = not
+  significant)'
+article_title: Identification of RECK as a protective prognostic indicator and a tumor
+  suppressor through regulation of the ERK/MAPK signaling pathway in gastric cancer.
+citation: Fangyuan Qi, et al. J Transl Med. 2023;21:766.
+
+doi: 10.1186/s12967-023-04644-z
+journal_title: Journal of Translational Medicine
+journal_nlm_ta: J Transl Med
+publisher_name: BioMed Central
+
+keywords:
+- Gastric cancer
+- RECK
+- Tumor suppressor
+- ERK/MAPK
+- CALD1
+
+---

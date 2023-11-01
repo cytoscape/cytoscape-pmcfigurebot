@@ -1,0 +1,32 @@
+---
+pmcid: PMC10603271
+image_filename: fphar-14-1255809-g006.jpg
+figure_link: /pmc/articles/PMC10603271/figure/F6/
+number: FIGURE 6
+figure_title: ''
+caption: SSTRs and SSTR-associated molecules co-expressed in COAD and their predicted
+  functions and signaling pathways. (A) The cBioPortal database was used to identify
+  the 178 SSTR-associated co-expressed molecules that are most frequently altered
+  in COAD. SSTR family members and their associated co-expressed genes were used to
+  generate the PPI network using the Cytoscape database. (B–F) Functional enrichment
+  analysis was used to analyze the biological functions of the SSTR family members
+  and their co-expressed genes. COAD, colon adenocarcinoma; PPI, protein–protein interaction;
+  SSTRs, somatostatin receptors.
+article_title: Immunological role and prognostic value of somatostatin receptor family
+  members in colon adenocarcinoma.
+citation: Xiaoqian Yu, et al. Front Pharmacol. 2023;14:1255809.
+
+doi: 10.3389/fphar.2023.1255809
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- SSTR family
+- colon adenocarcinoma
+- prognosis
+- immune infiltration
+- immunotherapy
+- therapeutic target
+
+---

@@ -1,0 +1,26 @@
+---
+pmcid: PMC10614246
+image_filename: ger-2023-0069-0010-531287_F03.jpg
+figure_link: /pmc/articles/PMC10614246/figure/F3/
+number: Fig. 3
+figure_title: ''
+caption: a PPI network of 23 identified genes. b PPI network of 23 identified genes
+  via Cytoscape. The redder colors represent higher degree according to the MCC algorithm.
+  c Rank of 23 genes according to the MCC algorithm. PPI, protein-protein interaction;
+  MCC, maximal clique centrality.
+article_title: Identification and Validation of an Aging-Associated circRNA-miRNA-mRNA
+  Network in Neovascular Age-Related Macular Degeneration.
+citation: Jiali Wu, et al. Gerontology. 2023 Oct;69(10):1218-1231.
+
+doi: 10.1159/000531287
+journal_title: Gerontology
+journal_nlm_ta: Gerontology
+publisher_name: S. Karger AG
+
+keywords:
+- Age-related macular degeneration
+- Aging
+- Circular RNA
+- MicroRNA
+
+---
