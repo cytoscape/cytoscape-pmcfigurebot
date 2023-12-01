@@ -1,0 +1,26 @@
+---
+pmcid: PMC10681599
+image_filename: medi-102-e36267-g004.jpg
+figure_link: /pmc/articles/PMC10681599/figure/F4/
+number: Figure 4
+figure_title: ''
+caption: PPI analysis based on Cytoscape. (A) Protein–protein interaction (PPI) network
+  of differentially expressed DEGs. (B) Top 15 genes with the highest MCC scores in
+  DEGs. DEGs = differentially expressed genes, MCC = maximal clique centrality.
+article_title: Identification of metabolism-related gene signature in lung adenocarcinoma.
+citation: Ning Wang, et al. Medicine (Baltimore). 2023 Nov 24;102(47):e36267.
+
+doi: 10.1097/MD.0000000000036267
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- Gene signature
+- LUAD
+- nomogram
+- overall survival
+- prognostic
+- TCGA
+
+---

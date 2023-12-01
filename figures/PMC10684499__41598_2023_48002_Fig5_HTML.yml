@@ -1,0 +1,38 @@
+---
+pmcid: PMC10684499
+image_filename: 41598_2023_48002_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC10684499/figure/Fig5/
+number: Figure 5
+figure_title: ''
+caption: Identification of hub genes associated with immune pathways in ARID1A-PIK3CA
+  mutational co-occurrence luminal tumors. WGCNA analysis of luminal tissues exhibiting
+  PIK3CA mutations (n = 780). (a) A module-trait heatmap. (b) ORA for the ‘yellow’
+  module. (c) ORA for the top-ranked 5% (with trait gene significance ≥ 0.1 and module
+  membership ≥ 0.8) hub genes in the ‘yellow’ module. (d) The protein–protein interaction
+  (PPI) network of hub genes in the ‘yellow’ module is visualized by the Cytoscape
+  software. Colored circles represent the connectivity degree of the hub gene. Darker
+  colors correspond to higher degrees of connectivity. (e) The top seven key hub genes
+  with the highest connectivity degrees in a STRING PPI network of the ‘yellow’ module.
+  (f) mRNA expression levels of CTL4A were investigated in luminal tumors according
+  to their ARID1A and PIK3CA mutation status. The RNA-seq expression dataset obtained
+  from patients with coexistent ARID1A-PIK3CA mutations (n = 50) and controls (n = 897).
+  The box plots display the expression distribution of CTL4A across the different
+  groups. The line in the middle represents the median value (**p ≤ 0.01, Wilcoxon
+  test). (g) Venn diagram showing the overlap between 135 unique DEGs genes of ARID1A-PIK3CA
+  mutational co-occurrence tumors (n = 50) and the seven key hub genes.
+article_title: Coexistent ARID1A-PIK3CA mutations are associated with immune-related
+  pathways in luminal breast cancer.
+citation: Liat Anabel Sinberger, et al. Sci Rep. 2023;13:20911.
+
+doi: 10.1038/s41598-023-48002-x
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Computational biology and bioinformatics
+- Genomics
+- Cancer
+- Breast cancer
+
+---

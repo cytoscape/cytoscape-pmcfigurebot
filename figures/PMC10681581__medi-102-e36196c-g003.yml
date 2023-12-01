@@ -1,0 +1,35 @@
+---
+pmcid: PMC10681581
+image_filename: medi-102-e36196c-g003.jpg
+figure_link: /pmc/articles/PMC10681581/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: Screening core components and core objectives of DTDP in the treatment of
+  DN. (A) Venn diagram of the intersection of the DTDP target and DN genes. PPI network
+  was constructed with STRING. (B) The PPI network of the 22 intersecting targets
+  was constructed using Cytoscope software. Each node’s color denotes the degree,
+  from red (highest) to yellow (lowest), as the node degree decreases. (C) Screening
+  the top 10 core genes in the network according to the degree. (D) the degree of
+  top 10 core genes were drawn by Bar graph. (E) Screening core components. In the
+  Cytoscape software, components corresponding to 22 interleaved targets are extracted
+  from the component-target network of DTDP, and the PPI network screening graph was
+  drawn based on the ranking of the degree values. (F) The histogram shows the degree
+  value of the top 19 core components. DC = degree centrality, DN = diabetes nephropathy,
+  DTDP = Dahuang-Tusizi drug pair, PPI= protein–protein interaction.
+article_title: Exploring the mechanism of Dahuang-Tusizi drug pair in the treatment
+  of diabetes nephropathy based on network pharmacology and immune infiltration analysis.
+citation: Wenjing Liu, et al. Medicine (Baltimore). 2023 Nov 24;102(47):e36196.
+
+doi: 10.1097/MD.0000000000036020
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- Dahuang-Tusizi drug pair
+- diabetes nephropathy
+- immune infiltration
+- molecular docking
+- network pharmacology
+
+---
