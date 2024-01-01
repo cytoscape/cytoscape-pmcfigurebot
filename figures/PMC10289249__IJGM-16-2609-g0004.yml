@@ -1,0 +1,27 @@
+---
+pmcid: PMC10289249
+image_filename: IJGM-16-2609-g0004.jpg
+figure_link: /pmc/articles/PMC10289249/figure/f0004/
+number: Figure 4
+figure_title: ''
+caption: PPI network and MCC analysis. Construction of PPI network based on IRDEGs
+  in STRING database and disconnected nodes were hided (A). The MCC scores of IRDEGs
+  were analyzed using Cytohubba and displayed in Cytoscape software (B).
+article_title: Identification and Validation of Hub Immune-Related Genes in Non-Alcoholic
+  Fatty Liver Disease.
+citation: Juyi Li, et al. Int J Gen Med. 2023;16:2609-2621.
+
+doi: 10.2147/IJGM.S413545
+journal_title: International Journal of General Medicine
+journal_nlm_ta: Int J Gen Med
+publisher_name: Dove
+
+keywords:
+- nonalcoholic fatty liver disease
+- immune infiltration
+- BTB domain and CNC homolog 2
+- BACH2
+- S100 calcium binding protein A9
+- S100A9
+
+---

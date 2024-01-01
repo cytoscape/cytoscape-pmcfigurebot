@@ -1,0 +1,27 @@
+---
+pmcid: PMC10558807
+image_filename: gr1.jpg
+figure_link: /pmc/articles/PMC10558807/figure/fig1/
+number: Fig. 1
+figure_title: ''
+caption: Target collection and network construction. A) Venn diagram of XSLJZT component
+  targets and GC targets. B) GC-related targets. C) Cytoscape treated PPI network
+  of XSLJZT-treated GC.
+article_title: A study related to the treatment of gastric cancer with Xiang-Sha-Liu-Jun-Zi-Tang
+  based on network analysis.
+citation: Ke Jiang, et al. Heliyon. 2023 Sep;9(9):e19546.
+
+doi: 10.1016/j.heliyon.2023.e19546
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- XSLJZT
+- GC
+- Network Pharmacology
+- Molecular Docking
+- WGCNA
+- Mechanism of action
+
+---

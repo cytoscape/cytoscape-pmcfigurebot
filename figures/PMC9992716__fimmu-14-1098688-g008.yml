@@ -1,0 +1,26 @@
+---
+pmcid: PMC9992716
+image_filename: fimmu-14-1098688-g008.jpg
+figure_link: /pmc/articles/PMC9992716/figure/f8/
+number: Figure 8
+figure_title: ''
+caption: (A) PPI network of common DEGs among SARS-CoV-2, H1N1, and Influenza. The
+  PPI network was generated using String and visualized in Cytoscape. (B) Determination
+  of hub genes from the PPI network by using the Cytohubba plugin in Cytosacpe.
+article_title: The use of bioinformatics methods to identify the effects of SARS-CoV-2
+  and influenza viruses on the regulation of gene expression in patients.
+citation: Zhongyi Sun, et al. Front Immunol. 2023;14:1098688.
+
+doi: 10.3389/fimmu.2023.1098688
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- COVID-19
+- ssGSEA
+- influenza
+- protein-protein interaction
+- immunity
+
+---

@@ -1,0 +1,28 @@
+---
+pmcid: PMC10060368
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC10060368/figure/fig0005/
+number: Fig. 5
+figure_title: ''
+caption: Identification and gene ontology of a PPI and chemical compound network for
+  FAM111B. (A) PPI and chemical association network of FAM111B for the top 17 most
+  highly related genes and 3 related chemical compounds. (B) Sub-network analysis
+  of the PPI network by MCODE using Cytoscape. (C) Gene-ontology biological process
+  terms associated with genes in the FAM111B PPI network.
+article_title: High FAM111B expression predicts aggressive clinicopathologic features
+  and poor prognosis in ovarian cancer.
+citation: Fang Wei, et al. Transl Oncol. 2023 Jun;32:101659.
+
+doi: 10.1016/j.tranon.2023.101659
+journal_title: Translational Oncology
+journal_nlm_ta: Transl Oncol
+publisher_name: Neoplasia Press
+
+keywords:
+- Ovarian cancer
+- FAM111B
+- Immunohistochemistry
+- Prognosis
+- Clinicopathologic feature
+
+---

@@ -1,0 +1,28 @@
+---
+pmcid: PMC9761171
+image_filename: atm-10-22-1201-f2.jpg
+figure_link: /pmc/articles/PMC9761171/figure/f2/
+number: Figure 2
+figure_title: ''
+caption: PPI network of common DE-mRNAs in GSE43292 and GSE97210. (A) Venn diagram
+  represents that common DE-mRNAs in datasets GSE43292 and GSE97210. (B) PPI network
+  of DE-mRNAs. The red circles and blue circles represent up-regulated and down-regulated
+  DE-mRNAs, respectively. (C) Functional enrichment analysis was performed using Cytoscape.
+  PPI, protein-protein interaction; DE-mRNAs, differentially expressed mRNAs.
+article_title: MiR-148a-3p attenuates apoptosis and inflammation by targeting CNTN4
+  in atherosclerosis.
+citation: Kai Wang, et al. Ann Transl Med. 2022 Nov;10(22):1201.
+
+doi: 10.21037/atm-22-3768
+journal_title: Annals of Translational Medicine
+journal_nlm_ta: Ann Transl Med
+publisher_name: AME Publishing Company
+
+keywords:
+- Atherosclerosis (AS)
+- miR-148a-3p
+- CNTN4
+- apoptosis
+- inflammation
+
+---

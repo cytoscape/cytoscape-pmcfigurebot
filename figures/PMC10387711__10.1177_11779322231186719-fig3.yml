@@ -1,0 +1,31 @@
+---
+pmcid: PMC10387711
+image_filename: 10.1177_11779322231186719-fig3.jpg
+figure_link: /pmc/articles/PMC10387711/figure/fig3-11779322231186719/
+number: Figure 3
+figure_title: ''
+caption: PPI network and the most significant modules of DEGs. (A) The PPI network
+  of DEGs was constructed using Cytoscape; (B) the most significant module was obtained
+  from PPI network with 16 nodes and 44 edges for upregulated genes; (C) the most
+  significant module was obtained from PPI network with 6 nodes and 20 edges for upregulated
+  genes. Upregulated genes are marked in green; downregulated genes are marked in
+  red. DEGs indicate differentially expressed genes; PPI, protein-protein interaction
+  network.
+article_title: Identification and Interaction Analysis of Molecular Markers in Pancreatic
+  Ductal Adenocarcinoma by Bioinformatics and Next-Generation Sequencing Data Analysis.
+citation: Muttanagouda Giriyappagoudar, et al. Bioinform Biol Insights. 2023;17:11779322231186719.
+
+doi: 10.1177/11779322231186719
+journal_title: Bioinformatics and Biology Insights
+journal_nlm_ta: Bioinform Biol Insights
+publisher_name: SAGE Publications
+
+keywords:
+- Pancreatic ductal adenocarcinoma
+- bioinformatics analysis
+- biomarker
+- enrichment analysis
+- differentially expressed genes
+- next-generation sequencing
+
+---

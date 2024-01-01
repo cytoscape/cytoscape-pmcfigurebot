@@ -1,0 +1,28 @@
+---
+pmcid: PMC10545342
+image_filename: medi-102-e35106-g002.jpg
+figure_link: /pmc/articles/PMC10545342/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: (A) The protein-protein interaction (PPI) network diagram from string database.
+  (B) The PPI network diagram after Cytoscape processing, and the dark orange nodes
+  are key targets. (C) The Clusters of PPI network. The pink round rectangle nodes
+  are seed nodes and the nodes of lavender triangle are not clustered. (D) The bar
+  diagram of the degree values of the key targets.
+article_title: 'Molecular targets and mechanisms of Guanxinning tablet in treating
+  atherosclerosis: Network pharmacology and molecular docking analysis.'
+citation: Chaofeng Niu, et al. Medicine (Baltimore). 2023 Sep 29;102(39):e35106.
+
+doi: 10.1097/MD.0000000000035106
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- atherosclerosis
+- Guanxinning tablet
+- molecular docking analysis
+- network pharmacology
+- potential target
+
+---

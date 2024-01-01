@@ -1,0 +1,29 @@
+---
+pmcid: PMC10578738
+image_filename: medi-102-e35384-g003.jpg
+figure_link: /pmc/articles/PMC10578738/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: Protein-protein interaction (PPI) network and “Drug-Component-Target-Disease”
+  network construction. (A) Venn diagram of intersection targets of Ecliptae Herba
+  components and breast cancer drawn by R software. (B) The PPI network obtained by
+  STRING database. (C) Hub genes of PPI network analyzed by Metascape database. (D)
+  The network of “Drug-Component-Target-Disease” obtained by Cytoscape software. PPI
+  = protein-protein interaction.
+article_title: Network pharmacology-based strategy for predicting therapy targets
+  of Ecliptae Herba on breast cancer.
+citation: Hui Li, et al. Medicine (Baltimore). 2023 Oct 13;102(41):e35384.
+
+doi: 10.1097/MD.0000000000035384
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- breast cancer
+- Ecliptae Herba
+- molecular docking
+- network pharmacology
+- TGF-β1
+
+---

@@ -1,0 +1,35 @@
+---
+pmcid: PMC10493797
+image_filename: tcr-12-08-1992-f3.jpg
+figure_link: /pmc/articles/PMC10493797/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: PPI network of DEGs and modules identification. (A) The PPI network of DEGs
+  was constructed using the STRING online database and visualized using Cytoscape,
+  and DEGs with ≤3 nodes and ≤3 edges were removed from the network. (B) The most
+  significant module obtained from the PPI network had 24 nodes with 275 edges. (C)
+  The second significant module obtained from the PPI network had 14 nodes with 91
+  edges. (D) The third significant module obtained from the PPI network had 20 nodes
+  with 60 edges. (E) The fourth significant module obtained from the PPI network had
+  31 nodes with 94 edges. Up-regulated genes are marked in red, and down-regulated
+  genes are marked in blue. The larger size or the darker color of the node indicates
+  the corresponding gene with a greater logFC. PPI, protein-protein interaction; DEG,
+  differentially expressed gene; STRING, Search Tool for the Retrieval of Interacting
+  Genes; FC, fold change.
+article_title: Novel potential urinary biomarkers for effective diagnosis and prognostic
+  evaluation of high-grade bladder cancer.
+citation: Zhi-Guo Zhang, et al. Transl Cancer Res. 2023 Aug 31;12(8):1992-2007.
+
+doi: 10.21037/tcr-23-98
+journal_title: Translational Cancer Research
+journal_nlm_ta: Transl Cancer Res
+publisher_name: AME Publishing Company
+
+keywords:
+- High-grade bladder cancer (HGBC)
+- urinary biomarkers
+- bioinformatics
+- diagnosis
+- prognosis
+
+---

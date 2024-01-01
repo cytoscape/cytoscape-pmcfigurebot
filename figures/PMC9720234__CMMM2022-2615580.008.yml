@@ -1,0 +1,22 @@
+---
+pmcid: PMC9720234
+image_filename: CMMM2022-2615580.008.jpg
+figure_link: /pmc/articles/PMC9720234/figure/fig8/
+number: Figure 8
+figure_title: ''
+caption: The PPI network of XFZYD on COPD. (a) The PPI network obtained from STRING
+  database. (b) The PPT network analyzed by Cytoscape. The node genes with blue color
+  were major genes. (c) The PPI network including the 49 major node genes. The node
+  genes with blue color were core genes. (d) The PPI network including the 19 core
+  node genes. The deeper the color of the node, the larger its degree value.
+article_title: Analysis of the Clinical Efficacy and Molecular Mechanism of Xuefu
+  Zhuyu Decoction in the Treatment of COPD Based on Meta-Analysis and Network Pharmacology.
+citation: Yu Hu, et al. Comput Math Methods Med. 2022;2022:2615580.
+
+doi: 10.1155/2022/2615580
+journal_title: Computational and Mathematical Methods in Medicine
+journal_nlm_ta: Comput Math Methods Med
+publisher_name: Hindawi
+
+keywords:
+---

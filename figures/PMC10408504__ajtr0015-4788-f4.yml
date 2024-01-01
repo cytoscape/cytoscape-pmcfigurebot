@@ -1,0 +1,30 @@
+---
+pmcid: PMC10408504
+image_filename: ajtr0015-4788-f4.jpg
+figure_link: /pmc/articles/PMC10408504/figure/fig04/
+number: Figure 4
+figure_title: ''
+caption: The differentially expressed immune-related genes and protein-protein interaction
+  PPI network. A. The intersection data of DEGs and immune-related genes (IRGs) were
+  presented. B. The PPI network of the differentially expressed IRGs. C. The top 20
+  genes with most adjacent nodes among the PPI network were screened by the cytoHubba
+  from Cytoscape software.
+article_title: Investigating possible dilated cardiomyopathy targets via bioinformatic
+  analysis.
+citation: Jun Zhou, et al. Am J Transl Res. 2023;15(7):4788-4795.
+
+doi: ''
+journal_title: American Journal of Translational Research
+journal_nlm_ta: Am J Transl Res
+publisher_name: e-Century Publishing Corporation
+
+keywords:
+- Dilated cardiomyopathy
+- KEGG
+- gene set enrichment analysis
+- BMP6
+- CD69
+- RUNX2
+- SPP1
+
+---

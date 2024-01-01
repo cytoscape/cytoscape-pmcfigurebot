@@ -1,0 +1,27 @@
+---
+pmcid: PMC10457392
+image_filename: 41598_2023_38568_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10457392/figure/Fig4/
+number: Figure 4
+figure_title: ''
+caption: PPI network plot and hub genes of ER stress-related DEGs. (A) The PPI network
+  of ER stress-related DEGs was visualized by Cytoscape software. (B) The hub genes
+  were identified with the MCC score using cytoHubba plugin in Cytoscape software.
+  PPI protein–protein interaction, ER endoplasmic reticulum, DEGs differentially expressed
+  genes.
+article_title: Analysis of endoplasmic reticulum stress-related gene signature for
+  the prognosis and pattern in diffuse large B cell lymphoma.
+citation: Chaofeng Zhang, et al. Sci Rep. 2023;13:13894.
+
+doi: 10.1038/s41598-023-38568-x
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Computational biology and bioinformatics
+- Data mining
+- Cancer
+- Haematological cancer
+
+---

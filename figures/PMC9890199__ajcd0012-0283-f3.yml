@@ -1,0 +1,27 @@
+---
+pmcid: PMC9890199
+image_filename: ajcd0012-0283-f3.jpg
+figure_link: /pmc/articles/PMC9890199/figure/fig03/
+number: Figure 3
+figure_title: ''
+caption: The identification of hub genes by PPI network and Cytoscape. A. The PPI
+  network constructed by 46 differentially expressed mRNAs with a linear relationship.
+  B. One module from the PPI network with tight clusters was analyzed using the plugin
+  MCODE in Cytoscape. The hub genes were shown in yellow. C. The top 10 identified
+  hub genes screened by the plugin cytoHubba in Cytoscape are displayed from a high
+  degree value (red) to a low degree value (yellow).
+article_title: Construction of the ceRNA network in the progression of acute myocardial
+  infarction.
+citation: Hui Liu, et al. Am J Cardiovasc Dis. 2022;12(6):283-297.
+
+doi: ''
+journal_title: American Journal of Cardiovascular Disease
+journal_nlm_ta: Am J Cardiovasc Dis
+publisher_name: e-Century Publishing Corporation
+
+keywords:
+- ceRNA network
+- circRNA-miRNA-mRNA
+- acute myocardial infarction
+
+---

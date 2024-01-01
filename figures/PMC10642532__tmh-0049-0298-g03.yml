@@ -1,0 +1,25 @@
+---
+pmcid: PMC10642532
+image_filename: tmh-0049-0298-g03.jpg
+figure_link: /pmc/articles/PMC10642532/figure/F3/
+number: Fig. 3
+figure_title: ''
+caption: Target genes and PPI network analyzed. a Identification of hsa-miR-381 and
+  hsa-miR-1245a target genes. b PPI network was visualized in Cytoscape. c Identified
+  the PPI network by cluster analysis. d Hub genes were identified by the overlapping
+  of the six methods in cytoHubba.
+article_title: Expression and Bioinformatics Analysis of Key miRNAs in Stored Red
+  Blood Cells.
+citation: Fang Jian, et al. Transfus Med Hemother. 2022 Sep;49(5):298-305.
+
+doi: 10.1159/000522102
+journal_title: Transfusion Medicine and Hemotherapy
+journal_nlm_ta: Transfus Med Hemother
+publisher_name: S. Karger AG
+
+keywords:
+- MicroRNAs
+- Erythrocyte
+- Bioinformatics analysis
+
+---

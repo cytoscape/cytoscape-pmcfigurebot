@@ -1,0 +1,25 @@
+---
+pmcid: PMC10551897
+image_filename: gr5.jpg
+figure_link: /pmc/articles/PMC10551897/figure/f0025/
+number: Fig. 5
+figure_title: ''
+caption: PPI Network obtained from Cytoscape software, nodes represent the proteins
+  and the edges represent the interaction between proteins.
+article_title: Multi-target mechanism of Solanum xanthocarpum for treatment of psoriasis
+  based on network pharmacology and molecular docking.
+citation: Nilanchala Sahu, et al. Saudi Pharm J. 2023 Nov;31(11):101788.
+
+doi: 10.1016/j.jsps.2023.101788
+journal_title: 'Saudi Pharmaceutical Journal : SPJ'
+journal_nlm_ta: Saudi Pharm J
+publisher_name: Elsevier
+
+keywords:
+- Solanum xanthocarpum
+- Psoriasis
+- Network pharmacology
+- Molecular docking
+- IMPPAT database
+
+---

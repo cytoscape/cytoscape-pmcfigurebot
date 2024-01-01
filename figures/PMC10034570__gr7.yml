@@ -1,0 +1,37 @@
+---
+pmcid: PMC10034570
+image_filename: gr7.jpg
+figure_link: /pmc/articles/PMC10034570/figure/fig7/
+number: Figure 7
+figure_title: ''
+caption: 'Protein-protein interaction (PPI) network and GO-BP enrichment analysis
+  of differentially expressed proteins in EVsSTRING v.11.5 (https://string-db.org/cgi/input.pl)
+  was used to analyze protein-protein interaction (PPI) analysis of differentially
+  expressed proteins (medium confidence score = 0.4). STRING PPI network was used
+  for cluster and GO (BP) enrichment analysis using Cytoscape plugin MCODE (https://apps.cytoscape.org/apps/MCODE)
+  (degree cutoff = 2, cluster finding: haircut, node score cutoff = 0.2, K-core =
+  2, maximum [max.] depth = 100). CytoHubb plugin was used to extract to hub genes
+  in the PPI network clusters. (A) Significant clusters from the PPI network and enriched
+  GO-BP terms of BM-MSC vs. UC-MSC differentially expressed proteins. (B) Significant
+  clusters from the PPI network and enriched GO-BP terms of HDC vs. UC-MSC differentially
+  expressed proteins. The orange diamonds indicate nodes, gray lines indicate edges,
+  and the blue diamonds indicate hub node genes. The PPI networks of differentially
+  expressed proteins among cell types are presented in .'
+article_title: Extracellular vesicle microRNA and protein cargo profiling in three
+  clinical-grade stem cell products reveals key functional pathways.
+citation: Ramana Vaka, et al. Mol Ther Nucleic Acids. 2023 Jun 13;32:80-93.
+
+doi: 10.1016/j.omtn.2023.03.001
+journal_title: Molecular Therapy. Nucleic Acids
+journal_nlm_ta: Mol Ther Nucleic Acids
+publisher_name: American Society of Gene & Cell Therapy
+
+keywords:
+- 'MT: Special Issue - Exploiting Extracellular Vesicles as Therapeutic Agents'
+- stem cells
+- extracellular vesicles
+- microRNA
+- proteins
+- functional enrichment
+
+---

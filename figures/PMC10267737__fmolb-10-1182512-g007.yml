@@ -1,0 +1,29 @@
+---
+pmcid: PMC10267737
+image_filename: fmolb-10-1182512-g007.jpg
+figure_link: /pmc/articles/PMC10267737/figure/F7/
+number: FIGURE 7
+figure_title: ''
+caption: The construction of the PPI network and the identification of the hub genes.
+  (A) PPI network based on the STRING database. (B) The PPI network was visualized
+  by Cytoscape software. (C) Screening of clusters of genes that were highly connected
+  using the MCODE algorithm.
+article_title: Identification of key signaling pathways and hub genes related to immune
+  infiltration in Kawasaki disease with resistance to intravenous immunoglobulin based
+  on weighted gene co-expression network analysis.
+citation: Yue Wang, et al. Front Mol Biosci. 2023;10:1182512.
+
+doi: 10.3389/fmolb.2023.1182512
+journal_title: Frontiers in Molecular Biosciences
+journal_nlm_ta: Front Mol Biosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- IVIG-resistance
+- intravenous immunoglobulin
+- Kawasaki disease
+- weighted gene coexpression network analysis
+- immune infiltration
+- neutrophil
+
+---

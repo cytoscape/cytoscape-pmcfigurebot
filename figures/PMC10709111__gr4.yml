@@ -1,0 +1,31 @@
+---
+pmcid: PMC10709111
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC10709111/figure/fig4/
+number: Fig. 4
+figure_title: ''
+caption: Potential target of ABR-MOR in the treatment of OP. A) PPI network from the
+  STRING database; B) PPI network visualized by Cytoscape software, with darker and
+  larger nodes representing higher levels of cores; C) Target modules obtained from
+  PPI network analysis.
+article_title: 'Molecular mechanism of Achyranthis bidentatae radix and Morindae officinalis
+  radix in osteoporosis therapy: An investigation based on network pharmacology, molecular
+  docking, and molecular dynamics simulations.'
+citation: Junwu Wang, et al. Biochem Biophys Rep. 2023 Dec;36:101586.
+
+doi: 10.1016/j.bbrep.2023.101586
+journal_title: Biochemistry and Biophysics Reports
+journal_nlm_ta: Biochem Biophys Rep
+publisher_name: Elsevier
+
+keywords:
+- Osteoporosis
+- Herbal formula
+- Ba ji tian liquor
+- Achyranthis bidentatae radix
+- Morindae officinalis radix
+- Network pharmacology
+- Molecular docking technique
+- Molecular dynamics simulation
+
+---

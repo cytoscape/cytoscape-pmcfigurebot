@@ -1,0 +1,30 @@
+---
+pmcid: PMC9953311
+image_filename: biomedicines-11-00571-g004.jpg
+figure_link: /pmc/articles/PMC9953311/figure/biomedicines-11-00571-f004/
+number: Figure 4
+figure_title: ''
+caption: The protein–protein interaction (PPI) network constructed via the STRING
+  database for the DEGs. (A) PPI network of the 79 co-mRNAs. (B) PPI network of the
+  26 ce-mRNAs. (C) The top modules networks were identified by Cytoscape MCODE. Both
+  the 79 co-mRNA and the 26 ce-mRNA list showed the same top modules. The shades of
+  color (yellow to red) represent the degree to which the molecules interact. (D)
+  Genes from the DEGs (co-mRNAs and ce-mRNAs) based on the PPI network analysis with
+  the degree of interaction in the PPI network hub nodes.
+article_title: Progression of Thoracic Aortic Dissection Is Aggravated by the hsa_circ_0007386/miR-1271-5P/IGF1R/AKT
+  Axis via Induction of Arterial Smooth Muscle Cell Apoptosis.
+citation: Xinsheng Xie, et al. Biomedicines. 2023 Feb;11(2):571.
+
+doi: 10.3390/biomedicines11020571
+journal_title: Biomedicines
+journal_nlm_ta: Biomedicines
+publisher_name: MDPI
+
+keywords:
+- thoracic aortic dissection
+- circRNA
+- miRNA
+- mRNA
+- IGF1R
+
+---

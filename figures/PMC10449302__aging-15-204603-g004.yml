@@ -1,0 +1,27 @@
+---
+pmcid: PMC10449302
+image_filename: aging-15-204603-g004.jpg
+figure_link: /pmc/articles/PMC10449302/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: Construction of the PPI network and module analysis of GRB10. (A) The heatmap
+  of top 10 co-expressed genes with GRB10. (B) PPI network was constructed using Cytoscape
+  software. (C) The top 30 nodes in the number of edges of the protein-protein interaction
+  network node from the string database. (D) The hub genes were identified using Cytoscape.
+  (E–G) The core sub-network of the protein-protein interaction network.
+article_title: GRB10 is a novel factor associated with gastric cancer proliferation
+  and prognosis.
+citation: Li-Li Ren, et al. Aging (Albany NY). 2023 May 15;15(9):3394-3409.
+
+doi: 10.18632/aging.204603
+journal_title: Aging (Albany NY)
+journal_nlm_ta: Aging (Albany NY)
+publisher_name: Impact Journals
+
+keywords:
+- GRB10
+- gastric cancer
+- proliferation
+- prognosis
+
+---

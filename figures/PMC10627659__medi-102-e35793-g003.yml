@@ -1,0 +1,25 @@
+---
+pmcid: PMC10627659
+image_filename: medi-102-e35793-g003.jpg
+figure_link: /pmc/articles/PMC10627659/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: The PPI network. (A) STRING database image, (B) The Cytoscape topology analysis
+  Network image. PPI = protein-protein interactions.
+article_title: Exploring the pathogenesis of depression and potential antidepressants
+  through the integration of reverse network pharmacology, molecular docking, and
+  molecular dynamics.
+citation: Zhongwen Lu, et al. Medicine (Baltimore). 2023 Nov 3;102(44):e35793.
+
+doi: 10.1097/MD.0000000000035793
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- depression
+- molecular docking
+- molecular dynamics
+- reverse network pharmacology
+
+---

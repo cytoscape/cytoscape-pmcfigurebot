@@ -1,0 +1,29 @@
+---
+pmcid: PMC10289276
+image_filename: iovs-64-7-32-f004.jpg
+figure_link: /pmc/articles/PMC10289276/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: CACNA1A may participate in angiogenesis in PDR by regulating the expression
+  of VEGFA. (A) The PPI network diagram of PDR angiogenesis-related genes was constructed
+  using the STRING database. (B) The PPI network diagram of the number of associated
+  genes of each gene. (C) The PPI network diagram of CACNA1A-regulated angiogenesis
+  in PDR constructed by Cytoscape software.
+article_title: High-Throughput Sequencing Data Reveal an Antiangiogenic Role of HNF4A-Mediated
+  CACNA1A/VEGFA Axis in Proliferative Diabetic Retinopathy.
+citation: Yuan Yin, et al. Invest Ophthalmol Vis Sci. 2023 Jun;64(7):32.
+
+doi: 10.1167/iovs.64.7.32
+journal_title: Investigative Ophthalmology & Visual Science
+journal_nlm_ta: Invest Ophthalmol Vis Sci
+publisher_name: The Association for Research in Vision and Ophthalmology
+
+keywords:
+- high-throughput sequencing
+- proliferative diabetic retinopathy (PDR)
+- HNF4A
+- CACNA1A
+- VEGFA
+- angiogenesis
+
+---

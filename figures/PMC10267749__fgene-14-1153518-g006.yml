@@ -1,0 +1,27 @@
+---
+pmcid: PMC10267749
+image_filename: fgene-14-1153518-g006.jpg
+figure_link: /pmc/articles/PMC10267749/figure/F6/
+number: FIGURE 6
+figure_title: ''
+caption: The PPI network, top 20 hub genes, and core ceRNA sub-network. (A) The PPI
+  network of 92 DEmRNAs constructed by Cytoscape software. Larger nodes indicate higher
+  gene connectivity. (B) The top 20 hub genes obtained by Cytohubba plugin. (C) The
+  core sub-network screened from the ceRNA network by the 20 hub genes.
+article_title: Integrated analysis of circRNA-associated ceRNA network in ischemic
+  stroke.
+citation: Rongli Fan, et al. Front Genet. 2023;14:1153518.
+
+doi: 10.3389/fgene.2023.1153518
+journal_title: Frontiers in Genetics
+journal_nlm_ta: Front Genet
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- whole transcriptome-wide analysis
+- ischemic stroke
+- ceRNA network
+- hsa_circ_0011474
+- CDKN1A
+
+---

@@ -1,0 +1,21 @@
+---
+pmcid: PMC9726255
+image_filename: IJG2022-2723264.001.jpg
+figure_link: /pmc/articles/PMC9726255/figure/fig1/
+number: Figure 1
+figure_title: ''
+caption: Venn diagram, PPI network, and module of IL1RN. (a) DEGs were selected with
+  a fold change >1 and P < 0.01 among the mRNA expression profiling sets GSE41328,
+  GSE37364, and GSE15960. (b) The PPI network of DEGs was constructed using Cytoscape.
+  (c) The most module of IL1RN was obtained from PPI network with 33 edges.
+article_title: 'IL1RN and PRRX1 as a Prognostic Biomarker Correlated with Immune Infiltrates
+  in Colorectal Cancer: Evidence from Bioinformatic Analysis.'
+citation: Qi Wang, et al. Int J Genomics. 2022;2022:2723264.
+
+doi: 10.1155/2022/2723264
+journal_title: International Journal of Genomics
+journal_nlm_ta: Int J Genomics
+publisher_name: Hindawi
+
+keywords:
+---

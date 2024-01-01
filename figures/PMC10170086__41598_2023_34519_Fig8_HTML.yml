@@ -1,0 +1,24 @@
+---
+pmcid: PMC10170086
+image_filename: 41598_2023_34519_Fig8_HTML.jpg
+figure_link: /pmc/articles/PMC10170086/figure/Fig8/
+number: Figure 8
+figure_title: ''
+caption: Protein‒protein interaction (PPI) network of overlapping genes in LIHC. (A)
+  PPI network for overlapping genes, analysed by STRING. (B) Network of hub genes
+  screened from overlapping genes by MCODE analysis with Cytoscape software.
+article_title: Pancancer analysis of oncogenic BARX2 identifying its prognostic value
+  and immunological function in liver hepatocellular carcinoma.
+citation: Shian Yu, et al. Sci Rep. 2023;13:7560.
+
+doi: 10.1038/s41598-023-34519-8
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Computational biology and bioinformatics
+- Immunology
+- Oncology
+
+---

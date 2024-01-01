@@ -1,0 +1,30 @@
+---
+pmcid: PMC10248730
+image_filename: jpps-26-11225-g004.jpg
+figure_link: /pmc/articles/PMC10248730/figure/F4/
+number: FIGURE 4
+figure_title: ''
+caption: Protein–protein interaction (PPI) network of RPD against IBS and UC. (A)
+  The interactive PPI network acquired from STRING database platform. (B) PPI network
+  imported from STRING database to Cytoscape 3.8.0. (C) The PPI network of more significant
+  proteins is composed of 31 nodes and 153 edges. (D) Core PPI network containing
+  13 nodes and 56 edges. A node with a larger size and deeper color possesses a higher
+  degree value, such as JUN, TP53, MAPK1, RELA, and MYC.
+article_title: Network pharmacology and molecular docking reveal the immunomodulatory
+  mechanism of rhubarb peony decoction for the treatment of ulcerative colitis and
+  irritable bowel syndrome.
+citation: Leilei Zhai, et al. J Pharm Pharm Sci. 2023;26:11225.
+
+doi: 10.3389/jpps.2023.11225
+journal_title: Journal of Pharmacy & Pharmaceutical Sciences
+journal_nlm_ta: J Pharm Pharm Sci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- ulcerative colitis
+- network pharmacology
+- molecular docking
+- irritable bowel syndrome
+- rhubarb peony decoction
+
+---

@@ -1,0 +1,29 @@
+---
+pmcid: PMC10019133
+image_filename: medi-102-e33291-g002.jpg
+figure_link: /pmc/articles/PMC10019133/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: PPI network constructed by STRING online database and visualized by Cytoscape.
+  (A) PPI network without isolated or partially disconnected nodes. (B) Module analysis
+  via Cytoscape software (degree cutoff = 2, node score cutoff = 0.2, k-core = 2,
+  and max. Depth = 100). (C) Selection of hub genes using the plug-in cytoHubba of
+  Cytoscape. All of them were upregulated genes. PPI = protein-protein interaction.
+article_title: Screening of potential hub genes and key pathways associated with breast
+  cancer by bioinformatics tools.
+citation: Abdelkader Oumeddour. Medicine (Baltimore). 2023 Mar 17;102(11):e33291.
+
+doi: 10.1097/MD.0000000000033291
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- biomarkers
+- breast cancer
+- gene ontology
+- immune infiltration
+- survival
+- transcription factors
+
+---

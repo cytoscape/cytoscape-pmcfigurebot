@@ -1,0 +1,37 @@
+---
+pmcid: PMC9905825
+image_filename: fnins-16-1035444-g009.jpg
+figure_link: /pmc/articles/PMC9905825/figure/F9/
+number: FIGURE 9
+figure_title: ''
+caption: Protein–protein interaction network analysis of differentially expressed
+  proteins in SH-SY5Y cells after SIRT4 overexpression. (A) Histogram of the top 10
+  active proteins in the PPI network analysis of upregulated proteins according to
+  the betweenness centrality. (B) Histogram of the top 10 active proteins in the PPI
+  network analysis of downregulated proteins according to the betweenness centrality.
+  (C) Visual display of the PPI network analysis of upregulated proteins. (D) Visual
+  display of the PPI network analysis of downregulated proteins. A network of interactions
+  from the STRING database with a confidence score >0.7 (high confidence) was visualized
+  in Cytoscape. The betweenness centrality was calculated based on the Cytoscape plug-in
+  CytoNCA. The size of the circle represents the number of proteins interacting with
+  the corresponding differentially expressed proteins.
+article_title: Proteomic profiling reveals the potential mechanisms and regulatory
+  targets of sirtuin 4 in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-induced Parkinson’s
+  mouse model.
+citation: Huidan Weng, et al. Front Neurosci. 2022;16:1035444.
+
+doi: 10.3389/fnins.2022.1035444
+journal_title: Frontiers in Neuroscience
+journal_nlm_ta: Front Neurosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- Parkinson’s disease
+- SIRT4
+- quantitative proteomic analysis
+- bioinformatics
+- biomarkers
+- FABP4
+- PPAR signaling pathway
+
+---

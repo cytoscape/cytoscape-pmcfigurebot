@@ -1,0 +1,26 @@
+---
+pmcid: PMC10266043
+image_filename: ijmsv20p0836g007.jpg
+figure_link: /pmc/articles/PMC10266043/figure/F7/
+number: Figure 7
+figure_title: ''
+caption: (A)Establishment of PPI network on the STRING database. PPI, protein-protein
+  interaction. (B)Another form of PPI network shown by the Cytoscape. (C)Screening
+  of hub genes by the MNC algorithm.
+article_title: Identification of Three Cuproptosis-specific Expressed Genes as Diagnostic
+  Biomarkers and Therapeutic Targets for Atherosclerosis.
+citation: Yong-tong Chen, et al. Int J Med Sci. 2023;20(7):836-848.
+
+doi: 10.7150/ijms.83009
+journal_title: International Journal of Medical Sciences
+journal_nlm_ta: Int J Med Sci
+publisher_name: Ivyspring International Publisher
+
+keywords:
+- atherosclerosis
+- cuproptosis
+- cuproptosis-related gene (CRG)
+- ceRNA network
+- bioinformatics analysis
+
+---

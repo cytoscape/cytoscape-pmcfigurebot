@@ -1,0 +1,28 @@
+---
+pmcid: PMC10680469
+image_filename: DDDT-17-3453-g0005.jpg
+figure_link: /pmc/articles/PMC10680469/figure/f0004/
+number: Figure 4
+figure_title: ''
+caption: 'PPI Network Analysis. (A) The interactive PPI network obtained from STRING
+  database with the minimum required interaction score set to 0.97. Each node represents
+  relevant targets, and edges stand for protein-protein associations. (B) PPI network
+  imported from STRING database to Cytoscape 3.9.1. (C) PPI network of more significant
+  proteins extracted from (B) by filtering 4 parameters: DC, EC, BC and CC.'
+article_title: Integrated Network Pharmacology, Molecular Docking and Animal Experiment
+  to Explore the Efficacy and Potential Mechanism of Baiyu Decoction Against Ulcerative
+  Colitis by Enema.
+citation: Yuan Cui, et al. Drug Des Devel Ther. 2023;17:3453-3472.
+
+doi: 10.2147/DDDT.S432268
+journal_title: Drug Design, Development and Therapy
+journal_nlm_ta: Drug Des Devel Ther
+publisher_name: Dove
+
+keywords:
+- network pharmacology
+- ulcerative colitis
+- enema therapy
+- TLR4/MyD88/NF-κB pathway
+
+---

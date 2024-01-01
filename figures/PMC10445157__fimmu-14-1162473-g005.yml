@@ -1,0 +1,27 @@
+---
+pmcid: PMC10445157
+image_filename: fimmu-14-1162473-g005.jpg
+figure_link: /pmc/articles/PMC10445157/figure/f5/
+number: Figure 5
+figure_title: ''
+caption: The PPI network and cluster modules. PPI network of DEGs was conducted by
+  STRING software (A). Visualization of PPI networks of DEGs using Cytoscape software
+  (B) and screening of the 3 most important gene cluster modules by MCODE program
+  (C–E).
+article_title: Identifying immune cell infiltration and effective diagnostic biomarkers
+  in Crohn’s disease by bioinformatics analysis.
+citation: Rong Huang, et al. Front Immunol. 2023;14:1162473.
+
+doi: 10.3389/fimmu.2023.1162473
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- Crohn’s disease
+- fibrosis
+- ssGSEA
+- immune cells
+- biomarker
+
+---

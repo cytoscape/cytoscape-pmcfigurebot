@@ -1,0 +1,29 @@
+---
+pmcid: PMC10402989
+image_filename: medi-102-e34476-g003.jpg
+figure_link: /pmc/articles/PMC10402989/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: Cytoscape 3.9.1 software was used to screen the core targets in the PPI network.
+  (A) The visualization of the PPI network was processed by Cytoscape 3.9.1 software.
+  The diamond represents the target, and the size and color of the shape become progressively
+  larger and darker with increasing degrees. (B) Degree of the core targets in the
+  PPI network. PPI = protein–protein interaction.
+article_title: 'Researching the molecular mechanisms of Taohong Siwu Decoction in
+  the treatment of varicocele-associated male infertility using network pharmacology
+  and molecular docking: A review.'
+citation: Bo Wu, et al. Medicine (Baltimore). 2023 Aug 4;102(31):e34476.
+
+doi: 10.1097/MD.0000000000034476
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- mechanism
+- molecular docking
+- network pharmacology
+- Taohong Siwu Decoction
+- varicocele-associated male infertility
+
+---

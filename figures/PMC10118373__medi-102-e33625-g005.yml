@@ -1,0 +1,27 @@
+---
+pmcid: PMC10118373
+image_filename: medi-102-e33625-g005.jpg
+figure_link: /pmc/articles/PMC10118373/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: The PPI network of intersection targets. (A) The PPI network was constructed
+  by the STRING database. (B) The PPI network was modified by Cytoscape 3.9.1. The
+  larger the protein node was, the darker the color, and the more lines there were,
+  the greater the degree value. PPI = protein–protein interaction, STRING = search
+  tool for the retrieval of interacting genes/proteins.
+article_title: Exploring the molecular mechanism of Nux Vomica in treating ischemic
+  stroke using network pharmacology and molecular docking methods.
+citation: Chengdong Zhang, et al. Medicine (Baltimore). 2023 Apr 21;102(16):e33625.
+
+doi: 10.1097/MD.0000000000033625
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- ischemic stroke
+- molecular docking
+- network pharmacology
+- Nux Vomica
+
+---

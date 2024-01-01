@@ -1,0 +1,31 @@
+---
+pmcid: PMC10227520
+image_filename: fimmu-14-1152186-g004.jpg
+figure_link: /pmc/articles/PMC10227520/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: (A) The PPI network of common DEGs among COVID-19, ARDS and sepsis. In the
+  figure, the octagonal nodes represent DEGs and edges represent the interactions
+  between nodes. The PPI network was generated using String and visualized in Cytoscape.
+  (B) The hub genes were identified from the PPI network using the Cytohubba plug
+  in Cytoscape. Here, the colored nodes represent the highlighted top 10 hub genes
+  and their interactions with other molecules.
+article_title: Bioinformatics and system biology approach to identify the influences
+  among COVID-19, ARDS and sepsis.
+citation: Peiyu Li, et al. Front Immunol. 2023;14:1152186.
+
+doi: 10.3389/fimmu.2023.1152186
+journal_title: Frontiers in Immunology
+journal_nlm_ta: Front Immunol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- COVID-19
+- ARDS
+- sepsis
+- differentially expressed genes
+- gene ontology
+- protein-protein interaction
+- drug molecule
+
+---

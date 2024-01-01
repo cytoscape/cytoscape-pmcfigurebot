@@ -1,0 +1,26 @@
+---
+pmcid: PMC9961266
+image_filename: ijms-24-04221-g003.jpg
+figure_link: /pmc/articles/PMC9961266/figure/ijms-24-04221-f003/
+number: Figure 3
+figure_title: ''
+caption: Construction of PPI network and hub gene screening. (A) PPI network constructed
+  by string database and Cytoscape visualization. (B) Hub gene identified by Cytoscape
+  based on MCC algorithm.
+article_title: In Silico Analysis of Ferroptosis-Related Genes and Its Implication
+  in Drug Prediction against Fluorosis.
+citation: Bin Liu, et al. Int J Mol Sci. 2023 Feb;24(4):4221.
+
+doi: 10.3390/ijms24044221
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- ferroptosis
+- fluorosis
+- molecular docking
+- molecular dynamics simulation
+- therapeutic drugs
+
+---

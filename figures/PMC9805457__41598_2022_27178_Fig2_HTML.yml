@@ -1,0 +1,35 @@
+---
+pmcid: PMC9805457
+image_filename: 41598_2022_27178_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC9805457/figure/Fig2/
+number: Figure 2
+figure_title: ''
+caption: 'Partition of PPI network and distribution of each group in PPI network.
+  (a,e,i,m) PPI network of DEGs in the Skeletal muscle denervation dataset, Prostate
+  cancer dataset, Alzheimer''s disease dataset and Gastric cancer dataset. The degree
+  of each node was calculated. The larger the degree of the node, the darker the color
+  and the closer the position is to the center. The top 20% nodes are defined as core
+  regions, the top 20%-50% nodes are defined as sub core regions, and the remaining
+  nodes are noncore regions. (b,f,j,n) Distribution of FC group in PPI network. (c,g,k,o)
+  Distribution of p-value group in PPI network. (d,h,l,p) Distribution of C value
+  group in PPI network. Red is the selected node, blue is the unselected. Number of
+  genes in core region, sub core region and noncore region of each group has been
+  tagged. STRING v11.0 was used to generate protein interactions, and the resulting
+  network was visualized using Cytoscape v3.7.2. (FC group: the collection of the
+  top10 FC miRNAs’ predictive target mRNAs; p-value group: the collection of the top10
+  p-value miRNAs’ predictive target mRNAs; C value group: the collection of the top10
+  C value miRNAs’ predictive target mRNAs).'
+article_title: A pathway analysis-based algorithm for calculating the participation
+  degree of ncRNA in transcriptome.
+citation: Xinyi Gu, et al. Sci Rep. 2022;12:22654.
+
+doi: 10.1038/s41598-022-27178-8
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cell biology
+- Genetics
+
+---

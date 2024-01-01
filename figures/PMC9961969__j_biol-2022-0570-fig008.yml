@@ -1,0 +1,27 @@
+---
+pmcid: PMC9961969
+image_filename: j_biol-2022-0570-fig008.jpg
+figure_link: /pmc/articles/PMC9961969/figure/j_biol-2022-0570_fig_008/
+number: Figure 8
+figure_title: ''
+caption: PPI network of downregulated DEGs and identification of hub genes. We also
+  mapped downregulated DEGs to the STRING database to construct a PPI network and
+  re-imported them into Cytoscape software. PPI network composed of 149 nodes and
+  684 edges. Hub genes obtained by Degree algorithm, Ptprc, C1qa, Emr1, Fcgr3, and
+  Ctss were considered to be key downregulated genes.
+article_title: Effect of ketogenic diet on exercise tolerance and transcriptome of
+  gastrocnemius in mice.
+citation: Jie Zhang, et al. Open Life Sci. 2023;18(1):20220570.
+
+doi: 10.1515/biol-2022-0570
+journal_title: Open Life Sciences
+journal_nlm_ta: Open Life Sci
+publisher_name: De Gruyter
+
+keywords:
+- ketogenic diet
+- exercise tolerance
+- lipid metabolism
+- high-throughput sequencing
+
+---

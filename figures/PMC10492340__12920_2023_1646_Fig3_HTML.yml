@@ -1,0 +1,36 @@
+---
+pmcid: PMC10492340
+image_filename: 12920_2023_1646_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC10492340/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: PPI Network Construction and Selection of Hub Gene. (A) Venn diagram comparison
+  analysis for DEGs of 18 h, 48 h, and 72 h on live MTB-infected vs. NI group. (B)
+  Identification of ten hub genes in the 18 h live MTB-infected group compared with
+  18 h NI group using the plugin cytoHubba of Cytoscape evaluated with MCC scores.
+  (C) Identification of ten hub genes in the 48 h live MTB-infected group compared
+  with 48 h NI group using the plugin cytoHubba of Cytoscape evaluated with MCC scores.
+  (D) Identification of ten hub genes in the 72 h live MTB-infected group compared
+  with 72 h NI group using the plugin cytoHubba of Cytoscape evaluated with MCC scores.
+  (E) Identification of ten hub genes in 1835 common DEGs using the plugin cytoHubba
+  of Cytoscape evaluated with MCC scores. (F) PPI network construction on 1835 common
+  DEGs was visualized by Cytoscape software. (PPI, protein-protein interactions; MTB,
+  Mycobacterium tuberculosis; NI, non-infected; DEGs, differentially expressed genes;
+  MCC, maximal cinque centrality)
+article_title: Integrated bioinformatics analysis of dendritic cells hub genes reveal
+  potential early tuberculosis diagnostic markers.
+citation: Xiao Wu, et al. BMC Med Genomics. 2023;16:214.
+
+doi: 10.1186/s12920-023-01646-0
+journal_title: BMC Medical Genomics
+journal_nlm_ta: BMC Med Genomics
+publisher_name: BioMed Central
+
+keywords:
+- Tuberculosis
+- Dendritic cell
+- Hub gene
+- Bioinformatics
+- IFN-γ response
+
+---

@@ -1,0 +1,31 @@
+---
+pmcid: PMC10019263
+image_filename: medi-102-e33276-g006.jpg
+figure_link: /pmc/articles/PMC10019263/figure/F6/
+number: Figure 6
+figure_title: ''
+caption: Core PPI network. CytoNCA plug-in in Cytoscape used to filter PPI networks,
+  select targets with DC, EC, CC, and BC larger than their average values, and construct
+  core PPI networks. (A) Core target PPI networks exported from STRING database. (B)
+  Core target PPI networks processed using Cytoscape software. The larger the DC value,
+  the larger the points, the darker the color. The larger the DC value, the larger
+  the points, the darker the color, and the more centered the position. BC = betweenness
+  centrality, CC = cellular component, DC = degree of centrality, EC = eigenvector
+  centrality, PPI = protein-protein interaction.
+article_title: The potential mechanism of the Ruhao Dashi formula in treating acute
+  pneumonia via network pharmacology and molecular docking.
+citation: Xiu-Xiu Yi, et al. Medicine (Baltimore). 2023 Mar 17;102(11):e33276.
+
+doi: 10.1097/MD.0000000000033276
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- acute pneumonia
+- functional enrichment analysis
+- molecular docking
+- network pharmacology
+- Ruhao Dashi formula
+
+---

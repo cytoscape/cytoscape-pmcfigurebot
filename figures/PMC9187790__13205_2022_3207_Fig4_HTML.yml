@@ -1,0 +1,27 @@
+---
+pmcid: PMC9187790
+image_filename: 13205_2022_3207_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9187790/figure/Fig4/
+number: Fig. 4
+figure_title: ''
+caption: A Protein–protein interaction (PPI) network of MCM7 obtained using Cytoscape
+  v3.8.2. Purple nodes signify the proteins interacting indirectly with MCM7 B PPI
+  network between MCM7 and its first neighbors (undirected)
+article_title: Gene expression profiling and protein–protein interaction analysis
+  reveals the dynamic role of MCM7 in Alzheimer's disorder and breast cancer.
+citation: Navneeth Sriram, et al. 3 Biotech. 2022 Jul;12(7):146.
+
+doi: 10.1007/s13205-022-03207-1
+journal_title: 3 Biotech
+journal_nlm_ta: 3 Biotech
+publisher_name: Springer International Publishing
+
+keywords:
+- Breast cancer
+- Alzheimer's disorder
+- CD209
+- MCM7
+- Gene annotation
+- Pathway analysis
+
+---

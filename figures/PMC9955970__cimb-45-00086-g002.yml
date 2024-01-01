@@ -1,0 +1,31 @@
+---
+pmcid: PMC9955970
+image_filename: cimb-45-00086-g002.jpg
+figure_link: /pmc/articles/PMC9955970/figure/cimb-45-00086-f002/
+number: Figure 2
+figure_title: ''
+caption: (A) Full protein–protein interaction network of 41 hyperlipidemia-related
+  target genes from the herbal combination. (B,C) Functional cluster of full PPI network
+  created from MCODE of Cytoscape.
+article_title: Network Pharmacological Analysis of a New Herbal Combination Targeting
+  Hyperlipidemia and Efficacy Validation In Vitro.
+citation: Tae-Hyoung Kim, et al. Curr Issues Mol Biol. 2023 Feb;45(2):1314-1332.
+
+doi: 10.3390/cimb45020086
+journal_title: Current Issues in Molecular Biology
+journal_nlm_ta: Curr Issues Mol Biol
+publisher_name: MDPI
+
+keywords:
+- network pharmacology
+- GO enrichment analysis
+- key target validation
+- hyperlipidemia
+- hepatic steatosis
+- herbal combination
+- combinational effect
+- Arum ternata
+- Poria cocos
+- Zingiber officinale
+
+---

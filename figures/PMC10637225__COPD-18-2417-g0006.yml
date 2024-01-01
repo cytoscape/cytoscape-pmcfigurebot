@@ -1,0 +1,31 @@
+---
+pmcid: PMC10637225
+image_filename: COPD-18-2417-g0006.jpg
+figure_link: /pmc/articles/PMC10637225/figure/f0006/
+number: Figure 6
+figure_title: ''
+caption: The core-ceRNA network of COPD. (A) PPI network of 10 mRNAs in the ceRNA
+  network in Cytoscape software. (B) Heatmap of 10 mRNAs enrichment analysis results
+  in ceRNA network. (C) Top 30 hub mRNAs in the weighted gene co-expression network
+  turquoise module. The point where the mRNA in the ceRNA network overlap is marked
+  in blue. (D) COPD’s core-ceRNA networks included XIST, FGD5-AS1, KCNQ1OT1, HOXA11-AS,
+  LINC00667, H19, PRKCQ-AS1, NUTM2A-AS1/has-mir-454-3p/ZNF678, PRRG4. PPI, protein–protein
+  interaction.
+article_title: Comprehensive Analysis of a Competing Endogenous RNA Co-Expression
+  Network in Chronic Obstructive Pulmonary Disease.
+citation: Jingwei Wang, et al. Int J Chron Obstruct Pulmon Dis. 2023;18:2417-2429.
+
+doi: 10.2147/COPD.S431041
+journal_title: International Journal of Chronic Obstructive Pulmonary Disease
+journal_nlm_ta: Int J Chron Obstruct Pulmon Dis
+publisher_name: Dove
+
+keywords:
+- chronic obstructive pulmonary disease
+- competing endogenous RNA network
+- microRNAs
+- miRNAs
+- CIBERSORT algorithm
+- gene expression omnibus
+
+---

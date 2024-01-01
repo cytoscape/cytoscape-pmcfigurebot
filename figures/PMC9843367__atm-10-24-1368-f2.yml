@@ -1,0 +1,29 @@
+---
+pmcid: PMC9843367
+image_filename: atm-10-24-1368-f2.jpg
+figure_link: /pmc/articles/PMC9843367/figure/f2/
+number: Figure 2
+figure_title: ''
+caption: PPI network of FAA compound targets against breast cancer. (A) The PPI network
+  was constructed using Cytoscape. Different colors represent the degree, as indicated
+  by the scale. The size of the circle also indicates the degree. (B) The top 30 target
+  genes of FAA against breast cancer screened by the PPI network. The X-axis represents
+  degree values. (C) The cluster generated from (A). The red diamond in (C), AKT1,
+  was the seed in this cluster and interacted with other FAA targets. PPI, protein-protein
+  interaction; FAA, folium Artemisia argyi.
+article_title: 'Analyzing the multi-target pharmacological mechanism of folium Artemisia
+  argyi acting on breast cancer: a network pharmacology approach.'
+citation: Ying Song, et al. Ann Transl Med. 2022 Dec;10(24):1368.
+
+doi: 10.21037/atm-22-5769
+journal_title: Annals of Translational Medicine
+journal_nlm_ta: Ann Transl Med
+publisher_name: AME Publishing Company
+
+keywords:
+- Folium Artemisia argyi (FAA)
+- breast cancer
+- network pharmacology
+- herb
+
+---

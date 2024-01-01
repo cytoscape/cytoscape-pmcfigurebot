@@ -1,0 +1,24 @@
+---
+pmcid: PMC9992681
+image_filename: 41598_2023_30585_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9992681/figure/Fig4/
+number: Figure 4
+figure_title: ''
+caption: The PPI network and 10 hub targets. (a) The PPI network visualized by Cytoscape.
+  (b) Ten hub targets identified by cytoHubba. The larger the node is, the more important
+  the target in the network.
+article_title: 'The inhibitory effect and mechanism of Resina Draconis on the proliferation
+  of MCF-7 breast cancer cells: a network pharmacology-based analysis.'
+citation: Yana Lv, et al. Sci Rep. 2023;13:3816.
+
+doi: 10.1038/s41598-023-30585-0
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Breast cancer
+- Target identification
+- Drug discovery
+
+---

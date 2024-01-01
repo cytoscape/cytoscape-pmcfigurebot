@@ -1,0 +1,31 @@
+---
+pmcid: PMC9899888
+image_filename: fendo-14-1032015-g002.jpg
+figure_link: /pmc/articles/PMC9899888/figure/f2/
+number: Figure 2
+figure_title: ''
+caption: 'PPI network: (A) Top-250 sites filtered into the PPI network that contained
+  167 nodes and 1048 edges in AS. (B)Top-250 sites filtered into the PPI network that
+  contained 166 nodes and 812 edges in DN. (C) Top-250 sites filtered into the PPI
+  network that contained 204 nodes and 1232 edges in DR. (D) The connection of the
+  three network (Constructed by String (version 11.5) and optimized by Cytoscape (version
+  3.8.2)).'
+article_title: 'Exploring the shared molecular mechanism of microvascular and macrovascular
+  complications in diabetes: Seeking the hub of circulatory system injury.'
+citation: Cao Yuchen, et al. Front Endocrinol (Lausanne). 2023;14:1032015.
+
+doi: 10.3389/fendo.2023.1032015
+journal_title: Frontiers in Endocrinology
+journal_nlm_ta: Front Endocrinol (Lausanne)
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- atherosclerosis
+- diabetic retinopathy
+- diabetic nephropathy
+- complications of circulatory system
+- inflammation-oxidative stress
+- immune regulation
+- bioinformatics cross analysis
+
+---

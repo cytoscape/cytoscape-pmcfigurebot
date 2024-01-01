@@ -1,0 +1,26 @@
+---
+pmcid: PMC10122460
+image_filename: peerj-11-15154-g006.jpg
+figure_link: /pmc/articles/PMC10122460/figure/fig-6/
+number: Figure 6
+figure_title: PPI network and the functional enrichment analysis of SIRT family members
+caption: (A) STRING and Cytoscape were used to build the PPI network. (B–C) The WebGestalt
+  database was used to analyze the GO functional enrichment and the KEGG pathway of
+  the SIRT-related co-expressed molecules.
+article_title: Prognostic value of sirtuin family members and experimental verification
+  identify SIRT5 as diagnostic biomarkers in clear cell renal cell carcinoma.
+citation: Lu-Shan Peng, et al. PeerJ. 2023;11:e15154.
+
+doi: 10.7717/peerj.15154
+journal_title: PeerJ
+journal_nlm_ta: PeerJ
+publisher_name: PeerJ Inc.
+
+keywords:
+- Bioinformatics
+- Immune cell infiltration
+- Renal cell clear cell carcinoma
+- Prognosis
+- Sirtuin
+
+---

@@ -1,0 +1,25 @@
+---
+pmcid: PMC10683593
+image_filename: aging-15-205187-g003.jpg
+figure_link: /pmc/articles/PMC10683593/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: Protein–protein interaction (PPI) network analysis. (A) PPI network. (B)
+  Visual analysis using Cytoscape. (C) Hub gene screening.
+article_title: A neural network model was constructed by screening the potential biomarkers
+  of aortic dissection based on genes associated with pyroptosis.
+citation: Cheng Chen, et al. Aging (Albany NY). 2023 Nov 15;15(21):12388-12399.
+
+doi: 10.18632/aging.205187
+journal_title: Aging (Albany NY)
+journal_nlm_ta: Aging (Albany NY)
+publisher_name: Impact Journals
+
+keywords:
+- aortic dissection
+- pyroptosis
+- neural network
+- biomarker
+- bioinformatics analysis
+
+---

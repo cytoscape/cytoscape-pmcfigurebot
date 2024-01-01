@@ -1,0 +1,27 @@
+---
+pmcid: PMC9922722
+image_filename: fnmol-16-1074703-g004.jpg
+figure_link: /pmc/articles/PMC9922722/figure/fig4/
+number: Figure 4
+figure_title: ''
+caption: PPI Network Analysis. (A) PPI network of 133 potential targets of EPI for
+  SCI. (B) PPI network constructed with Cytoscape software (The darker the node color,
+  the higher the number of connected proteins). (C) The key targets of EPI for SCI
+  obtained.
+article_title: Network pharmacology integrated with experimental validation to explore
+  the therapeutic role and potential mechanism of Epimedium for spinal cord injury.
+citation: Xuanhao Fu, et al. Front Mol Neurosci. 2023;16:1074703.
+
+doi: 10.3389/fnmol.2023.1074703
+journal_title: Frontiers in Molecular Neuroscience
+journal_nlm_ta: Front Mol Neurosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- spinal cord injury
+- Epimedium
+- network pharmacology
+- molecular docking
+- pharmacological mechanism
+
+---

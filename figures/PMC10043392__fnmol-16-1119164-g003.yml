@@ -1,0 +1,30 @@
+---
+pmcid: PMC10043392
+image_filename: fnmol-16-1119164-g003.jpg
+figure_link: /pmc/articles/PMC10043392/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: The construction of protein–protein interaction network and identification
+  of hub genes. (A) PPI network is established by 421 DEmRNA-encoded proteins using
+  the STRING website. (B) Relationship network diagram of hub genes from PPI network
+  using cytoscape. (C) Relationship network of 10 hub genes that extracted from the
+  PPI network and the structure of proteins they encoded.
+article_title: Systematic identification of potential key microRNAs and circRNAs in
+  the dorsal root ganglia of mice with sciatic nerve injury.
+citation: Youfen Yu, et al. Front Mol Neurosci. 2023;16:1119164.
+
+doi: 10.3389/fnmol.2023.1119164
+journal_title: Frontiers in Molecular Neuroscience
+journal_nlm_ta: Front Mol Neurosci
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- neuropathic pain
+- microRNA
+- circRNA
+- ceRNA
+- dorsal root ganglia
+- miR-181a-5p
+- miR-223-3p
+
+---

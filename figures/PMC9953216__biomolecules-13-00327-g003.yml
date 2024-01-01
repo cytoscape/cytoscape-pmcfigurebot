@@ -1,0 +1,26 @@
+---
+pmcid: PMC9953216
+image_filename: biomolecules-13-00327-g003.jpg
+figure_link: /pmc/articles/PMC9953216/figure/biomolecules-13-00327-f003/
+number: Figure 3
+figure_title: ''
+caption: 'PPI network: (A) A PPI interaction network was constructed by using the
+  molecular interaction list obtained from STRING database. (B) Hub gene sets obtained
+  using MCODE of Cytoscape. (C) The top 20 hub genes obtained using cytoHubba of Cytoscape.'
+article_title: EVI2B Is a Prognostic Biomarker and Is Correlated with Monocyte and
+  Macrophage Infiltration in Osteosarcoma Based on an Integrative Analysis.
+citation: Zhenlin Dai, et al. Biomolecules. 2023 Feb;13(2):327.
+
+doi: 10.3390/biom13020327
+journal_title: Biomolecules
+journal_nlm_ta: Biomolecules
+publisher_name: MDPI
+
+keywords:
+- osteosarcoma
+- EVI2B
+- macrophage infiltration
+- gene set enrichment analysis
+- prognostic model
+
+---

@@ -1,0 +1,27 @@
+---
+pmcid: PMC10087374
+image_filename: IJLH-45-53-g002.jpg
+figure_link: /pmc/articles/PMC10087374/figure/ijlh13963-fig-0001/
+number: FIGURE 1
+figure_title: ''
+caption: 'PPI network construction, module analysis and hub gene identification by
+  Cytoscape. Red nodes: upregulated DEGs; green nodes: downregulated DEGs. (A) PPI
+  network of DEGs linked with the OS of paediatric AML patients (p < 0.05). (B) Six
+  modules screened from the PPI network using MCODE. (C) Ten identified hub genes
+  from the PPI network using MCC and MNC of CytoHubba'
+article_title: High CX3CR1 expression predicts poor prognosis in paediatric acute
+  myeloid leukaemia undergoing hyperleukocytosis.
+citation: Nan Mei, et al. Int J Lab Hematol. 2023 Feb;45(1):53-63.
+
+doi: 10.1111/ijlh.13963
+journal_title: International Journal of Laboratory Hematology
+journal_nlm_ta: Int J Lab Hematol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- acute myeloid leukaemia
+- CX3CR1
+- hyperleukocytosis
+- paediatric AML
+
+---

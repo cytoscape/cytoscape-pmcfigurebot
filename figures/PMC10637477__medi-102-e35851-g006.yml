@@ -1,0 +1,27 @@
+---
+pmcid: PMC10637477
+image_filename: medi-102-e35851-g006.jpg
+figure_link: /pmc/articles/PMC10637477/figure/F6/
+number: Figure 6
+figure_title: ''
+caption: PPI network analysis and hub gene identification. (A) Key DEGs was established
+  using Cytoscape software(131 nodes and 470 edges). (B) The key subnet was obtained
+  from the PPI network using MCODE plug-in. DEGs = differentially expressed genes.
+  PPI = protein–protein interaction network analysis.
+article_title: Identification and verification of atrial fibrillation hub genes caused
+  by primary mitral regurgitation.
+citation: Qi Yang, et al. Medicine (Baltimore). 2023 Nov 10;102(45):e35851.
+
+doi: 10.1097/MD.0000000000035851
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- atrial fibrillation
+- bioinformatics
+- hub genes
+- primary mitral regurgitation
+- WGCNA
+
+---

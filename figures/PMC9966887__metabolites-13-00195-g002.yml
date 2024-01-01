@@ -1,0 +1,30 @@
+---
+pmcid: PMC9966887
+image_filename: metabolites-13-00195-g002.jpg
+figure_link: /pmc/articles/PMC9966887/figure/metabolites-13-00195-f002/
+number: Figure 2
+figure_title: ''
+caption: The PPI network for Gelsemium alkaloids in excitotoxicity. (a) PPI among
+  the 214 core targets. The network nodes represent targets, while the edges represent
+  protein–protein associations. (b) PPI network of the core hub targets using Cytoscape
+  3.6.0 software. The different colors indicate the different importance of the nodes
+  in the whole PPI network. The redder the ellipse is, the more important the node
+  is in the PPI network.
+article_title: Network Pharmacology and Experimental Verification to Unveil the Mechanism
+  of N-Methyl-D-Aspartic Acid Rescue Humantenirine-Induced Excitotoxicity.
+citation: Xue-Jia Qi, et al. Metabolites. 2023 Feb;13(2):195.
+
+doi: 10.3390/metabo13020195
+journal_title: Metabolites
+journal_nlm_ta: Metabolites
+publisher_name: MDPI
+
+keywords:
+- humantenirine
+- excitotoxicity
+- NMDA
+- NMDAR
+- network pharmacology
+- Gelsemium
+
+---

@@ -1,0 +1,25 @@
+---
+pmcid: PMC10186539
+image_filename: jgo-14-02-1019-f2.jpg
+figure_link: /pmc/articles/PMC10186539/figure/f2/
+number: Figure 2
+figure_title: ''
+caption: The PPI network with 130 nodes and 390 edges as constructed by Cytoscape.
+  PPI, protein-protein interaction.
+article_title: Identification of a potential competing endogenous RNA (ceRNA) network
+  in gastric adenocarcinoma.
+citation: Chen Wu, et al. J Gastrointest Oncol. 2023 Apr 29;14(2):1019-1036.
+
+doi: 10.21037/jgo-22-1201
+journal_title: Journal of Gastrointestinal Oncology
+journal_nlm_ta: J Gastrointest Oncol
+publisher_name: AME Publishing Company
+
+keywords:
+- Differentially expressed genes (DEGs)
+- hub gene
+- competing endogenous RNA (ceRNA)
+- gastric adenocarcinoma
+- bioinformatics analysis
+
+---

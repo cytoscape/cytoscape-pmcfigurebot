@@ -1,0 +1,30 @@
+---
+pmcid: PMC10042429
+image_filename: 11262_2023_1985_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10042429/figure/Fig4/
+number: Fig. 4
+figure_title: ''
+caption: PPI network analysis of 37 FR-DEGs by Cytoscape. A PPI network constructed
+  with FR-DEGs, including 34 nodes and 56 edges. Each node represents protein, and
+  each edge shows interactions between these proteins. B Intersection of top 10 hub
+  genesfrom the PPI network analysis ranked by four algorithms (MCC, MNC, Degree,
+  and EPC). PPI, Protein-Potein Interaction; FR-DEGs, ferroptosis-related differentially
+  expressed genes; MCC, Maximal Clique Centrality; MNC, Maximum Neighborhood Component;
+  EPC, Edge Percolated Component
+article_title: 'Identification and validation of ferroptosis-related genes in patients
+  infected with dengue virus: implication in the pathogenesis of DENV.'
+citation: Jinlian Li, et al. Virus Genes. 2023 Mar 27 ;59(3):377-390.
+
+doi: 10.1007/s11262-023-01985-1
+journal_title: Virus Genes
+journal_nlm_ta: Virus Genes
+publisher_name: Springer US
+
+keywords:
+- Dengue virus (DENV)
+- Ferroptosis
+- Bioinformatics analysis
+- Differentially expressed genes (DEGs)
+- Ferroptosis-related genes
+
+---

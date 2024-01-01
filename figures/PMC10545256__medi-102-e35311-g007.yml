@@ -1,0 +1,30 @@
+---
+pmcid: PMC10545256
+image_filename: medi-102-e35311-g007.jpg
+figure_link: /pmc/articles/PMC10545256/figure/F7/
+number: Figure 7
+figure_title: ''
+caption: The PPI network and key modules for the validation dataset. (A) PPI network
+  key modules constructed from NRDEGs in dataset GSE54536 by STRING and Cytoscape.
+  There are 311 edges and 38 nodes in the PPI network. (B) Key modules constructed
+  from NRDEGs in GSE54536 by STRING and Cytoscape. Clustering analysis of the molecular
+  complex detection network with low degrees shown as bright colors. (C) Cluster heat
+  maps of NRDEGs in GSE26927, GSE49036, and GSE54536. NRDEGs = necroptosis-related
+  differentially expressed genes, PPI = protein–protein interaction.
+article_title: Pathogenic mechanisms and potential therapeutic targets for Parkinson
+  disease revealed by bioinformatic analysis of necroptosis and immune cell infiltration.
+citation: Zilong Lin, et al. Medicine (Baltimore). 2023 Sep 29;102(39):e35311.
+
+doi: 10.1097/MD.0000000000035311
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- bioinformatics analysis
+- immune infiltration
+- necrotizing apoptosis
+- neurodegenerative disease
+- Parkinson disease
+
+---

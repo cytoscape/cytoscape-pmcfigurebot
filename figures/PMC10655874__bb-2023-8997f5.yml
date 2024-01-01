@@ -1,0 +1,34 @@
+---
+pmcid: PMC10655874
+image_filename: bb-2023-8997f5.jpg
+figure_link: /pmc/articles/PMC10655874/figure/f5/
+number: Figure 5
+figure_title: ''
+caption: 'Constructing PPI network of potential key genes from CH to HF. (A) The PPI
+  network of 35 DEGs shared in CH and HF conditions in the LA and LV; (B) Four key
+  modules of the PPI network in the LA and LV; (C) The PPI network of 15 DEGs in CH
+  and HF conditions is shared in the LV and RV; (D) Two key modules of the PPI network
+  in the LV and RV; (E) The PPI network of 2 DEGs shared in CH and HF conditions in
+  LA, LV, and RV; (F) Two key modules of the PPI network in three chambers. The modules
+  are performed by the MCODE plugin in Cytoscape software. PPI: Protein–protein interaction;
+  CH: Cardiac hypertrophy; HF: Heart failure; DEGs: Differentially expressed genes;
+  LA: Left atrium; LV: Left ventricle; RV: Right ventricle; MCODE: Molecular complex
+  detection.'
+article_title: Deciphering transcriptional dynamics of cardiac hypertrophy and failure
+  in a chamber-specific manner.
+citation: Dan Zhang, et al. Biomol Biomed. 2023 Dec 1;23(6):984-996.
+
+doi: 10.17305/bb.2023.8997
+journal_title: Biomolecules and Biomedicine
+journal_nlm_ta: Biomol Biomed
+publisher_name: Association of Basic Medical Sciences of Federation of Bosnia and
+  Herzegovina
+
+keywords:
+- Cardiac hypertrophy (CH)
+- heart failure (HF)
+- transcriptome
+- dynamic changes
+- pathogenesis
+
+---

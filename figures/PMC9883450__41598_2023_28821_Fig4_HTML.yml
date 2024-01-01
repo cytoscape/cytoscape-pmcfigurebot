@@ -1,0 +1,27 @@
+---
+pmcid: PMC9883450
+image_filename: 41598_2023_28821_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC9883450/figure/Fig4/
+number: Figure 4
+figure_title: ''
+caption: Protein–protein interaction (PPI) analysis. (A) Protein–protein interaction
+  network of Aspiletreins and NSCLC targets obtained from STRING v_11.5 database.
+  (B) The PPI network was constructed using the plug-in targets from the STRING database
+  and imported into Cytoscape. (C) The top 5 targets in the PPI network as ranked
+  using the cytoHubba plug in network analyzer. The higher degree value is represented
+  by colors ranging from red to yellow.
+article_title: Identifying molecular targets of Aspiletrein-derived steroidal saponins
+  in lung cancer using network pharmacology and molecular docking-based assessments.
+citation: Iksen Iksen, et al. Sci Rep. 2023;13:1545.
+
+doi: 10.1038/s41598-023-28821-8
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer
+- Computational biology and bioinformatics
+- Drug discovery
+
+---

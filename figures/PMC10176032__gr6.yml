@@ -1,0 +1,28 @@
+---
+pmcid: PMC10176032
+image_filename: gr6.jpg
+figure_link: /pmc/articles/PMC10176032/figure/fig6/
+number: Fig. 6
+figure_title: ''
+caption: PPI Network of DEGs Constructed by the STRING Database. A. The PPI network
+  of DEGs was constructed by Cystoscape. B. Identification of sub-network with MCODE
+  in Cytoscape software.
+article_title: Bioinformatic analysis identifies GPR91 as a potential key gene in
+  brain injury after deep hypothermic low flow.
+citation: Song Puwei, et al. Heliyon. 2023 May;9(5):e15286.
+
+doi: 10.1016/j.heliyon.2023.e15286
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- Brain injury
+- GPR91
+- NF-κB
+- NLRP3
+- DHCA
+- Inflammation
+- Brain ischemia and reperfusion
+
+---

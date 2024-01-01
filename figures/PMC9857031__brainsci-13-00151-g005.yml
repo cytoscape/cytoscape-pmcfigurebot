@@ -1,0 +1,32 @@
+---
+pmcid: PMC9857031
+image_filename: brainsci-13-00151-g005.jpg
+figure_link: /pmc/articles/PMC9857031/figure/brainsci-13-00151-f005/
+number: Figure 5
+figure_title: ''
+caption: The molecular interaction network (PPI network) of IPA-identified SOD1-ALS
+  pathway molecules. The PPI network was constructed using STRING and analyzed with
+  Cytoscape. The Cytoscape network analysis predicted ACTB followed by TP53, IL6,
+  CASP3, SOD1, IL1B, APP, APOE, and VEGFA as the major network hubs. The nodes’ size
+  and color intensity correspond to the size of the network hub.
+article_title: 'The Role of Superoxide Dismutase 1 in Amyotrophic Lateral Sclerosis:
+  Identification of Signaling Pathways, Regulators, Molecular Interaction Networks,
+  and Biological Functions through Bioinformatics.'
+citation: Sharad Kumar Suthar, et al. Brain Sci. 2023 Jan;13(1):151.
+
+doi: 10.3390/brainsci13010151
+journal_title: Brain Sciences
+journal_nlm_ta: Brain Sci
+publisher_name: MDPI
+
+keywords:
+- superoxide dismutase 1
+- antioxidant
+- amyotrophic lateral sclerosis
+- canonical pathways
+- regulators
+- molecular interaction network
+- biological functions
+- toxicity
+
+---

@@ -1,0 +1,26 @@
+---
+pmcid: PMC10200926
+image_filename: fendo-14-1164112-g005.jpg
+figure_link: /pmc/articles/PMC10200926/figure/f5/
+number: Figure 5
+figure_title: ''
+caption: Protein–protein interaction (PPI) analyses of DEARGs. (A) The PPI network
+  of 30 DEARGs is analyzed using STRING database. (B) The PPI network of 30 DEARGs
+  is analyzed using Cytoscape.
+article_title: Identification and analysis of type 2 diabetes-mellitus-associated
+  autophagy-related genes.
+citation: Kun Cui, et al. Front Endocrinol (Lausanne). 2023;14:1164112.
+
+doi: 10.3389/fendo.2023.1164112
+journal_title: Frontiers in Endocrinology
+journal_nlm_ta: Front Endocrinol (Lausanne)
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- autophagy
+- differentially expressed genes
+- hub genes
+- type 2 diabetes mellitus
+- biomarker
+
+---

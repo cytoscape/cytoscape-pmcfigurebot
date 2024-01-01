@@ -1,0 +1,28 @@
+---
+pmcid: PMC10740220
+image_filename: 12876_2023_3075_Fig3_HTML.jpg
+figure_link: /pmc/articles/PMC10740220/figure/Fig3/
+number: Fig. 3
+figure_title: ''
+caption: The protein–protein interaction (PPI) network and the most significant modules
+  of differentially expressed genes. A A PPI network was generated using Cytoscape
+  (combined score ≥ 0.4). B Hub genes were screened from the PPI network using the
+  Maximal Clique Centrality algorithm
+article_title: 'LUM as a novel prognostic marker and its correlation with immune infiltration
+  in gastric cancer: a study based on immunohistochemical analysis and bioinformatics.'
+citation: Wu Xu, et al. BMC Gastroenterol. 2023;23:455.
+
+doi: 10.1186/s12876-023-03075-w
+journal_title: BMC Gastroenterology
+journal_nlm_ta: BMC Gastroenterol
+publisher_name: BioMed Central
+
+keywords:
+- Gastric cancer
+- LUM
+- Prognosis
+- miRNA
+- lncRNA
+- Tumour infiltration
+
+---

@@ -1,0 +1,23 @@
+---
+pmcid: PMC10393951
+image_filename: 41598_2023_39255_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10393951/figure/Fig4/
+number: Figure 4
+figure_title: ''
+caption: PPI network of genes in the turquoise module. Forty-three genes in the turquoise
+  module were exported to construct a PPI network by Cytoscape. Each node size was
+  proportional to the degree of connectivity in the weighted gene co-expression network.
+article_title: Identification of RNF150 as the hub gene associated with microsatellite
+  instability in gastric cancer.
+citation: Jun Pan, et al. Sci Rep. 2023;13:12495.
+
+doi: 10.1038/s41598-023-39255-7
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer
+- Oncology
+
+---

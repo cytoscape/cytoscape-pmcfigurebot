@@ -1,0 +1,30 @@
+---
+pmcid: PMC10170287
+image_filename: atm-11-08-300-f3.jpg
+figure_link: /pmc/articles/PMC10170287/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: The PPI network and the top 10 hub genes of SGLT2i and obesity-related AF.
+  (A) PPI network diagram of the common targets between SGLT2i and obesity-related
+  AF. (B) PPI network diagram of SGLT2i and obesity-related AF common targets determined
+  by Cytoscape. (C) Network of top 10 hub genes identified by Cytoscape plug-in. PPI,
+  protein-protein interaction; SGLT2i, sodiumglucose co-transporter 2 inhibitors;
+  AF, atrial fibrillation.
+article_title: Study on the pharmacological mechanisms of sodium-glucose co-transporter
+  2 inhibitors in obesity-related atrial fibrillation based on network pharmacology
+  and experimental verification.
+citation: Qianqian Zhao, et al. Ann Transl Med. 2023 Apr 28;11(8):300.
+
+doi: 10.21037/atm-23-1321
+journal_title: Annals of Translational Medicine
+journal_nlm_ta: Ann Transl Med
+publisher_name: AME Publishing Company
+
+keywords:
+- Atrial fibrillation (AF)
+- obesity
+- sodium-glucose co-transporter 2 inhibitors
+- AGE-RAGE signaling pathway
+- NADPH oxidase 2
+
+---

@@ -1,0 +1,33 @@
+---
+pmcid: PMC10205526
+image_filename: gr005.jpg
+figure_link: /pmc/articles/PMC10205526/figure/fg0050/
+number: Figure 5
+figure_title: ''
+caption: The figure describes the PPI network of DEGs between T2D and breast cancer.
+  Circular nodes indicate DEGs and edges denote node relations. The PPI network consists
+  of 25 nodes and 76 edges. Employing String, the PPI network was constructed and
+  displayed in Cytoscape.
+article_title: Bioinformatics and network biology approach to identifying type 2 diabetes
+  genes and pathways that influence the progression of breast cancer.
+citation: Md Sumon Sarkar, et al. Heliyon. 2023 May;9(5):e16151.
+
+doi: 10.1016/j.heliyon.2023.e16151
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- Type-2 diabetes
+- Breast cancer
+- Bioinformatics
+- Computational biology
+- Differentially expressed genes
+- Gene set enrichment analysis
+- Gene ontology
+- Protein–protein interaction (PPI)
+- Hub gene
+- Drug molecule
+- Disease association
+
+---

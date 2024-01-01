@@ -1,0 +1,27 @@
+---
+pmcid: PMC10232756
+image_filename: fphar-14-1188086-g003.jpg
+figure_link: /pmc/articles/PMC10232756/figure/F3/
+number: FIGURE 3
+figure_title: ''
+caption: Constructing a PPI network to find essential target genes. (A). PPI network
+  map of targets was downloaded from the STRING database. (B). PPI network map was
+  further visualized with Cytoscape software. (C). Target genes representing the top
+  20 of betweenness were visualised with histograms.
+article_title: In silico evidence implicating novel mechanisms of Prunella vulgaris
+  L. as a potential botanical drug against COVID-19-associated acute kidney injury.
+citation: Xue-Ling Yang, et al. Front Pharmacol. 2023;14:1188086.
+
+doi: 10.3389/fphar.2023.1188086
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- COVID-19
+- acute kidney injury
+- cytokine storm
+- network pharmacology
+- molecular docking
+
+---

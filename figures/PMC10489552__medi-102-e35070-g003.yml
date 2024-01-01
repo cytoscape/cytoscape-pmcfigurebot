@@ -1,0 +1,28 @@
+---
+pmcid: PMC10489552
+image_filename: medi-102-e35070-g003.jpg
+figure_link: /pmc/articles/PMC10489552/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: Protein–protein interaction (PPI) network of the autophagy-modulated genes
+  regulated by berberine in breast cancer. (A) PPI network from STRING database. (B)
+  PPI network visualized by Cytoscape 3.5.1 software. Red nodes represent upregulated
+  genes. Green nodes represent downregulated genes.
+article_title: Integrated network pharmacology, bioinformatics, and molecular docking
+  to explore the mechanisms of berberine regulating autophagy in breast cancer.
+citation: Bowan Huang, et al. Medicine (Baltimore). 2023 Sep 8;102(36):e35070.
+
+doi: 10.1097/MD.0000000000035070
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- autophagy
+- berberine
+- bioinformatics
+- breast cancer
+- molecular docking
+- network pharmacology
+
+---

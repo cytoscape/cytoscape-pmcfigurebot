@@ -1,0 +1,32 @@
+---
+pmcid: PMC10613441
+image_filename: peerj-11-16025-g004.jpg
+figure_link: /pmc/articles/PMC10613441/figure/fig-4/
+number: Figure 4
+figure_title: PPI networks, two significant modules of the PPI network, Upstream regulatory
+  network of the co-expressed DEGs and CytoHubba find the key genes
+caption: '(A) A graphic representation of the PPI networks based on co-expressed DEGs.
+  (B–C) Graphic representation of two significant modules of the PPI network. (C)
+  Module 1, D: Module 2. (D) Upstream regulatory network of the co-expressed DEGs.
+  Blue points represent enrichment for kinase likely to regulate co-expressed DEGs.
+  Red points represent enrichment for transcription factors likely to regulate co-expressed
+  DEGs. Gray points represent co-expressed DEGs. (E) A graphic representation of the
+  co-expressed DEGs network based on degree. The CytoHubba in Cytoscape to find the
+  key genes. Circle color represents gene rank.'
+article_title: Identification of key genes and validation of key gene aquaporin 1
+  on Wilms’ tumor metastasis.
+citation: Hong Liu, et al. PeerJ. 2023;11:e16025.
+
+doi: 10.7717/peerj.16025
+journal_title: PeerJ
+journal_nlm_ta: PeerJ
+publisher_name: PeerJ Inc.
+
+keywords:
+- Wilms’ tumor
+- Aquaporin1
+- Suppressor gene
+- Metastasis
+- Cytoskeleton
+
+---

@@ -1,0 +1,28 @@
+---
+pmcid: PMC10683297
+image_filename: 40001_2023_1522_Fig7_HTML.jpg
+figure_link: /pmc/articles/PMC10683297/figure/Fig7/
+number: Fig. 7
+figure_title: ''
+caption: PPI Network Analysis of hub genes. A PPI network built using STRING database.
+  In PPI network diagrams, nodes represent proteins and edges represent the interaction
+  between proteins. B Visualization of PPI network by Cytoscape. Yellow to red represent
+  increasing levels of Clustering Coefficient Ranking, i.e. yellow, low; orange, medium;
+  red, high
+article_title: A novel tumor purity and immune infiltration-related model for predicting
+  distant metastasis-free survival in prostate cancer.
+citation: Qiang Su, et al. Eur J Med Res. 2023;28:545.
+
+doi: 10.1186/s40001-023-01522-8
+journal_title: European Journal of Medical Research
+journal_nlm_ta: Eur J Med Res
+publisher_name: BioMed Central
+
+keywords:
+- Prostate cancer
+- Tumor purity
+- Immune infiltration
+- Distant metastasis-free survival
+- Nomogram
+
+---
