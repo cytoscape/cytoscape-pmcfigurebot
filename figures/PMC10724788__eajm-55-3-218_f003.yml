@@ -1,0 +1,30 @@
+---
+pmcid: PMC10724788
+image_filename: eajm-55-3-218_f003.jpg
+figure_link: /pmc/articles/PMC10724788/figure/f3-eajm-55-3-218/
+number: Figure 3. A-B
+figure_title: ''
+caption: 'The illustration shows subnetworks acquired from the networks of target
+  genes of upregulated and downregulated miRNAs, respectively, using the MCC model
+  in the Cytoscape. Potential downregulated hub genes in a protein–protein interaction
+  network (PPI) (A). Possible upregulated hub genes in a network of PPI. The grade
+  of node color displays the degree of connectivity: orange color presents the intermediate
+  degree, yellow color indicates the lowest degree, and red color represents the highest
+  degree (B).'
+article_title: Exosomal Circular Ribonucleic Acid–Microribonucleic Acid Expression
+  Profile from Plasma in Alzheimer’s Disease Patients by Bioinformatics and Integrative
+  Analysis.
+citation: Nail Besli, et al. Eurasian J Med. 2023 Oct;55(3):218-227.
+
+doi: 10.5152/eurasianjmed.2023.23029
+journal_title: The Eurasian Journal of Medicine
+journal_nlm_ta: Eurasian J Med
+publisher_name: Atatürk University School of Medicine
+
+keywords:
+- Plasma
+- exosomal circRNAs–miRNAs
+- bioinformatics analysis
+- Alzheimer’s disease
+
+---

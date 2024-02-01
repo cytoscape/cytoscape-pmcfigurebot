@@ -1,0 +1,37 @@
+---
+pmcid: PMC10726892
+image_filename: CAM4-12-21256-g003.jpg
+figure_link: /pmc/articles/PMC10726892/figure/cam46704-fig-0004/
+number: FIGURE 4
+figure_title: ''
+caption: Deferentially expressed proteins (DEPs) and biological pathways upregulated
+  in patients showing pathologic complete response (pCR) to neoadjuvant chemotherapy.
+  (A) Protein–protein interaction (PPI) network of DEPs constructed using the STRING
+  database. Connected nodes were visualized in Cytoscape, and node sizes were associated
+  to the log fold change of the DEPs. Pink nodes were DEPs upregulated in the pCR
+  group, and blue nodes denoted DEPs downregulated in the pCR group. (B) Enrichment
+  analysis of the DEPs. The –log10 (p) values were visualized and color‐coded by the
+  category of biological functions; light blue for mitochondrial energy metabolism,
+  green for vesicle budding and vascular transportation, orange for leukocyte apoptotic
+  process, purple for glucose metabolism, brick for protein localization to membranes,
+  steel blue for messenger ribonucleic acid processing, and pink for cytoskeleton‐dependent
+  trafficking. (C) Single‐sample GSEA scores of immune response and immune suppressive
+  markers were shown by bloxplots. Patients showing PCR were indicated by gray boxes,
+  whereas nonresponders were indicated by light blue boxes.
+article_title: Imaging‐proteomic analysis for prediction of neoadjuvant chemotherapy
+  responses in patients with breast cancer.
+citation: Jingxian Duan, et al. Cancer Med. 2023 Dec;12(23):21256-21269.
+
+doi: 10.1002/cam4.6704
+journal_title: Cancer Medicine
+journal_nlm_ta: Cancer Med
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- breast cancer
+- deep learning
+- neoadjuvant chemotherapy
+- pathologic complete response
+- Radiogenomics
+
+---

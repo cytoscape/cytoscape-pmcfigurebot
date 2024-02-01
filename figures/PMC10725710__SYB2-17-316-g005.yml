@@ -1,0 +1,28 @@
+---
+pmcid: PMC10725710
+image_filename: SYB2-17-316-g005.jpg
+figure_link: /pmc/articles/PMC10725710/figure/syb212078-fig-0003/
+number: FIGURE 3
+figure_title: ''
+caption: PPI network of BMs related DEGs visualised by Cytoscape. (a) Identification
+  of a significant module based on the degree of importance examined for DEGs. PPI
+  network was composed of 28 nodes and 157 edges. Blues represent upregulated genes.
+  Yellows represent downregulated genes. (b) The top 10 genes with the highest degree
+  values were identified. Red represents higher degree value. Yellow represents lower
+  degree value.
+article_title: Identification of basement membrane markers in diabetic kidney disease
+  and immune infiltration by using bioinformatics analysis and experimental verification.
+citation: Rui Shi, et al. IET Syst Biol. 2023 Dec;17(6):316-326.
+
+doi: 10.1049/syb2.12078
+journal_title: IET Systems Biology
+journal_nlm_ta: IET Syst Biol
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- bioinformatics
+- diseases
+- genetics
+- medical disorders
+
+---

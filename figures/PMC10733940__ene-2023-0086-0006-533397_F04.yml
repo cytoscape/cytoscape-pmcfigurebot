@@ -1,0 +1,26 @@
+---
+pmcid: PMC10733940
+image_filename: ene-2023-0086-0006-533397_F04.jpg
+figure_link: /pmc/articles/PMC10733940/figure/F4/
+number: Fig. 4
+figure_title: ''
+caption: Protein-protein interaction (PPI) construction and hub gene identification
+  through CytoHubba plug-in in Cytoscape software. a PPI network of the common DEGs
+  between AD and MS. b Intersection plot of top 10 hub genes among the five algorithms.
+article_title: 'Exploring Shared Genetic Signatures of Alzheimer’s Disease and Multiple
+  Sclerosis: A Bioinformatic Analysis Study.'
+citation: Dasen Yuan, et al. Eur Neurol. 2023 Dec;86(6):363-376.
+
+doi: 10.1159/000533397
+journal_title: European Neurology
+journal_nlm_ta: Eur Neurol
+publisher_name: S. Karger AG
+
+keywords:
+- Alzheimer’s disease
+- Bioinformatics
+- Differentially expressed genes
+- Hub gene
+- Multiple sclerosis
+
+---

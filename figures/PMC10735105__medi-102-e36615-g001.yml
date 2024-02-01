@@ -1,0 +1,32 @@
+---
+pmcid: PMC10735105
+image_filename: medi-102-e36615-g001.jpg
+figure_link: /pmc/articles/PMC10735105/figure/F1/
+number: Figure 1
+figure_title: ''
+caption: Venn diagram, PPI network, and the most significant module of DEGs. (A) DEGs
+  were selected with a fold change > 2 and P value < .001 among the mRNA expression
+  profiling sets GSE143939, GSE196006, and GSE200427. The three datasets showed an
+  overlap of 241 genes. (B) The most significant module. (C) The PPI network of DEGs
+  was constructed using Cytoscape. Upregulated genes are marked in light red; downregulated
+  genes are kept in light blue. DEGs = differentially expressed genes, PPI = protein-protein
+  interaction.
+article_title: Identification of potential key genes for colorectal cancer based on
+  bioinformatics analysis.
+citation: Chongyang Li, et al. Medicine (Baltimore). 2023 Dec 22;102(51):e36615.
+
+doi: 10.1097/MD.0000000000036615
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- bioinformatics analysis
+- biomarkers
+- CDK1
+- CEP55
+- colorectal cancer
+- MKI67
+- TOP2A
+
+---

@@ -1,0 +1,37 @@
+---
+pmcid: PMC10725609
+image_filename: 12967_2023_4787_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10725609/figure/Fig4/
+number: Fig. 4
+figure_title: ''
+caption: Protein‒protein interaction (PPI) network analysis and hub genes identification.
+  A PPI network for common DEGs that are shared by SARS-CoV-2 infection and cardiovascular
+  diseases. Red nodes represent up-regulated DEGs, and blue nodes represent down-regulated
+  DEGs. The size of the node responds to its degree in the network. The thickness
+  of the edges is related to the strength of the interaction. B A key cluster with
+  15 genes was further chosen by MCODE plugin in Cytoscape. C The 11 hub genes identified
+  according to four algorithms (MCC, MNC, degree, and EPC) of CytoHubba plugin in
+  Cytoscape (see also Table ). D The gene network and functional analysis of hub genes
+  were generated using GeneMANIA. The inner circle stands for hub genes, and the outer
+  circle refers to the corresponding reciprocal genes. Colors of nodes represent gene
+  function annotations, which refer to GO terms enriched among the genes in the network
+  displayed by GeneMANIA. Colors of edges represent interaction based on co-expression,
+  physical interactions, co-localization, shared protein domain, or predicted interaction
+article_title: 'Landscape of molecular crosstalk between SARS-CoV-2 infection and
+  cardiovascular diseases: emphasis on mitochondrial dysfunction and immune-inflammation.'
+citation: Shiyu Dai, et al. J Transl Med. 2023;21:915.
+
+doi: 10.1186/s12967-023-04787-z
+journal_title: Journal of Translational Medicine
+journal_nlm_ta: J Transl Med
+publisher_name: BioMed Central
+
+keywords:
+- SARS-CoV-2
+- COVID-19
+- Cardiovascular diseases
+- Mitochondria
+- Immune
+- Inflammation
+
+---

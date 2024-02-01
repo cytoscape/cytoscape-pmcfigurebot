@@ -1,0 +1,31 @@
+---
+pmcid: PMC10731348
+image_filename: tcr-12-11-3129-f8.jpg
+figure_link: /pmc/articles/PMC10731348/figure/f8/
+number: Figure 8
+figure_title: ''
+caption: Screening of key genes. Cytoscape software was used to visualize the entire
+  PPI, draw the PPI network using node and logFC, and introduce BC to draw the protein
+  interactions. The MCODE plugin in Cytoscape was used to build the functional modules.
+  The results showed that three modules had a specific score >6 (A-C). The core genes
+  of the three modules were ADAMTSL1, GRIN2A, and ITGAX, and the genes filtered by
+  the CytoHubba plugin in Cytoscape were intersected with the genes of the three core
+  modules to obtain the top 10 key genes (D). PPI, protein-protein interaction; BC,
+  betweenness centrality; MCODE, Molecular Complex Detection; FC, fold change.
+article_title: Glucocorticoid receptor regulates the epithelial-mesenchymal transition
+  process through GR/ZEB1/E-cad and is involved in breast cancer endocrine drug resistance—a
+  bioinformatics analysis.
+citation: Yuhan Tang, et al. Transl Cancer Res. 2023 Nov 30;12(11):3129-3146.
+
+doi: 10.21037/tcr-23-1628
+journal_title: Translational Cancer Research
+journal_nlm_ta: Transl Cancer Res
+publisher_name: AME Publishing Company
+
+keywords:
+- Glucocorticoid receptor (GR)
+- ZEB1
+- breast cancer
+- epithelial-mesenchymal transition (EMT)
+
+---

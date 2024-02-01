@@ -1,0 +1,22 @@
+---
+pmcid: PMC10720282
+image_filename: ao3c07687_0003.jpg
+figure_link: /pmc/articles/PMC10720282/figure/fig3/
+number: Figure 3
+figure_title: ''
+caption: Analysis of hub genes extracted from the common DEGs between MPXV and HIV.
+  (A) Key gene module showing 37 shared DEGs. (B) Venn diagram showing a total of
+  9 overlapping hub genes screened by seven algorithms. (C) Protein–protein interaction
+  (PPI) network of the 9 hub genes drawn by the Cytoscape plug-in CytoHubba. (D) Hub
+  genes and their co-expression genes interaction network analyzed by GeneMANIA.
+article_title: 'Monkeypox Virus Crosstalk with HIV: An Integrated Skin Transcriptome
+  and Machine Learning Study.'
+citation: Xueyao Cai, et al. ACS Omega. 2023 Dec 12;8(49):47283-47294.
+
+doi: 10.1021/acsomega.3c07687
+journal_title: ACS Omega
+journal_nlm_ta: ACS Omega
+publisher_name: American Chemical Society
+
+keywords:
+---
