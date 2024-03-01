@@ -1,0 +1,39 @@
+---
+pmcid: PMC10601974
+image_filename: PATH-259-441-g002.jpg
+figure_link: /pmc/articles/PMC10601974/figure/path6056-fig-0005/
+number: Figure 5
+figure_title: ''
+caption: Functional PPI networks. The differentially methylated modules consist of
+  a network of genes based on their functional connectivity using PPI. Each module
+  has a primary gene that is connected to other target genes in the network. Each
+  module was significant p < 0.05 using the Functional Epigenetic Module method. GraphNEL
+  networks were exported from the modified FEM R package to Cytoscape (version 3.8)
+  using RCy3 and further annotated. Node colour represents methylation state; blue
+  nodes show hypermethylation, with yellow representing hypomethylation. A different
+  colour of the node border refers to differential expression; those with red borders
+  are upregulated, those with green are downregulated. Edge widths are proportional
+  to the average statistic of the PPI network. (A) The bmpr1aa/smad3b/smad4a module
+  is associated with BMP and TGFβ signalling pathways and was reported to be significant
+  through three different seed genes. (B) The tfpd2/cdk6 module is associated with
+  cell cycle regulation, identified twice with individual seed genes.
+article_title: Loss of the crumbs cell polarity complex disrupts epigenetic transcriptional
+  control and cell cycle progression in the developing retina.
+citation: Nicholas Owen, et al. J Pathol. 2023 Apr;259(4):441-454.
+
+doi: 10.1002/path.6056
+journal_title: The Journal of Pathology
+journal_nlm_ta: J Pathol
+publisher_name: John Wiley & Sons, Ltd
+
+keywords:
+- polarity complex
+- retina
+- transcriptome
+- RNA‐seq
+- epigenome
+- DNA methylation
+- zebrafish
+- iPSC
+
+---

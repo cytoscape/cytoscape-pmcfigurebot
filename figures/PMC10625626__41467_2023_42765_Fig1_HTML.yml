@@ -1,0 +1,56 @@
+---
+pmcid: PMC10625626
+image_filename: 41467_2023_42765_Fig1_HTML.jpg
+figure_link: /pmc/articles/PMC10625626/figure/Fig1/
+number: Fig. 1
+figure_title: Cul4b is transcriptionally regulated by c-Myc in CD8+ T cells
+caption: a Quantitative proteomics analysis of c-Myc-deficient (c-MyccKO) and control
+  CD8+ T cells stimulated for 24 h with anti-CD3/CD28 mAbs. The DAVID functional annotation
+  tool was used to perform a gene-annotation enrichment analysis of the set of differentially
+  expressed genes (adjusted p-value < 0.05) between c-MyccKO and control CD8+ T cells.
+  The bubble plot depicts the enriched functional networks of proteins. The z-score
+  is assigned to the x-axis and the negative logarithm of the adjusted p-value to
+  the y-axis (the higher, the more significant). The size/area of the displayed circles
+  is proportional to the number of genes assigned to the term. Red, significantly
+  enriched GO terms related to cell cycle and the DNA damage response; Green, Translation
+  and Transcription related terms among the top ten terms. GO terms outside top ten
+  are shown in gray. p-values were calculated using two-tailed Fisher’s exact tests,
+  corrected for multiple comparisons via Bonferroni correction. b, c Gene set enrichment
+  analysis (GSEA) showing GO biological processes related to the cellular response
+  to DNA damage and DNA repair in control over c-MyccKO CD8+ T cells. p-values represent
+  probability of overrepresentation via two-tailed Fisher’s exact tests. p-values
+  were corrected for multiple comparisons via the Benjamini-Hochberg procedure. Normalized
+  enrichment score (NES) reflects the degree to which the gene set is overrepresented
+  at the top or bottom of a ranked list of genes, normalized for gene set size and
+  correlations between the gene set and expression dataset. NES was calculated via
+  GSEA. d The construction of the Protein-Protein Interaction (PPI) network for proteins
+  associated with biological terms cell cycle, DNA repair, and cellular response to
+  DNA damage were superimposed with the scored protein interaction data from STRING
+  and these were then visualized in Cytoscape (v. 3.9.1). The 1st and 2nd degree interactors
+  of c-Myc are shown, green depicts direct interactors of c-Myc while orange depicts
+  direct interactors of Cul4b. e The heatmap showing protein abundance (copy number)
+  of CRL4B components in naïve, TCR activated control (WT) and c-Myc-deleted CD8+
+  T cells. f Naïve CD8+ T cells from control and c-MyccKO mice were activated with
+  anti-CD3/CD28 plus ICAM1 for 36 h. A volcano plot of gene profiles in c-MyccKO versus
+  control CD8+ T cells as determined using RNA-seq analysis. Differentially regulated
+  Cul4b components are highlighted. Student’s t-tests were performed to identify differentially
+  regulated genes between control and c-MyccKO samples, p-value < 0.001 were considered
+  significant. g c-Myc ChIP-seq tracks at the Cul4b, and adapter protein (Ddb1) gene
+  loci in WT CD8+ T cells (top, gene structures and transcriptional orientations).
+  c-Myc binding peaks, identified by the Model based Analysis for ChIP-seq (MACS)
+  algorithm, are marked by rectangles. Source data are provided as a “Source Data”
+  file.
+article_title: c-Myc uses Cul4b to preserve genome integrity and promote antiviral
+  CD8+ T cell immunity.
+citation: Asif A. Dar, et al. Nat Commun. 2023;14:7098.
+
+doi: 10.1038/s41467-023-42765-7
+journal_title: Nature Communications
+journal_nlm_ta: Nat Commun
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cytotoxic T cells
+- Lymphocyte differentiation
+
+---

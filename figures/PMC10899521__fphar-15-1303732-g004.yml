@@ -1,0 +1,28 @@
+---
+pmcid: PMC10899521
+image_filename: fphar-15-1303732-g004.jpg
+figure_link: /pmc/articles/PMC10899521/figure/F4/
+number: FIGURE 4
+figure_title: ''
+caption: PPI network of miR-506-3p target genes (A) PPI network of miR-506-3p target
+  genes were constructed by the STRING database. (B) The key genes targeted by miR-506-3p,
+  including seven pivotal target genes, namely, STAT3, AKT2, BCL2L11, MEF2A, SOD2,
+  FXN and HDAC4 were screened out by the cytoHubba plug-in and degree topology algorithm
+  in Cytoscape software (version 3.8.0).
+article_title: Overexpression of miR-506-3p reversed doxorubicin resistance in drug-resistant
+  osteosarcoma cells.
+citation: Xinru Wang, et al. Front Pharmacol. 2024;15:1303732.
+
+doi: 10.3389/fphar.2024.1303732
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- osteosarcoma
+- doxorubicin resistance
+- miR-506-3p
+- JAK2/STAT3 signaling pathway
+- U-2OS/Dox
+
+---

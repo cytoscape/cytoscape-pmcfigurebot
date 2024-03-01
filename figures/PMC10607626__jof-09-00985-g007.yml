@@ -1,0 +1,30 @@
+---
+pmcid: PMC10607626
+image_filename: jof-09-00985-g007.jpg
+figure_link: /pmc/articles/PMC10607626/figure/jof-09-00985-f007/
+number: Figure 7
+figure_title: ''
+caption: 'Hub gene identified from the PPI networks: (a) the protein–protein interaction
+  (PPI) network was constructed by STRING and Cytoscape. The node size represents
+  the degree of connectivity, and the node color represents the change in the betweenness
+  centrality value; (b) fragments per kilobase of exon model per million mapped fragments
+  (FPKMs) of the eight hub genes obtained by RNA sequencing analysis. A p-value <
+  0.05 was considered statistically significant; * p < 0.01; (c) PPI network of the
+  eight hub genes.'
+article_title: RNA-Seq-Based Transcriptome Analysis of Nitric Oxide Scavenging Response
+  in Neurospora crassa.
+citation: Nan-Nan Yu, et al. J Fungi (Basel). 2023 Oct;9(10):985.
+
+doi: 10.3390/jof9100985
+journal_title: Journal of Fungi
+journal_nlm_ta: J Fungi (Basel)
+publisher_name: MDPI
+
+keywords:
+- nitric oxide
+- filamentous fungi
+- RNA sequencing
+- Neurospora crassa
+- vegetative growth
+
+---

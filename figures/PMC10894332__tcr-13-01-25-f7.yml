@@ -1,0 +1,27 @@
+---
+pmcid: PMC10894332
+image_filename: tcr-13-01-25-f7.jpg
+figure_link: /pmc/articles/PMC10894332/figure/f7/
+number: Figure 7
+figure_title: ''
+caption: Visualization of PPI network analysis of DEGs in C4BPA high/low expression
+  groups. (A) The PPI network of DEGs constructed by String and Cytoscape. (B) Relationship
+  between C4BPA and other molecules. PPI, protein-protein interaction; DEGs, differentially
+  expressed genes.
+article_title: Identification of C4BPA as biomarker associated with immune infiltration
+  and prognosis in breast cancer.
+citation: Juan Zou, et al. Transl Cancer Res. 2024 Jan 31;13(1):25-45.
+
+doi: 10.21037/tcr-23-1215
+journal_title: Translational Cancer Research
+journal_nlm_ta: Transl Cancer Res
+publisher_name: AME Publishing Company
+
+keywords:
+- Breast cancer (BC)
+- bioinformatics analysis
+- C4BPA
+- immune infiltration
+- prognosis
+
+---

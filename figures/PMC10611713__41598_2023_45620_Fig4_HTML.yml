@@ -1,0 +1,30 @@
+---
+pmcid: PMC10611713
+image_filename: 41598_2023_45620_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC10611713/figure/Fig4/
+number: Figure 4
+figure_title: ''
+caption: Identification of hub genes. A Venn diagram of 203 overlapping DEGs in GSE45585,
+  GSE45587 and GSE9210 datasets (A). PPI network constructed by 203 DEGs in STRING
+  database with a PPI score > 0.4 (B). As a result, the PPI network showed 59 interactions
+  of the hub genes with each other, 197 nodes and 271 edges were established. Three
+  functional modules were identified using Cytoscape software by Hubba plugin analysis
+  (C) and the MCODE (D). Six hub genes with the highest scores in the Degree, Bottleneck,
+  and MCC algorithms from Hubba and MCODE analysis were identified (E). Six identified
+  hub genes including PRM2, FSCN3, TEKT2, UBQLN3, SPATS1 and GTSF1L were all down-regulated
+  in NOA compared to the normal samples (F).
+article_title: Identification of hub genes associated with spermatogenesis by bioinformatics
+  analysis.
+citation: Shuang Liu, et al. Sci Rep. 2023;13:18435.
+
+doi: 10.1038/s41598-023-45620-3
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Cancer genetics
+- Gene expression
+- Genetic markers
+
+---
