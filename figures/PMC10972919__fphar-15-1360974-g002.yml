@@ -1,0 +1,39 @@
+---
+pmcid: PMC10972919
+image_filename: fphar-15-1360974-g002.jpg
+figure_link: /pmc/articles/PMC10972919/figure/F2/
+number: FIGURE 2
+figure_title: ''
+caption: Venn diagram, volcano plot, GO term enrichment, KEGG pathway enrichment,
+  PPI network, and hub genes of AF- and NAFLD-related DEGs. (A) Venn diagram showcasing
+  DEGs associated with AF and NAFLD. (B) Volcano plot of AF-related DEGs. Gray points
+  correspond to adjusted p > 0.05; red points denote upregulated genes with adjusted
+  p < 0.05; green points represent downregulated genes with adjusted p < 0.05. (C)
+  GO term enrichment for co-down-regulated DEGs linked to AF and NAFLD. Dot size indicates
+  the count of enriched DEGs; dot color reflects the q value. (D) KEGG pathway of
+  co-DEGs related to AF and NAFLD. Dot size denotes the count of enriched DEGs; dot
+  color illustrates the q value. (E) Cytoscape software calculated the hub genes of
+  co-DEGs. Red indicates a higher MCC score; blue signifies a lower MCC score. Rectangles
+  represent co-up-regulated DEGs; ellipses correspond to co-down-regulated DEGs. (F)
+  Hub genes of co-DEGs are ranked by the MCC method. GO, Gene Ontology; KEGG, Kyoto
+  Encyclopedia of Genes and Genomes; PPI, protein-protein interaction; AF, atrial
+  fibrillation; NAFLD, nonalcoholic fatty liver disease; DEGs, differentially expressed
+  genes.
+article_title: 'Identification of key genes increasing susceptibility to atrial fibrillation
+  in nonalcoholic fatty liver disease and the potential mechanisms: mitochondrial
+  dysfunction and systemic inflammation.'
+citation: Baiyin Zhong, et al. Front Pharmacol. 2024;15:1360974.
+
+doi: 10.3389/fphar.2024.1360974
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- non-alcoholic fatty liver disease
+- atrial fibrillation
+- mitochondrial dysfunction
+- systemic inflammation
+- empagliflozin
+
+---

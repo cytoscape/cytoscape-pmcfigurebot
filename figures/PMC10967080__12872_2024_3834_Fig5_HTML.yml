@@ -1,0 +1,27 @@
+---
+pmcid: PMC10967080
+image_filename: 12872_2024_3834_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC10967080/figure/Fig5/
+number: Fig. 5
+figure_title: ''
+caption: PPI network analysis of hub genes. A PPI network.from STRING database. B
+  PPI network circles represented proteins and lines represented interactions between
+  proteins. Ten hub genes were in colour. The red depth means the degree of importance.
+  C Results scored 9.647 using the MCODE plugin in Cytoscape. D Results scored 5.4
+  using the MCODE plugin in Cytoscape; PPI, protein–protein interaction
+article_title: Bioinformatics integration reveals key genes associated with mitophagy
+  in myocardial ischemia-reperfusion injury.
+citation: Zhian Chen, et al. BMC Cardiovasc Disord. 2024;24:183.
+
+doi: 10.1186/s12872-024-03834-x
+journal_title: BMC Cardiovascular Disorders
+journal_nlm_ta: BMC Cardiovasc Disord
+publisher_name: BioMed Central
+
+keywords:
+- Ischemia–reperfusion injury
+- Mitophagy
+- Bioinformatics
+- Hub genes
+
+---

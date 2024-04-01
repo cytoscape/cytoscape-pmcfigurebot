@@ -1,0 +1,24 @@
+---
+pmcid: PMC10980376
+image_filename: medi-101-e30469-g002.jpg
+figure_link: /pmc/articles/PMC10980376/figure/F2/
+number: Figure 2
+figure_title: ''
+caption: PPI network of 51 NRCRGs and the expression levels of NRCR DEGs. (A) PPI
+  network demonstrating the interactions of the NRCRGs (interaction score = 0.9).
+  (B) Hub genes filtrated by Cytoscape, the darker the color, the higher the connection
+  degree. (C) Heatmap (presenting the expression levels of NRCR DEGs between tumor
+  samples (Tumor, blue) and normal samples (Normal, red). All P < .01. DEGs = differentially
+  expressed genes, NRCR = neurotransmitter release cycle-related, NRCRGs = neurotransmitter
+  release cycle-related genes, PPI = protein–protein interaction.
+article_title: Neurotransmitter release cycle-related genes predict the prognosis
+  of lung adenocarcinoma.
+citation: Han Li, et al. Medicine (Baltimore). 2022 Sep 9;101(36):e30469.
+
+doi: ''
+journal_title: ''
+journal_nlm_ta: ''
+publisher_name: ''
+
+keywords:
+---
