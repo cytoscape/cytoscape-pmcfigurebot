@@ -1,0 +1,26 @@
+---
+pmcid: PMC11048873
+image_filename: genes-15-00392-g005.jpg
+figure_link: /pmc/articles/PMC11048873/figure/genes-15-00392-f005/
+number: Figure 5
+figure_title: ''
+caption: Identification of the PPI network core using Cytoscape 3.8.0. The score of
+  each node is calculated using the cytoscape plug-in (CytoNCA) after selecting a
+  node with a higher score and rebuilding the network to obtain the network core.
+article_title: Network Pharmacology Prediction and Molecular Docking-Based Strategy
+  to Explore the Potential Mechanism of Gualou Xiebai Banxia Decoction against Myocardial
+  Infarction.
+citation: Wei-Lu Wang, et al. Genes (Basel). 2024 Apr;15(4):392.
+
+doi: 10.3390/genes15040392
+journal_title: Genes
+journal_nlm_ta: Genes (Basel)
+publisher_name: MDPI
+
+keywords:
+- network pharmacology
+- molecular docking
+- Gualou Xiebai Banxia decoction
+- targets
+
+---
