@@ -1,0 +1,29 @@
+---
+pmcid: PMC11129751
+image_filename: JPR-17-1881-g0003.jpg
+figure_link: /pmc/articles/PMC11129751/figure/f0003/
+number: Figure 3
+figure_title: ''
+caption: PPI network construction and analysis of the target of LCH treatment for
+  NP. (A) PPI network diagram of the target of LCH treatment of NP. (B) Topological
+  analysis of the PPI network using CytoNCA plug-in in Cytoscape 3.9.0 software. The
+  node size indicates the degree value. The darker the node color, the larger is the
+  degree value. (C) Cluster analysis of PPI network.
+article_title: 'Ligusticum chuanxiong Hort. Ameliorates Neuropathic Pain by Regulating
+  Microglial M1 Polarization: A Study Based on Network Pharmacology.'
+citation: Shanshan Cui, et al. J Pain Res. 2024;17:1881-1901.
+
+doi: 10.2147/JPR.S446137
+journal_title: Journal of Pain Research
+journal_nlm_ta: J Pain Res
+publisher_name: Dove
+
+keywords:
+- neuropathic pain
+- Ligusticum chuanxiong Hort.
+- network pharmacology
+- molecular docking
+- microglia
+- inflammation
+
+---
