@@ -1,0 +1,32 @@
+---
+pmcid: PMC11200473
+image_filename: antioxidants-13-00713-g007.jpg
+figure_link: /pmc/articles/PMC11200473/figure/antioxidants-13-00713-f007/
+number: Figure 7
+figure_title: ''
+caption: 'Protein–protein interaction (PPI) network and hub gene analysis: (A) Venn
+  diagram illustrating the intersection relationship of targets between compounds
+  from the ethanolic extract of G. atroviridis (GA) and disease. (B) PPI network generated
+  using the STRING database, consisting of 41 common target networks. (C) The Cytoscape
+  plugin cytoHubba highlights the top 10 hub genes in the PPI network, where their
+  importance is underscored by node coloration, with darker and redder hues signifying
+  greater scores.'
+article_title: Anti-Melanogenic Activity of Ethanolic Extract from Garcinia atroviridis
+  Fruits Using In Vitro Experiments, Network Pharmacology, Molecular Docking, and
+  Molecular Dynamics Simulation.
+citation: Aman Tedasen, et al. Antioxidants (Basel). 2024 Jun;13(6):713.
+
+doi: 10.3390/antiox13060713
+journal_title: Antioxidants
+journal_nlm_ta: Antioxidants (Basel)
+publisher_name: MDPI
+
+keywords:
+- Garcinia atroviridis
+- antioxidant activity
+- tyrosinase
+- melanin
+- molecular docking
+- molecular dynamics simulation
+
+---

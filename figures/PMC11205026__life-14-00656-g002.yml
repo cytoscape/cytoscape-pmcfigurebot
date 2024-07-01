@@ -1,0 +1,27 @@
+---
+pmcid: PMC11205026
+image_filename: life-14-00656-g002.jpg
+figure_link: /pmc/articles/PMC11205026/figure/life-14-00656-f002/
+number: Figure 2
+figure_title: ''
+caption: (A) Screening of core targets whose betweenness centrality, closeness centrality,
+  and degree centrality were all above the median. (B) The PPI network of the 183
+  core targets constructed by the STRING database. (C) The PPI network of the 183
+  core targets constructed by Cytoscape.
+article_title: Elucidation of Anti-Obesity Mechanisms of Phenolics in Artemisiae argyi
+  Folium (Aiye) by Integrating LC-MS, Network Pharmacology, and Molecular Docking.
+citation: Yongxiang Liu, et al. Life (Basel). 2024 Jun;14(6):656.
+
+doi: 10.3390/life14060656
+journal_title: Life
+journal_nlm_ta: Life (Basel)
+publisher_name: MDPI
+
+keywords:
+- Artemisiae argyi Folium
+- obesity
+- LC-MS
+- network pharmacology
+- molecular docking
+
+---

@@ -1,0 +1,34 @@
+---
+pmcid: PMC11209862
+image_filename: ol-28-02-14511-g09.jpg
+figure_link: /pmc/articles/PMC11209862/figure/f10-ol-28-2-14511/
+number: Figure 10
+figure_title: ''
+caption: PPI network demonstrates the PPI of the protein-coding upregulated genes
+  depicted using Cytoscape. Nodes are represented as yellow elliptical shapes. Edges
+  are represented as blue lines. PPI network demonstrated the PPI of the protein-coding
+  gene (A) SAA1, showing one cluster in the PPI network. The PPI network had 23 nodes
+  and 129 edges; (B) SAA2, showing one cluster in the PPI network. This is the densest
+  network among the upregulated genes. The PPI network has 25 nodes and 236 edges;
+  (C) GDF15, showing one cluster in the PPI network. It is linear in shape and the
+  lightest network among upregulated genes. The PPI network has 17 nodes and 24 edges;
+  and (D) USP26, showing two clusters in the PPI network. The PPI network has 26 nodes
+  and 127 edges. (E) Box plot representing the number of nodes and edges of all the
+  upregulated genes. PPI, protein-protein interaction; SA, serum amyloid; GDF15, growth
+  differentiation factor 15; USP26, ubiquitin specific peptidase 26.
+article_title: Gene expression profiling and the isocitrate dehydrogenase mutational
+  landscape of temozolomide‑resistant glioblastoma.
+citation: Wu-Fu Chen, et al. Oncol Lett. 2024 Aug;28(2):378.
+
+doi: 10.3892/ol.2024.14511
+journal_title: Oncology Letters
+journal_nlm_ta: Oncol Lett
+publisher_name: D.A. Spandidos
+
+keywords:
+- glioblastoma multiforme
+- temozolomide resistance
+- isocitrate dehydrogenase mutation
+- gene expression
+
+---

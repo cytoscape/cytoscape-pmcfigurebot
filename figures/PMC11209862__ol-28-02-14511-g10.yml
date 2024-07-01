@@ -1,0 +1,33 @@
+---
+pmcid: PMC11209862
+image_filename: ol-28-02-14511-g10.jpg
+figure_link: /pmc/articles/PMC11209862/figure/f11-ol-28-2-14511/
+number: Figure 11
+figure_title: ''
+caption: PPI network of the protein-coding downregulated and upregulated genes. (A)
+  PPI network demonstrating the PPI of protein-coding downregulated and upregulated
+  genes (TIE1, CACNA2D1, CAPN6, ADAMTS6, SAA2, GDF15, SAA1, and USP26), depicted using
+  Cytoscape. Nodes are represented as pink elliptical shapes. Edges are represented
+  as blue lines. A total of one cluster is shown in the PPI network. The PPI network
+  has 35 nodes and 241 edges. (B) Bar diagram representing the number of nodes and
+  edges of the PPI network. PPI, protein-protein interaction; TIE1, tyrosine kinase
+  with immunoglobulin and epidermal growth factor homology domains 1; CACNA2D1, calcium
+  voltage-gated channel auxiliary subunit α2Δ1; CAPN6, calpain 6; ADAMTS6, a disintegrin
+  and metalloproteinase with thrombospondin motifs 6; SA, serum amyloid; GDF15, growth
+  differentiation factor 15; USP26, ubiquitin specific peptidase 26.
+article_title: Gene expression profiling and the isocitrate dehydrogenase mutational
+  landscape of temozolomide‑resistant glioblastoma.
+citation: Wu-Fu Chen, et al. Oncol Lett. 2024 Aug;28(2):378.
+
+doi: 10.3892/ol.2024.14511
+journal_title: Oncology Letters
+journal_nlm_ta: Oncol Lett
+publisher_name: D.A. Spandidos
+
+keywords:
+- glioblastoma multiforme
+- temozolomide resistance
+- isocitrate dehydrogenase mutation
+- gene expression
+
+---

@@ -1,0 +1,37 @@
+---
+pmcid: PMC11209862
+image_filename: ol-28-02-14511-g08.jpg
+figure_link: /pmc/articles/PMC11209862/figure/f9-ol-28-2-14511/
+number: Figure 9
+figure_title: ''
+caption: PPI network demonstrates the PPIs of the protein-coding downregulated genes
+  depicted using Cytoscape. Nodes are represented as green elliptical shapes. Edges
+  are represented by blue lines. PPI network demonstrates the PPIs of the protein-coding
+  gene (A) TIE1, showing two clusters in the PPI networks. One main cluster has two
+  sub-clusters, with one demonstrating no interactions with the gene of interest.
+  The PPI network has 23 nodes and 52 edges; (B) CACNA2D1, showing one cluster in
+  the PPI networks. The PPI network has 16 nodes and 101 edges; (C) CAPN6, showing
+  two clusters in the PPI networks. One main cluster has two sub-clusters, with one
+  demonstrating no interactions with the gene of interest. The PPI network has 21
+  nodes and 41 edges; and (D) ADAMTS6, showing one cluster of the PPI network. The
+  PPI network has 23 nodes and 51 edges. (E) Box plot representing the number of nodes
+  and edges of all the downregulated genes. PPI, protein-protein interaction; TIE1,
+  tyrosine kinase with immunoglobulin and epidermal growth factor homology domains
+  1; CACNA2D1, calcium voltage-gated channel auxiliary subunit α2Δ1; CAPN6, calpain
+  6; ADAMTS6, a disintegrin and metalloproteinase with thrombospondin motifs 6.
+article_title: Gene expression profiling and the isocitrate dehydrogenase mutational
+  landscape of temozolomide‑resistant glioblastoma.
+citation: Wu-Fu Chen, et al. Oncol Lett. 2024 Aug;28(2):378.
+
+doi: 10.3892/ol.2024.14511
+journal_title: Oncology Letters
+journal_nlm_ta: Oncol Lett
+publisher_name: D.A. Spandidos
+
+keywords:
+- glioblastoma multiforme
+- temozolomide resistance
+- isocitrate dehydrogenase mutation
+- gene expression
+
+---

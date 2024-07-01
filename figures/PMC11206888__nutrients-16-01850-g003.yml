@@ -1,0 +1,28 @@
+---
+pmcid: PMC11206888
+image_filename: nutrients-16-01850-g003.jpg
+figure_link: /pmc/articles/PMC11206888/figure/nutrients-16-01850-f003/
+number: Figure 3
+figure_title: ''
+caption: (A) PPI network diagram derived from the STRING database; (B) diagram of
+  core target construction using Cytoscape software. In Figure (B), nodes represent
+  proteins, edges represent connections between proteins, and the size and color of
+  nodes indicate the importance of each node within the entire protein interaction
+  network.
+article_title: Based on Network Pharmacology and Molecular Docking, the Active Components,
+  Targets, and Mechanisms of Flemingia philippinensis in Improving Inflammation Were
+  Excavated.
+citation: Dongying Zhang, et al. Nutrients. 2024 Jun;16(12):1850.
+
+doi: 10.3390/nu16121850
+journal_title: Nutrients
+journal_nlm_ta: Nutrients
+publisher_name: MDPI
+
+keywords:
+- Flemingia philippinensis
+- improve inflammation
+- network pharmacology
+- molecular docking
+
+---

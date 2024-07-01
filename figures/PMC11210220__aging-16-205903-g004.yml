@@ -1,0 +1,30 @@
+---
+pmcid: PMC11210220
+image_filename: aging-16-205903-g004.jpg
+figure_link: /pmc/articles/PMC11210220/figure/f4/
+number: Figure 4
+figure_title: ''
+caption: Construction and analysis of protein-protein interaction (PPI) networks.
+  (A) Construct the PPI network of DEGs using STRING online database and utilize Cytoscape
+  software for analysis. (B) MCC was used to identify the central gene. (C) MNC was
+  used to identify the central gene. (D) DMNC was used to identify the central gene.
+  (E) EPC was used to identify the central gene. (F) EcCentricity was used to identify
+  the central gene. (G) Core genes (Tsc22d3, Itga6, Ermn, Sult1a1) were obtained by
+  merging using Venn diagrams.
+article_title: Tsc22d3 promotes morphine tolerance in mice through the GPX4 ferroptosis
+  pathway.
+citation: Yan Chen, et al. Aging (Albany NY). 2024 Jun 15;16(11):9859-9875.
+
+doi: 10.18632/aging.205903
+journal_title: Aging (Albany NY)
+journal_nlm_ta: Aging (Albany NY)
+publisher_name: Impact Journals
+
+keywords:
+- Tsc22d3
+- morphine tolerance
+- iron death
+- GPX4
+- apoptosis
+
+---
