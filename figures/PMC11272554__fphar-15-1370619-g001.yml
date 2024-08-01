@@ -1,0 +1,31 @@
+---
+pmcid: PMC11272554
+image_filename: fphar-15-1370619-g001.jpg
+figure_link: /pmc/articles/PMC11272554/figure/F1/
+number: FIGURE 1
+figure_title: ''
+caption: Network pharmacology analysis of the neuroprotective effects of phenolic
+  components in H. citrina leaves ((A) Venn diagram of phenolic components in H. citrina
+  leaves and neuroprotective targets; (B) PPI network; (C) Network of “H. citrina
+  leaves Phenolic Components - Common Targets – Neuroprotection”; (D) GO biological
+  function enrichment; (E) KEGG pathway enrichment; (F) Network of “H. citrina leaves
+  Phenolic Components - Common Targets - Pathways.” The component targets and disease
+  targets information were searched through databases, and result graph were drew
+  by Cytoscape software and Microbioinformatics Platform (https://www.bioinformatics.com.cn/)).
+article_title: Neuroprotective effects of total phenolics from Hemerocallis citrina
+  Baroni leaves through the PI3K/AKT pathway.
+citation: Yanjun Jia, et al. Front Pharmacol. 2024;15:1370619.
+
+doi: 10.3389/fphar.2024.1370619
+journal_title: Frontiers in Pharmacology
+journal_nlm_ta: Front Pharmacol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- Hemerocallis citrina Baroni leaves
+- total phenolics
+- network pharmacology
+- PI3K/AKT
+- neuroprotection
+
+---

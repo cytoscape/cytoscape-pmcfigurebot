@@ -1,0 +1,32 @@
+---
+pmcid: PMC11278150
+image_filename: DDDT-18-3121-g0003.jpg
+figure_link: /pmc/articles/PMC11278150/figure/f0002/
+number: Figure 2
+figure_title: ''
+caption: PPI network of celastrol-HCC-ferroptosis genes. (A) Venn diagram illustrating
+  the common targets of celastrol (Cel), hepatocellular carcinoma (HCC), and ferroptosis
+  (FerrDb). FerrDb is the world’s first database that is dedicated to ferroptosis
+  regulators and ferroptosis-disease associations. Here, “FerrDb” represents all genes
+  associated with ferroptosis. (B) PPI network generated in Cytoscape 3.9.1 by importing
+  the STRING data for 31 shared targets. (C) Core gene cluster filtered by MCODE plugin
+  in Cytoscape 3.9.1. Blue and red rectangular nodes together represent 31 common
+  targets. The red nodes are the selected core gene cluster. Nodes are marked as corresponding
+  ranks and larger circles indicate more important roles in the network.
+article_title: Integrating Network Pharmacology with in vitro Experiments to Validate
+  the Efficacy of Celastrol Against Hepatocellular Carcinoma Through Ferroptosis.
+citation: Banglan Cai, et al. Drug Des Devel Ther. 2024;18:3121-3141.
+
+doi: 10.2147/DDDT.S450324
+journal_title: Drug Design, Development and Therapy
+journal_nlm_ta: Drug Des Devel Ther
+publisher_name: Dove
+
+keywords:
+- network pharmacology
+- celastrol
+- hepatocellular carcinoma
+- ferroptosis
+- reactive oxygen species
+
+---

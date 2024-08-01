@@ -1,0 +1,32 @@
+---
+pmcid: PMC11246037
+image_filename: JIR-17-4483-g0003.jpg
+figure_link: /pmc/articles/PMC11246037/figure/f0002/
+number: Figure 2
+figure_title: ''
+caption: Differential expression genes in SICM by bioinformatics analysis. (A) Venn
+  diagram of DEGs in 5 mice transcriptome datasets. The 12 co-DEGs in 5 datasets were
+  marked in red. 36 co-DEGs were common differences expressed in 4 datasets. (B) The
+  Volcano plot of 12 co-DEGs with red indicating high expression and blue indicating
+  low expression. (C) The heatmap of 36 co-DEGs expression in 5 datasets. (D) GO enrichment
+  analysis of 48 co-DEGs with enrichment score. (E) KEGG enrichment analysis of the
+  48 co-DEGs with enrichment score. (F) PPI network of co-DEGs constructed in STRING
+  databases with Cytoscape. 14 genes including S100A8 and S100A9 showed significant
+  protein interactions. The size of the circle represents the significance.
+article_title: S100A9 as a Key Myocardial Injury Factor Interacting with ATP5 Exacerbates
+  Mitochondrial Dysfunction and Oxidative Stress in Sepsis-Induced Cardiomyopathy.
+citation: Hui Pei, et al. J Inflamm Res. 2024;17:4483-4503.
+
+doi: 10.2147/JIR.S457340
+journal_title: Journal of Inflammation Research
+journal_nlm_ta: J Inflamm Res
+publisher_name: Dove
+
+keywords:
+- S100A9
+- SICM
+- bioinformatics analysis
+- mitochondrial dysfunction
+- ATP5
+
+---

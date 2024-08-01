@@ -1,0 +1,33 @@
+---
+pmcid: PMC11272612
+image_filename: fonc-14-1388016-g006.jpg
+figure_link: /pmc/articles/PMC11272612/figure/f6/
+number: Figure 6
+figure_title: ''
+caption: Interaction network, expression analysis, survival analysis, and stage-wise
+  expression of ITGA3 and PKM in HCC. (A) Protein-protein interaction (PPI) network
+  of differentially expressed genes (DEGs) identified in high-risk and low-risk groups.
+  The network was constructed using the STRING database and visualized with Cytoscape
+  software. (B) Comparison of ITGA3 expression levels between normal and tumor samples.
+  (C) Comparison of PKM expression levels between normal and tumor samples. (D) Survival
+  curves for patients with high and low PKM expression. (E) Survival curves for patients
+  with high and low ITGA3 expression. (F) Comparison of PKM expression levels across
+  different tumor stages. (G) Comparison of ITGA3 expression levels across different
+  tumor stages. The symbols *** represent P-values of < 0.001.
+article_title: A novel basement membrane-related gene signature predicts prognosis
+  and immunotherapy response in hepatocellular carcinoma.
+citation: Bingyao Li, et al. Front Oncol. 2024;14:1388016.
+
+doi: 10.3389/fonc.2024.1388016
+journal_title: Frontiers in Oncology
+journal_nlm_ta: Front Oncol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- basement membrane
+- hepatocellular carcinoma
+- tumor microenvironment
+- prognosis
+- immunotherapy
+
+---
