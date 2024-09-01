@@ -1,0 +1,36 @@
+---
+pmcid: PMC11275979
+image_filename: nihpp-rs4469045v1-f0005.jpg
+figure_link: /pmc/articles/PMC11275979/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: 'Gene ontology annotation and protein-protein interaction networks of significantly
+  abundant proteins in Aβ plaques. A. GO terms heatmap depicts top 10 enriched BP
+  and CC GO terms for significantly abundant Aβ plaque proteins in DS, EOAD and LOAD.
+  Color indicates the adjusted p-value <0.05 (−Log10 [adj. p-value]). (B-D) Protein
+  networks (PPI Enrichment p=1 × 10−16) show functional and physical amyloid plaques
+  protein associations in DS (B), EOAD (C) and LOAD (D). Node color indicates fold-change
+  (log2 [FC]) and node size depicts adjusted p-value (−log10 [p-value]) from the student’s
+  two-tailed t test. Disconnected nodes are not shown in the network. Colored dotted
+  lines highlight groups of proteins based on functions/pathways observed in the GO
+  terms; Blue: APP protein metabolic process, Red: immune response and inflammation,
+  Green: lysosomal-related functions, Purple: intermediate filament proteins, glial
+  cells. GO terms annotation was performed using R package clusterProfiler v 4.8.2.
+  PPI networks were created in Cytoscape v 3.10.0 using STRING database v 11.5.'
+article_title: Comparison of the Amyloid Plaque Proteome in Down Syndrome, Early-Onset
+  Alzheimer’s Disease and Late-Onset Alzheimer’s Disease.
+citation: Mitchell Martá-Ariza, et al. Res Sq. 2024 Jul 15:rs.3.rs-4469045.
+
+doi: 10.21203/rs.3.rs-4469045/v1
+journal_title: Research Square
+journal_nlm_ta: Res Sq
+publisher_name: American Journal Experts
+
+keywords:
+- Down syndrome
+- Alzheimer’s disease
+- Proteomics
+- Amyloid-β
+- Neuropathology
+
+---

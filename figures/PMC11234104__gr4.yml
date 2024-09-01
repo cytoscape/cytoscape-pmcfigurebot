@@ -1,0 +1,29 @@
+---
+pmcid: PMC11234104
+image_filename: gr4.jpg
+figure_link: /pmc/articles/PMC11234104/figure/fig4/
+number: Fig. 4
+figure_title: ''
+caption: Gene biological functions and interactions of CDCA genes in patients with
+  KIRP. (A) PPI network based on the eight CDCA proteins. (B) PPI network for CDCA
+  proteins and the 80 most frequently neighboring proteins. (C) The hub genes identified
+  with Cytoscape for CDCA genes and the 80 most frequently neighboring genes. (D)
+  Three most significant MCODE components form PPI network and function enrichment
+  analysis of three MCODE components independently among CDCA genes and the 80 most
+  frequently neighboring genes. (E, F) GO and KEGG functional enrichment analyses
+  of CDCAs.
+article_title: Comprehensive molecular analyses and experimental validation of CDCAs
+  with potential implications in kidney renal papillary cell carcinoma prognosis.
+citation: Fuping Li, et al. Heliyon. 2024 Jun 30;10(12):e33045.
+
+doi: 10.1016/j.heliyon.2024.e33045
+journal_title: Heliyon
+journal_nlm_ta: Heliyon
+publisher_name: Elsevier
+
+keywords:
+- CDCA gene family
+- Prognostic biomarkers
+- Kidney renal papillary cell carcinoma
+
+---
