@@ -1,0 +1,30 @@
+---
+pmcid: PMC11383191
+image_filename: iovs-65-11-13-f009.jpg
+figure_link: /pmc/articles/PMC11383191/figure/fig10/
+number: Figure 9
+figure_title: ''
+caption: 'PPI networks. (A) Integrated protein‒protein interaction network of significantly
+  enriched pathways in hCMFs. (B–E) Subnetworks of the four pathways related to the
+  genes exhibiting the most significant enrichment: EMT (B), mTORC1 signaling (C),
+  TGFβ signaling (D), and angiogenesis (E), derived from GSEA using gene counts. Influential
+  nodes, as determined by the MCC algorithm using CytoHubba in Cytoscape, are emphasized
+  to indicate their central role in the network (red to yellow color scale, with red
+  indicating the most influential nodes).'
+article_title: RNA-Seq Analysis Unraveling Novel Genes and Pathways Influencing Corneal
+  Wound Healing.
+citation: Rajnish Kumar, et al. Invest Ophthalmol Vis Sci. 2024 Sep;65(11):13.
+
+doi: 10.1167/iovs.65.11.13
+journal_title: Investigative Ophthalmology & Visual Science
+journal_nlm_ta: Invest Ophthalmol Vis Sci
+publisher_name: The Association for Research in Vision and Ophthalmology
+
+keywords:
+- cornea
+- fibrosis
+- RNA-seq
+- sequencing
+- wound healing
+
+---

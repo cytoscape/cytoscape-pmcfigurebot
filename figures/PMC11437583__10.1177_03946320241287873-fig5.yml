@@ -1,0 +1,29 @@
+---
+pmcid: PMC11437583
+image_filename: 10.1177_03946320241287873-fig5.jpg
+figure_link: /pmc/articles/PMC11437583/figure/fig5-03946320241287873/
+number: Figure 5
+figure_title: ''
+caption: The PPI network constructed for ATL potential targets. The STRING network
+  consisted of 92 nodes, among which CDK6 was functionally and physically interacted
+  with 23 targets (a). Nodes in the PPI network in Cytoscape were interacted with
+  1516 edges, among which 40 nodes were defined as hub genes (b). The color mapping
+  identifies nodes from significantly high (red) to low (yellow) expression.
+article_title: Umbelliprenin improved anti-proliferative effects of ionizing radiation
+  on adult T-cell leukemia/lymphoma cells via interaction with CDK6; an in vitro and
+  in silico study.
+citation: Keyhan Ebrahimi, et al. Int J Immunopathol Pharmacol. 2024 Jan-Dec;38:03946320241287873.
+
+doi: 10.1177/03946320241287873
+journal_title: International Journal of Immunopathology and Pharmacology
+journal_nlm_ta: Int J Immunopathol Pharmacol
+publisher_name: SAGE Publications
+
+keywords:
+- adult T-cell leukemia/lymphoma
+- umbelliprenin
+- ionizing radiation
+- CDK6
+- combinatorial treatment
+
+---

@@ -1,0 +1,27 @@
+---
+pmcid: PMC11433142
+image_filename: pone.0311143.g002.jpg
+figure_link: /pmc/articles/PMC11433142/figure/pone.0311143.g002/
+number: Fig 2
+figure_title: The PPI network diagram of 136 shared proteins
+caption: (A), The overall PPI network diagram of 136 shared proteins. (B)-(E), The
+  four core clusters identified using the Molecular Complex Detection plugin in Cytoscape,
+  shown individually. (F), The PPI network of the top 15 proteins by MCC. These proteins
+  are part of highly interconnected subnetworks (cliques) within the PPI network.
+  (G), The PPI network of the top 15 proteins by Degree. These proteins are key hubs
+  in the PPI network. As in (F and G), nodes are colored based on their Degree or
+  MCC scores, with red indicating more higher scores. In all panels (A)-(G), targets
+  are labeled with their name abbreviations. PPI, Protein-Protein Interaction; MCC,
+  Maximal Clique Centrality.
+article_title: 'Medioresinol from Eucommiae cortex improves myocardial infarction-induced
+  heart failure through activation of the PI3K/AKT/mTOR pathway: A network analysis
+  and experimental study.'
+citation: Xueting Qin, et al. PLoS One. 2024;19(9):e0311143.
+
+doi: 10.1371/journal.pone.0311143
+journal_title: PLOS ONE
+journal_nlm_ta: PLoS One
+publisher_name: Public Library of Science
+
+keywords:
+---

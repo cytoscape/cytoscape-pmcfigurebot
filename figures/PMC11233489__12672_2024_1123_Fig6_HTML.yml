@@ -1,0 +1,32 @@
+---
+pmcid: PMC11233489
+image_filename: 12672_2024_1123_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC11233489/figure/Fig6/
+number: Fig. 6
+figure_title: ''
+caption: PPI network construction and the module analysis. A The figure represents
+  a Protein–Protein Interaction (PPI) network constructed using a molecular interaction
+  list obtained from the STRING database. The size of the circles indicates the number
+  of protein interactions; the larger the circle, the darker the color. B The key
+  gene sets were obtained through the MCODE plug-in of Cytoscape software. C The MCC
+  algorithm on cytoHubba plug-in of Cytoscape software was used to obtain the Top20
+  most closely related Hub gene collections
+article_title: Investigation of prognostic values of immune infiltration and LGMN
+  expression in the microenvironment of osteosarcoma.
+citation: Hualiang Xu, et al. Discov Oncol. 2024 Dec;15:275.
+
+doi: 10.1007/s12672-024-01123-9
+journal_title: Discover Oncology
+journal_nlm_ta: Discov Oncol
+publisher_name: Springer US
+
+keywords:
+- Osteosarcoma
+- LGMN
+- Immune infiltration
+- Bioinformatics
+- Prognosis
+- Therapeutic target
+- Consensus clustering analysis
+
+---

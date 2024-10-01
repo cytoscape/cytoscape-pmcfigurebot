@@ -1,0 +1,32 @@
+---
+pmcid: PMC11432224
+image_filename: ijms-25-09978-g004.jpg
+figure_link: /pmc/articles/PMC11432224/figure/ijms-25-09978-f004/
+number: Figure 4
+figure_title: ''
+caption: PPI network construction and hub genes extraction of DEPs. (A) The PPI network
+  of the DEPs is shown. Network nodes represent proteins; edges represent protein–protein
+  associations. Network analysis was set at high confidence (STRING score = 0.4) and
+  high FDR stringency (0.01). Red indicates significantly increased; green indicates
+  significantly decreased; width represents the degree of the interactions. (B) The
+  top 10 hub genes were extracted with cytoHubba plug-in of Cytoscape software, and
+  the eight algorithms are shown. Network nodes represent proteins; edges represent
+  protein–protein associations. Color represents the score. MCC, Matthews Correlation
+  Coefficient; DMNC, Neighborhood Component Centrality; MNC, Maximum Neighbor Connectivity;
+  EPC, Edge Percolated Component.
+article_title: ITRAQ Based Proteomics Reveals the Potential Mechanism of Placental
+  Injury Induced by Prenatal Stress.
+citation: Yujie Li, et al. Int J Mol Sci. 2024 Sep;25(18):9978.
+
+doi: 10.3390/ijms25189978
+journal_title: International Journal of Molecular Sciences
+journal_nlm_ta: Int J Mol Sci
+publisher_name: MDPI
+
+keywords:
+- prenatal stress
+- placental damage
+- proteomics analyses
+- PI3K/AKT/mTOR pathway
+
+---

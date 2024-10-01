@@ -1,0 +1,33 @@
+---
+pmcid: PMC11139846
+image_filename: 12672_2024_1047_Fig9_HTML.jpg
+figure_link: /pmc/articles/PMC11139846/figure/Fig9/
+number: Fig. 9
+figure_title: ''
+caption: PPI network and hub genes analysis. A A total of 268 co-expression genes
+  of eight ITGBs were uploaded onto the STRING database to get the PPI network of
+  eight ITGBs. The PPI network was visualized by the Cytoscape software. The color
+  and size of each gene represent the degree of the corresponding gene. The minimum
+  degree is 1 and the maximum degree is 67. Colored edges represent the co-expression
+  values between genes. Only edges with co-expression value > 0.5 were colored with
+  continuously deepened blue. B The top 15 hub genes were identified by degree parameter
+  in the Cytoscape software. C GO analysis of the top 15 hub genes. D KEGG analysis
+  of the top 15 hub genes
+article_title: Identification of the biological functions and chemo-therapeutic responses
+  of ITGB superfamily in ovarian cancer.
+citation: Jiawen Han, et al. Discov Oncol. 2024 Dec;15:198.
+
+doi: 10.1007/s12672-024-01047-4
+journal_title: Discover Oncology
+journal_nlm_ta: Discov Oncol
+publisher_name: Springer US
+
+keywords:
+- ITGB
+- Biological function
+- Ovarian cancer
+- Chemo-therapeutic
+- Responses
+- Prognostic prediction
+
+---

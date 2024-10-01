@@ -1,0 +1,40 @@
+---
+pmcid: PMC11377177
+image_filename: CNS-30-e14914-g001.jpg
+figure_link: /pmc/articles/PMC11377177/figure/cns14914-fig-0002/
+number: FIGURE 2
+figure_title: ''
+caption: Bioinformatics analysis of Alzheimer's disease candidate genes regulated
+  by Gingko leaf extract and its key signaling pathways. (A) Schematic representation
+  of the bioinformatics analysis workflow, illustrating the analytical steps involved
+  in the potential regulation of AD key signaling pathways by Gingko leaf extract.
+  (B–D) GO analysis results of AD candidate genes possibly regulated by Gingko leaf
+  extract, showing the top 10 results for biological processes (BP), cellular components
+  (CC), and molecular functions (MF), with adjusted p‐values. (E) KEGG pathway analysis
+  results of 35 AD candidate genes potentially regulated by Gingko leaf extract, represented
+  by a GOKEGG‐EMAP diagram, with the size of the dots indicating the number of selected
+  genes and the color intensity representing the significance of the enrichment analysis
+  (p‐value). (F) KEGG enriched pathways for gene heatmap analysis (G) protein–protein
+  interaction (PPI) network diagram of the 35 AD candidate genes potentially regulated
+  by Gingko leaf extract, constructed using STRING database data and visualized using
+  Cytoscape software. The font size and background color of the genes in the network
+  diagram represent the degree value. (H) Ranking of degree values in the protein–protein
+  interaction network, highlighting the proteins that may play a crucial role in AD.
+article_title: Investigating the effects of Ginkgo biloba leaf extract on cognitive
+  function in Alzheimer's disease.
+citation: Cheng Zhu, et al. CNS Neurosci Ther. 2024 Sep;30(9):e14914.
+
+doi: 10.1111/cns.14914
+journal_title: CNS Neuroscience & Therapeutics
+journal_nlm_ta: CNS Neurosci Ther
+publisher_name: John Wiley and Sons Inc.
+
+keywords:
+- Alzheimer's disease
+- Ginkgo biloba leaf extract
+- kaempferol
+- luteolin
+- PI3K/AKT/NF‐κB signaling pathway
+- quercetin
+
+---

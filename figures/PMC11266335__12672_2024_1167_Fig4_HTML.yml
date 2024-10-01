@@ -1,0 +1,28 @@
+---
+pmcid: PMC11266335
+image_filename: 12672_2024_1167_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC11266335/figure/Fig4/
+number: Fig. 4
+figure_title: ''
+caption: Identification of HUB genes by the STRING database. A PPI network of overlapping
+  DEGs. B The most significant 15 node degree genes calculated by the cytoHubba app
+  in Cytoscape. IGF1, CDKN2A, BIRC5, and SPP1 were selected as the HUB genes. The
+  node color intensities representing different genes correlate with the degree of
+  expression values
+article_title: Autophagy-related biomarkers in hepatocellular carcinoma and their
+  relationship with immune infiltration.
+citation: Tingting Li, et al. Discov Oncol. 2024 Dec;15:299.
+
+doi: 10.1007/s12672-024-01167-x
+journal_title: Discover Oncology
+journal_nlm_ta: Discov Oncol
+publisher_name: Springer US
+
+keywords:
+- Autophagy
+- Hepatocellular carcinoma
+- Information biology
+- Immune infiltration
+- Prognosis
+
+---

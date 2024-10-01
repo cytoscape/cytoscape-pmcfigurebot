@@ -1,0 +1,28 @@
+---
+pmcid: PMC11364741
+image_filename: 12672_2024_1233_Fig11_HTML.jpg
+figure_link: /pmc/articles/PMC11364741/figure/Fig11/
+number: Fig. 11
+figure_title: ''
+caption: We applied PPI to filter core genes and conducted single-gene survival analysis.
+  We collected protein-protein interaction data from the STRING website (https://string-db.org/)
+  and visualized the topological structure of the PPI network using Cytoscape software
+  (A). We selected the top 10 core genes using the Degree method, with redder color
+  indicating richer interactions with other proteins (B). Additionally, we plotted
+  Kaplan-Meier survival curves for the core genes KIT (C), BLK (D), AP3B1 (E), GAB2
+  (F), CD84 (G), GGA2 (H), GATA2 (I), FUCA1 (J), AP1S3 (K), and PLEKHM1 (L)
+article_title: Construction and analysis of a lysosome-dependent cell death score-based
+  prediction model for non-small cell lung cancer.
+citation: Jiangping Fu, et al. Discov Oncol. 2024 Dec;15:388.
+
+doi: 10.1007/s12672-024-01233-4
+journal_title: Discover Oncology
+journal_nlm_ta: Discov Oncol
+publisher_name: Springer US
+
+keywords:
+- Non-small cell lung cancer
+- Lysosome-dependent cell death
+- Single-cell
+
+---

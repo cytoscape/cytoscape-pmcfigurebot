@@ -1,0 +1,29 @@
+---
+pmcid: PMC11383270
+image_filename: medi-103-e35529-g006.jpg
+figure_link: /pmc/articles/PMC11383270/figure/F5/
+number: Figure 5
+figure_title: ''
+caption: PPI network, which was completed in the Cytoscape and CytoHubba. It consists
+  of 80 nodes, and 2732 edges. The nodes represent the common targets between the
+  URTI-related targets and the predicted Trollius chinensis targets. The edges represent
+  the interaction between the targets. Size of the node and shades of color are proportional
+  to the degree of interaction. The darker the color, the larger the figure, the higher
+  and more significant the score. PPI = protein-protein interaction, URTI = upper
+  respiratory tract infection.
+article_title: Network pharmacology-based study on the mechanism of action of Trollius
+  chinensis capsule in the treatment of upper respiratory tract infection.
+citation: Jun Wu, et al. Medicine (Baltimore). 2024 Sep 6;103(36):e35529.
+
+doi: 10.1097/MD.0000000000035529
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- molecular docking
+- network pharmacology
+- Trollius chinensis
+- upper respiratory tract infection
+
+---

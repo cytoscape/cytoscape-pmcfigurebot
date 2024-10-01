@@ -1,0 +1,30 @@
+---
+pmcid: PMC11431537
+image_filename: foods-13-02984-g007.jpg
+figure_link: /pmc/articles/PMC11431537/figure/foods-13-02984-f007/
+number: Figure 7
+figure_title: ''
+caption: PPI network of identified DEGs affected by SA. The DEGs were imported to
+  the STRING database to form an association network by automatic comparison (A).
+  The PPI network was further analyzed using Cytoscape software, and a diagram of
+  the interactive network is presented (B). A node represents a protein. The node
+  size and color were determined by the degree of DEG interaction. The combined score
+  represents the interaction between nodes. The edge size and color were determined
+  by the combined score. The core gene is marked with the blue dashed circle.
+article_title: Role and Mechanism of Sialic Acid in Alleviating Acute Lung Injury
+  through In Vivo and In Vitro Models.
+citation: Dan Li, et al. Foods. 2024 Sep;13(18):2984.
+
+doi: 10.3390/foods13182984
+journal_title: Foods
+journal_nlm_ta: Foods
+publisher_name: MDPI
+
+keywords:
+- sialic acid
+- acute lung injury
+- transcriptome
+- anti-inflammatory activity
+- anti-oxidant effect
+
+---

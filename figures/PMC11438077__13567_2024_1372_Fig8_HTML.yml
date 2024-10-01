@@ -1,0 +1,27 @@
+---
+pmcid: PMC11438077
+image_filename: 13567_2024_1372_Fig8_HTML.jpg
+figure_link: /pmc/articles/PMC11438077/figure/Fig8/
+number: Figure 8
+figure_title: ''
+caption: Modules (A–D) extracted from the PPI network. The MCODE plug-in in Cytoscape
+  was applied to extract densely connected modules from the PPI network with a degree
+  cut-off of 2, a node score cut-off of 0.2, a K score of 2, and a maximum depth of
+  100. Red and black font represent upregulated and downregulated dif-mRNAs, respectively.
+article_title: Whole-transcriptome analyses of ovine lung microvascular endothelial
+  cells infected with bluetongue virus.
+citation: Shimei Luo, et al. Vet Res. 2024;55:122.
+
+doi: 10.1186/s13567-024-01372-0
+journal_title: Veterinary Research
+journal_nlm_ta: Vet Res
+publisher_name: BioMed Central
+
+keywords:
+- Bluetongue virus
+- ovine lung microvascular endothelial cells
+- ECM
+- type I interferon
+- protein‒protein interaction network
+
+---

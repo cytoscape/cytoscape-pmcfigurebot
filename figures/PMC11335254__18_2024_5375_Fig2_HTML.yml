@@ -1,0 +1,38 @@
+---
+pmcid: PMC11335254
+image_filename: 18_2024_5375_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC11335254/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: Eight differential genes were selected as potential pathogenic genes for
+  COPD. A 23 overlapping genes were identified at the intersection of the negatively
+  correlated gene set, and seven overlapping genes were found in the positively correlated
+  gene set. B Display of the enrichment results for Molecular Function (MF), Biological
+  Process (BP), Reactome, and KEGG pathways of 30 overlapping genes, with p-values
+  represented as log10 values. C Schematic representation of the PPI network of RRA
+  genes according to the 30 overlapping genes. Top 15 hub genes screened by Cytobubba
+  plugin with Cytoscape according to the PPI network. D Gene selection by the LASSO
+  regression according to the occurrence of COPD in GSE47460. E Eight overlapping
+  genes were identified after intersecting the results from five machine learning
+  methods (SVM-RFE, LASSO Model, Ridge Regression, Elastic Net, and Random Forest
+  Model). F The coefficient values of the 8 genes from the LASSO Model, Ridge Regression,
+  Elastic Net, and Random Forest Model results. G The expression of 8 overlapping
+  genes in GSE47460 (left) and GSE125521 (right). Data are expressed as mean ± SD.
+  P values shown in charts determined by a two-tailed Mann–Whitney test (G)
+article_title: The influence of CLEC5A on early macrophage-mediated inflammation in
+  COPD progression.
+citation: Qingyang Li, et al. Cell Mol Life Sci. 2024 Dec;81(1):330.
+
+doi: 10.1007/s00018-024-05375-0
+journal_title: 'Cellular and Molecular Life Sciences: CMLS'
+journal_nlm_ta: Cell Mol Life Sci
+publisher_name: Springer International Publishing
+
+keywords:
+- Chronic obstructive pulmonary disease
+- CLEC5A
+- Macrophages
+- ScRNA-seq
+- Mendelian randomization
+
+---
