@@ -1,0 +1,27 @@
+---
+pmcid: PMC11521037
+image_filename: medi-103-e40134-g006.jpg
+figure_link: /pmc/articles/PMC11521037/figure/F6/
+number: Figure 6
+figure_title: ''
+caption: PPI network diagrams of (A) down-regulated DEGs; (B) subnetworks; and (C)
+  hub genes using the Cytoscape software. DEGs = differentially expressed genes, PPI
+  = protein–protein interaction.
+article_title: Unveiling novel prognostic biomarkers and therapeutic targets for HBV-associated
+  hepatocellular carcinoma through integrated bioinformatic analysis.
+citation: Xue Ren, et al. Medicine (Baltimore). 2024 Oct 25;103(43):e40134.
+
+doi: 10.1097/MD.0000000000040134
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- DEGs
+- HBV-associated HCC
+- integrated bioinformatic analysis
+- pathway enrichment
+- prognostic biomarkers
+- therapeutic targets
+
+---

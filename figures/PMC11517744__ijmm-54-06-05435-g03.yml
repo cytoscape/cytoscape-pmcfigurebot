@@ -1,0 +1,34 @@
+---
+pmcid: PMC11517744
+image_filename: ijmm-54-06-05435-g03.jpg
+figure_link: /pmc/articles/PMC11517744/figure/f2-ijmm-54-06-05435/
+number: Figure 2
+figure_title: ''
+caption: CCL5 plays a critical role in several types of cancers, and its related functions
+  mainly enriched in metastasis and immunology. (A) Pan-cancer analysis of CCL5 by
+  TIMER 2.0, upregulated or downregulated genes in the tumors were compared with normal
+  tissues for each cancer type, as displayed in gray columns when normal data were
+  available; red dots indicate tumor tissue, blue dots indicate normal tissue, purple
+  dots indicate metastasis tumor tissue, *P<0.05; **P<0.01; ***P<0.001; (B) GO enrichment
+  analysis; (C) KEGG pathway analysis; (D) PPI analysis. PPI network for all the overlapping
+  DEGs was constructed and followed by module analysis using the MCODE plugin on the
+  Cytoscape (v. 3.9.0) platform. Modules with a red border are significant modules.
+  The size of circles reflects the degree of connectivity. CCL5, chemokine (C-C motif)
+  ligand 5; PPI, protein-protein interaction; GO, Gene Ontology; KEGG, Kyoto Encyclopedia
+  or Genes and Genomes; DEGs, differentially expressed genes.
+article_title: Downregulation of chemokine (C-C motif) ligand 5 induced by a novel
+  8-hydroxyquinoline derivative (91b1) suppresses tumor invasiveness in esophageal
+  carcinoma.
+citation: Johnny Cheuk-On Tang, et al. Int J Mol Med. 2024 Dec;54(6):111.
+
+doi: 10.3892/ijmm.2024.5435
+journal_title: International Journal of Molecular Medicine
+journal_nlm_ta: Int J Mol Med
+publisher_name: D.A. Spandidos
+
+keywords:
+- esophageal squamous cell carcinoma
+- chemokine (C-C motif) ligand 5
+- quinoline derivatives
+
+---

@@ -1,0 +1,27 @@
+---
+pmcid: PMC11460913
+image_filename: medi-103-e40010-g003.jpg
+figure_link: /pmc/articles/PMC11460913/figure/F3/
+number: Figure 3
+figure_title: ''
+caption: '(A) PPI protein interaction network, number of nodes: 197, number of edges:
+  838; (B) Visualization via Cytoscape, where the redder the color, the larger the
+  font and the circle, the greater the degree; (C) Use the 3 algorithms of Cyto Hubba
+  plug-in to rank, the more red the color indicates the higher the score; (D) Presents
+  Venn diagrams of the top 10 core genes ranked by 3 algorithms.'
+article_title: The mechanism of quercetin in treating intracerebral hemorrhage was
+  investigated by network pharmacology and molecular docking.
+citation: Zi-You Zhang, et al. Medicine (Baltimore). 2024 Oct 4;103(40):e40010.
+
+doi: 10.1097/MD.0000000000040010
+journal_title: Medicine
+journal_nlm_ta: Medicine (Baltimore)
+publisher_name: Lippincott Williams & Wilkins
+
+keywords:
+- intracerebral hemorrhage
+- network pharmacology
+- neuroinflammation
+- quercetin
+
+---

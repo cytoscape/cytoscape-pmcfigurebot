@@ -1,0 +1,32 @@
+---
+pmcid: PMC11519448
+image_filename: 41598_2024_75240_Fig2_HTML.jpg
+figure_link: /pmc/articles/PMC11519448/figure/Fig2/
+number: Fig. 2
+figure_title: ''
+caption: Protein-protein interaction (PPI) network and Hub gene analysis. (A) Venn
+  diagram of the intersection relationship of target between bioactive compounds from
+  GG and GPCRs-related cancer. (B) PPI network performed by STRING database, composed
+  of 270 common target networks. (C) PPI network of the top 10 hub genes, analyzed
+  by Cytoscape plugin cytoHubba.
+article_title: Mechanistic exploration of bioactive constituents in Gnetum gnemon
+  for GPCR-related cancer treatment through network pharmacology and molecular docking.
+citation: Moragot Chatatikun, et al. Sci Rep. 2024;14:25738.
+
+doi: 10.1038/s41598-024-75240-4
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- GPCRs
+- Cancer
+- ADME
+- Network pharmacology
+- Molecular docking
+- Drug discovery
+- Computational biology and bioinformatics
+- Gene ontology
+- Virtual drug screening
+
+---

@@ -1,0 +1,26 @@
+---
+pmcid: PMC11515200
+image_filename: 40001_2024_2120_Fig4_HTML.jpg
+figure_link: /pmc/articles/PMC11515200/figure/Fig4/
+number: Fig. 4
+figure_title: ''
+caption: Screening the key EP-DEGs via the PPI network. A PPI network constructed
+  using Cytoscape, with network nodes representing proteins. Top ten EP-DEGs obtained
+  using the MCC (B), MNC (C), and Degree (D) methods
+article_title: Identification and validation of key extracellular proteins as the
+  potential biomarkers in diabetic nephropathy.
+citation: Wei Pan, et al. Eur J Med Res. 2024;29:517.
+
+doi: 10.1186/s40001-024-02120-y
+journal_title: European Journal of Medical Research
+journal_nlm_ta: Eur J Med Res
+publisher_name: BioMed Central
+
+keywords:
+- TNF
+- Extracellular matrix
+- Dendritic cell
+- Diabetic nephropathy
+- Glycosaminoglycan degradation
+
+---
