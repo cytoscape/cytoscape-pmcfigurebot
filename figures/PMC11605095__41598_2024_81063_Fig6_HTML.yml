@@ -1,0 +1,26 @@
+---
+pmcid: PMC11605095
+image_filename: 41598_2024_81063_Fig6_HTML.jpg
+figure_link: /pmc/articles/PMC11605095/figure/Fig6/
+number: Fig. 6
+figure_title: ''
+caption: Key targets of SANG in the treatment of CA. (A) Describes the construction
+  of a PPI network utilizing the String 12.0 database, setting a minimum interaction
+  score threshold of 0.7 to ensure high confidence. After removing isolated nodes
+  from the network, we obtained a PPI network consisting of 35 therapeutic targets
+  of SANG effective against CA. (B-G) Illustrates the top 6 key targets identified
+  by six distinct algorithms namely MCC, Degree, EPC, EcCentricity, Closeness, and
+  Betweenness, utilizing Cytoscape 3.10.0 software. (H) The UpSet plot elucidates
+  the overlapping relationships among the top 6 targets chosen by the aforementioned
+  six algorithms.
+article_title: Sanguinarine identified as a natural dual inhibitor of AURKA and CDK2
+  through network pharmacology and bioinformatics approaches.
+citation: Xiang Li, et al. Sci Rep. 2024;14:29608.
+
+doi: ''
+journal_title: ''
+journal_nlm_ta: ''
+publisher_name: ''
+
+keywords:
+---

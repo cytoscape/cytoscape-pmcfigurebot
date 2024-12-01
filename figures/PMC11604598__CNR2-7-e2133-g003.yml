@@ -1,0 +1,24 @@
+---
+pmcid: PMC11604598
+image_filename: CNR2-7-e2133-g003.jpg
+figure_link: /pmc/articles/PMC11604598/figure/cnr22133-fig-0002/
+number: FIGURE 2
+figure_title: ''
+caption: Protein–protein interaction (PPI) network and clusters for dynamin 2 (DNM2)
+  obtained from the STRING tool and virtualized through Cytoscape software. (A) PPI
+  network analysis by the STRING database revealed the interactions of DNM2 with other
+  genes with the highest degree of connectivity (confidence score >0.9). The network
+  includes 43 nodes and 159 edges of PPI. (B) The first cluster subnetwork was recognized
+  from the PPI network using Cytoscape with the help of the MCODE plugin. The cluster
+  includes 13 nodes and 29 edges.
+article_title: 'Nuclear Expression of Dynamin 2 Is Associated With Tumor Aggressiveness
+  in Bladder Cancer Patients: A Bioinformatics and Experimental Approach.'
+citation: Mahdieh Razmi, et al. Cancer Rep (Hoboken). 2024 Dec;7(12):e2133.
+
+doi: ''
+journal_title: ''
+journal_nlm_ta: ''
+publisher_name: ''
+
+keywords:
+---

@@ -1,0 +1,31 @@
+---
+pmcid: PMC11599856
+image_filename: fonc-14-1442221-g003.jpg
+figure_link: /pmc/articles/PMC11599856/figure/f3/
+number: Figure 3
+figure_title: ''
+caption: PPI network construction and module analysis. The PPI network of DEGs was
+  constructed in Cytoscape. The most significant module was obtained by MCODE plug-in.
+  (A) module score:10; (B) module score:8.6. (C) PPI network for the top 10 hub genes
+  analyzed by cytoHubba. (D) The cohesive regulatory interaction network of DEGs-TFs
+  obtained from the NetworkAnalyst. The square nodes represented TFs, and gene symbols
+  interact with TFs as circle nodes. (E) qRT-PCR was performed to detect the levels
+  of hub genes in cell model. Results were represented as mean ± SEM (n = 6, *P <
+  0.05, **P < 0.01, ***P < 0.001, or NS).
+article_title: Common molecular basis for MASH and hepatitis C revealed via systems
+  biology approach.
+citation: Yongwei Cheng, et al. Front Oncol. 2024;14:1442221.
+
+doi: 10.3389/fonc.2024.1442221
+journal_title: Frontiers in Oncology
+journal_nlm_ta: Front Oncol
+publisher_name: Frontiers Media S.A.
+
+keywords:
+- metabolic dysfunction-associated steatohepatitis (MASH)
+- hepatitis C
+- bioinformatics analysis
+- differentially expressed genes
+- Budesonide
+
+---

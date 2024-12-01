@@ -1,0 +1,36 @@
+---
+pmcid: PMC11599917
+image_filename: 41598_2024_76415_Fig5_HTML.jpg
+figure_link: /pmc/articles/PMC11599917/figure/Fig5/
+number: Fig. 5
+figure_title: ''
+caption: Subnetwork analysis of miR-1, miR-133a and miR-29b targets. (a) Subnetwork
+  of the MTI network in Fig.  of miR-1, miR-133a, and miR-29b and their targets which
+  are also upregulated in CLTI was created using Cytoscape. miRNAs are represented
+  by grey nodes and mRNA targets are represented by yellow nodes; edges represent
+  validated MTI from the miRTarBase database. N = total miRNA targets. (b) Venn diagram
+  representation of miR-1, miR-133a and miR-29b shared targets. (c) The hub nodes
+  of the PPI network in Fig  were identified in Cytoscape using CytoHubba and the
+  MCC topological analysis method. The top 20 hub nodes were used to create a subnetwork.
+  Node colour indicates hub node essentiality, red indicates greater hub node rank
+  and yellow indicates lesser hub node rank. (d) Venn diagram representation of pro-fibrotic
+  transcripts selected from the top 20 hub nodes which are targeted by miR-1, miR-133a
+  and/or miR-29b.
+article_title: miR-1, miR-133a, miR-29b and skeletal muscle fibrosis in chronic limb-threatening
+  ischaemia.
+citation: Alan J. Keane, et al. Sci Rep. 2024;14:29393.
+
+doi: 10.1038/s41598-024-76415-9
+journal_title: Scientific Reports
+journal_nlm_ta: Sci Rep
+publisher_name: Nature Publishing Group UK
+
+keywords:
+- Chronic limb-threatening ischaemia
+- Fibrosis
+- Muscle regeneration
+- MicroRNAs
+- Preclinical research
+- Translational research
+
+---
